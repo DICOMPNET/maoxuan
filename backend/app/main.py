@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
-from app.api import articles, book, entities, events, graph, ideas, map, search
+from app.api import articles, book, entities, events, graph, ideas, map, screen, search
 
 app = FastAPI(title="MaoXuan Knowledge Timeline API")
 
@@ -20,6 +20,7 @@ app.include_router(ideas.router)
 app.include_router(entities.router)
 app.include_router(graph.router)
 app.include_router(map.router)
+app.include_router(screen.router)
 app.include_router(search.router)
 
 

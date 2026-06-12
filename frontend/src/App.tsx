@@ -1,13 +1,32 @@
-import { NavLink, Route, Routes } from "react-router-dom";
+import { lazy, Suspense, type ReactNode } from "react";
+import { NavLink, Route, Routes, useLocation } from "react-router-dom";
 
-import ArticlePage from "./pages/ArticlePage";
-import DisclaimerPage from "./pages/DisclaimerPage";
-import GraphPage from "./pages/GraphPage";
 import GuidePage from "./pages/GuidePage";
-import IssuePage from "./pages/IssuePage";
-import MapPage from "./pages/MapPage";
-import SearchPage from "./pages/SearchPage";
-import TimelinePage from "./pages/TimelinePage";
+
+const ArticlePage = lazy(() => import("./pages/ArticlePage"));
+const DisclaimerPage = lazy(() => import("./pages/DisclaimerPage"));
+const GraphPage = lazy(() => import("./pages/GraphPage"));
+const IssuePage = lazy(() => import("./pages/IssuePage"));
+const MapPage = lazy(() => import("./pages/MapPage"));
+const SearchPage = lazy(() => import("./pages/SearchPage"));
+const ScreenPage = lazy(() => import("./pages/ScreenPage"));
+const TimelinePage = lazy(() => import("./pages/TimelinePage"));
+
+function ScreenRoute() {
+  return (
+    <Suspense fallback={<div className="screen-page screen-state">正在装载知识大屏...</div>}>
+      <ScreenPage />
+    </Suspense>
+  );
+}
+
+function WorkspaceRoute({ children }: { children: ReactNode }) {
+  return (
+    <Suspense fallback={<div className="state-panel route-loading">正在加载档案模块...</div>}>
+      {children}
+    </Suspense>
+  );
+}
 
 const navItems = [
   { to: "/", label: "导读", code: "导" },
@@ -20,6 +39,16 @@ const navItems = [
 ];
 
 export default function App() {
+  const location = useLocation();
+
+  if (location.pathname.startsWith("/screen")) {
+    return (
+      <Routes>
+        <Route path="/screen" element={<ScreenRoute />} />
+      </Routes>
+    );
+  }
+
   return (
     <div className="app-shell">
       <aside className="side-nav">
@@ -52,22 +81,28 @@ export default function App() {
             <div className="eyebrow">档案工作台</div>
             <div className="topbar-title">《毛泽东选集》知识可视化系统</div>
           </div>
-          <NavLink className="issue-shortcut" to="/issue">
-            提交问题
-          </NavLink>
+          <div className="topbar-actions">
+            <NavLink className="screen-shortcut" to="/screen">
+              展示大屏
+            </NavLink>
+            <NavLink className="issue-shortcut" to="/issue">
+              提交问题
+            </NavLink>
+          </div>
         </header>
         <main className="main-content">
           <Routes>
             <Route path="/" element={<GuidePage />} />
             <Route path="/guide" element={<GuidePage />} />
-            <Route path="/timeline" element={<TimelinePage />} />
-            <Route path="/map" element={<MapPage />} />
-            <Route path="/graph" element={<GraphPage />} />
-            <Route path="/articles" element={<ArticlePage />} />
-            <Route path="/articles/:id" element={<ArticlePage />} />
-            <Route path="/search" element={<SearchPage />} />
-            <Route path="/issue" element={<IssuePage />} />
-            <Route path="/disclaimer" element={<DisclaimerPage />} />
+            <Route path="/timeline" element={<WorkspaceRoute><TimelinePage /></WorkspaceRoute>} />
+            <Route path="/map" element={<WorkspaceRoute><MapPage /></WorkspaceRoute>} />
+            <Route path="/graph" element={<WorkspaceRoute><GraphPage /></WorkspaceRoute>} />
+            <Route path="/articles" element={<WorkspaceRoute><ArticlePage /></WorkspaceRoute>} />
+            <Route path="/articles/:id" element={<WorkspaceRoute><ArticlePage /></WorkspaceRoute>} />
+            <Route path="/search" element={<WorkspaceRoute><SearchPage /></WorkspaceRoute>} />
+            <Route path="/screen" element={<ScreenRoute />} />
+            <Route path="/issue" element={<WorkspaceRoute><IssuePage /></WorkspaceRoute>} />
+            <Route path="/disclaimer" element={<WorkspaceRoute><DisclaimerPage /></WorkspaceRoute>} />
           </Routes>
         </main>
       </div>

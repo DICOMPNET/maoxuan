@@ -8,6 +8,7 @@ import type {
   Idea,
   MapLocation,
   SearchResults,
+  ScreenOverview,
 } from "../types";
 
 const API_BASE_URL = import.meta.env.VITE_API_BASE_URL ?? "http://localhost:8000";
@@ -48,4 +49,5 @@ export const api = {
   ideas: () => getJson<Idea[]>("/api/ideas"),
   entities: () => getJson<Entity[]>("/api/entities"),
   search: (q: string) => getJson<SearchResults>(`/api/search?q=${encodeURIComponent(q)}`),
+  screenOverview: () => getJson<ScreenOverview>("/api/screen/overview"),
 };

@@ -1,7 +1,7 @@
-import * as echarts from "echarts";
-import ReactECharts from "echarts-for-react";
+import ReactEChartsCore from "echarts-for-react/lib/core";
 import { ChinaData } from "china-map-geojson";
 
+import { echarts } from "./chartRegistry";
 import type { MapLocation } from "../types";
 
 echarts.registerMap("china", ChinaData as unknown as Parameters<typeof echarts.registerMap>[1]);
@@ -10,11 +10,14 @@ export default function MapView({
   locations,
   selectedLocationName,
   onSelect,
+  variant = "default",
 }: {
   locations: MapLocation[];
   selectedLocationName?: string;
   onSelect: (location: MapLocation) => void;
+  variant?: "default" | "screen";
 }) {
+  const isScreen = variant === "screen";
   const selectedLocation = locations.find((location) => location.name === selectedLocationName);
   const eventCount = locations.reduce((total, location) => total + location.event_count, 0);
   const provinceData = buildProvinceData(locations);
@@ -55,7 +58,7 @@ export default function MapView({
       textStyle: { color: "#667068", fontSize: 11 },
       calculable: false,
       inRange: {
-        color: ["#e8e3d7", "#8aab9e", "#2d6259"],
+        color: isScreen ? ["#2a1612", "#8f332b", "#d34a38"] : ["#e8e3d7", "#8aab9e", "#2d6259"],
       },
     },
     geo: {
@@ -66,17 +69,17 @@ export default function MapView({
       bottom: 12,
       label: {
         show: true,
-        color: "#8e9890",
+        color: isScreen ? "#9f7f70" : "#8e9890",
         fontSize: 9,
       },
       itemStyle: {
-        areaColor: "#e2ddd4",
-        borderColor: "#f3efe6",
+        areaColor: isScreen ? "#211412" : "#e2ddd4",
+        borderColor: isScreen ? "#4d221d" : "#f3efe6",
         borderWidth: 0.8,
       },
       emphasis: {
         label: { color: "#1e2620" },
-        itemStyle: { areaColor: "#c8d5c2" },
+        itemStyle: { areaColor: isScreen ? "#7a2b25" : "#c8d5c2" },
       },
     },
     series: [
@@ -103,7 +106,7 @@ export default function MapView({
         },
         itemStyle: {
           color: (params: { name: string }) =>
-            params.name === selectedLocationName ? "#c4a35a" : "#6b3a2e",
+            params.name === selectedLocationName ? (isScreen ? "#d34a38" : "#c4a35a") : "#6b3a2e",
           borderColor: "#f3efe6",
           borderWidth: 2,
         },
@@ -123,7 +126,8 @@ export default function MapView({
           <span>{eventCount} 个事件</span>
         </div>
       </div>
-      <ReactECharts
+      <ReactEChartsCore
+        echarts={echarts}
         option={option}
         className="responsive-chart map-chart"
         style={{ height: "100%" }}

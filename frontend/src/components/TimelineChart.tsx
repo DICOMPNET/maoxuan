@@ -1,16 +1,19 @@
 import { useMemo } from "react";
-import ReactECharts from "echarts-for-react";
+import ReactEChartsCore from "echarts-for-react/lib/core";
 
+import { echarts } from "./chartRegistry";
 import type { Event } from "../types";
 
 export default function TimelineChart({
   events,
   selectedEventId,
   onSelect,
+  variant = "default",
 }: {
   events: Event[];
   selectedEventId?: number;
   onSelect: (event: Event) => void;
+  variant?: "default" | "screen";
 }) {
   const selectedEvent = events.find((event) => event.id === selectedEventId);
   const datedEvents = useMemo(
@@ -25,6 +28,11 @@ export default function TimelineChart({
   const startDate = datedEvents[0]?.start_date ?? "未标注";
   const endDate = datedEvents[datedEvents.length - 1]?.start_date ?? "未标注";
   const maxImportance = Math.max(...events.map((event) => event.importance), 1);
+  const isScreen = variant === "screen";
+  const selectedColor = isScreen ? "#d34a38" : "#c4a35a";
+  const primaryColor = isScreen ? "#a9362d" : "#8f5f36";
+  const secondaryColor = isScreen ? "#c8a45a" : "#4a6e67";
+  const textColor = isScreen ? "#e0c8b7" : "#56635b";
 
   const dateRange = useMemo(() => {
     const timestamps = datedEvents
@@ -62,24 +70,24 @@ export default function TimelineChart({
           symbol: isSelected ? "pin" : "circle",
           symbolSize: isSelected ? 28 : 10 + event.importance * 4,
           itemStyle: {
-            color: isSelected ? "#c4a35a" : event.importance >= 4 ? "#8f5f36" : "#4a6e67",
+            color: isSelected ? selectedColor : event.importance >= 4 ? primaryColor : secondaryColor,
             borderColor: "#f7f1e4",
             borderWidth: isSelected ? 3 : 1,
             shadowBlur: isSelected ? 14 : 0,
-            shadowColor: "rgba(196,163,90,0.45)",
+            shadowColor: isScreen ? "rgba(211,74,56,0.45)" : "rgba(196,163,90,0.45)",
           },
           label: {
             show: isSelected || event.importance >= Math.min(maxImportance, 4),
             formatter: event.title.length > 12 ? `${event.title.slice(0, 12)}...` : event.title,
             position: lane === 0 ? "bottom" : "top",
             distance: 8,
-            color: isSelected ? "#1e2620" : "#56635b",
+            color: isSelected ? (isScreen ? "#fff1dd" : "#1e2620") : textColor,
             fontSize: 11,
             fontWeight: isSelected ? 700 : 500,
           },
         };
       }),
-    [datedEvents, maxImportance, selectedEventId],
+    [datedEvents, isScreen, maxImportance, primaryColor, secondaryColor, selectedColor, selectedEventId, textColor],
   );
 
   const option = {
@@ -195,7 +203,8 @@ export default function TimelineChart({
           <span>{startDate} / {endDate}</span>
         </div>
       </div>
-      <ReactECharts
+      <ReactEChartsCore
+        echarts={echarts}
         option={option}
         className="responsive-chart timeline-chart"
         style={{ height: "100%" }}

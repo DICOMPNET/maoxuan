@@ -78,3 +78,22 @@ export type MapLocation = {
   end_date?: string | null;
   events: Event[];
 };
+
+export type ScreenStats = {
+  articles: number;
+  events: number;
+  ideas: number;
+  entities: number;
+  relations: number;
+  locations: number;
+};
+
+export type ScreenOverview = {
+  stats: ScreenStats;
+  key_events: Event[];
+  map_locations: MapLocation[];
+  graph: {
+    nodes: GraphNode[];
+    edges: GraphEdge[];
+  };
+};

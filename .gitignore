@@ -5,6 +5,8 @@
 __pycache__/
 *.py[cod]
 .venv/
+backend/uv.lock
+backend/maoxuan_knowledge_backend.egg-info/
 
 # Backend runtime data
 backend/data/*.db

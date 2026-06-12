@@ -1,5 +1,6 @@
-import ReactECharts from "echarts-for-react";
+import ReactEChartsCore from "echarts-for-react/lib/core";
 
+import { echarts } from "./chartRegistry";
 import type { GraphEdge, GraphNode } from "../types";
 
 const categories = [
@@ -20,13 +21,22 @@ export default function GraphView({
   graph,
   selectedNodeId,
   onSelect,
+  className,
+  height = 620,
+  variant = "default",
 }: {
   graph: { nodes: GraphNode[]; edges: GraphEdge[] };
   selectedNodeId?: string;
   onSelect: (node: GraphNode) => void;
+  className?: string;
+  height?: number | string;
+  variant?: "default" | "screen";
 }) {
+  const isScreen = variant === "screen";
   const option = {
-    color: ["#3d6b63", "#c4a35a", "#8f4b35", "#4a5e6a"],
+    color: isScreen
+      ? ["#bd372d", "#c8a45a", "#8f332b", "#6b4a42"]
+      : ["#3d6b63", "#c4a35a", "#8f4b35", "#4a5e6a"],
     tooltip: {
       backgroundColor: "#141d21",
       borderColor: "#2a3a40",
@@ -52,7 +62,7 @@ export default function GraphView({
         force: { repulsion: 120, edgeLength: 80 },
         label: { show: true, position: "right", formatter: "{b}", fontSize: 11 },
         lineStyle: {
-          color: "#9f8f72",
+          color: isScreen ? "#8f5040" : "#9f8f72",
           opacity: 0.72,
           width: 1.4,
           curveness: 0.12,
@@ -71,7 +81,7 @@ export default function GraphView({
           symbol: symbols[node.type] ?? "circle",
           symbolSize: node.id === selectedNodeId ? 58 : node.type === "article" ? 46 : 32,
           itemStyle: {
-            borderColor: node.id === selectedNodeId ? "#c4a35a" : "#f3efe6",
+            borderColor: node.id === selectedNodeId ? (isScreen ? "#d34a38" : "#c4a35a") : "#f3efe6",
             borderWidth: node.id === selectedNodeId ? 4 : 1,
           },
         })),
@@ -88,10 +98,11 @@ export default function GraphView({
   };
 
   return (
-    <section className="panel" style={{ background: "var(--color-surface-inset)" }}>
-      <ReactECharts
+    <section className={className ? `panel ${className}` : "panel"} style={{ background: "var(--color-surface-inset)" }}>
+      <ReactEChartsCore
+        echarts={echarts}
         option={option}
-        style={{ height: 620 }}
+        style={{ height }}
         onEvents={{
           click: (params: { dataType?: string; data?: { id?: string } }) => {
             if (params.dataType !== "node" || !params.data?.id) return;

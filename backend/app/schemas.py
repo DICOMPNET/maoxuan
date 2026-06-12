@@ -121,3 +121,19 @@ class MapLocation(BaseModel):
     start_date: Optional[date] = None
     end_date: Optional[date] = None
     events: list[EventRead]
+
+
+class ScreenStats(BaseModel):
+    articles: int
+    events: int
+    ideas: int
+    entities: int
+    relations: int
+    locations: int
+
+
+class ScreenOverview(BaseModel):
+    stats: ScreenStats
+    key_events: list[EventRead]
+    map_locations: list[MapLocation]
+    graph: GraphRead
