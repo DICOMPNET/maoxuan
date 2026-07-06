@@ -1,0 +1,320 @@
+{
+  "article": {
+    "id": 155,
+    "title": "别了，司徒雷登",
+    "volume": "第四卷",
+    "date_text": "一九四九年八月十八日",
+    "start_date": "1949-08-18",
+    "end_date": "1949-08-18",
+    "source": null
+  },
+  "events": [
+    {
+      "id": 15511,
+      "article_id": 155,
+      "title": "未到达的日子——八月五日发表",
+      "description": "别了，司徒雷登（一九四九年八月十八日）美国的白皮书，选择在司徒雷登⑴业已离开南京、快到华盛顿、但是尚未到达的日子——八月五日发表，是可以理解的，因为他是美国侵略政策彻底失败的象征。",
+      "date_text": "一九四九年八月十八日",
+      "start_date": "1949-08-18",
+      "end_date": "1949-08-18",
+      "location": "美国",
+      "importance": 4,
+      "quote": "别了，司徒雷登（一九四九年八月十八日）美国的白皮书，选择在司徒雷登⑴业已离开南京、快到华盛顿、但是尚未到达的日子——八月五日发表，是可以理解的，因为他是美国侵略政策彻底失败的象征。"
+    },
+    {
+      "id": 15512,
+      "article_id": 155,
+      "title": "一九四九年四月南京解放",
+      "description": "一九四九年四月南京解放后，司徒雷登留在南京观望。",
+      "date_text": "一九四九年四月",
+      "start_date": "1949-04-01",
+      "end_date": "1949-04-01",
+      "location": "南京",
+      "importance": 4,
+      "quote": "一九四九年四月南京解放后，司徒雷登留在南京观望。"
+    },
+    {
+      "id": 15513,
+      "article_id": 155,
+      "title": "青岛等地区，并不断地向解放",
+      "description": "〔2〕一九四五年日本投降以后，以侵略中国领土主权和干涉中国内政为目的的美国军队即在中国登陆，侵驻北平、上海、南京、天津、唐山、开平、秦皇岛、静海、青岛等地区，并不断地向解放区进犯。",
+      "date_text": "一九四五年日",
+      "start_date": "1945-01-01",
+      "end_date": "1945-01-01",
+      "location": "美国",
+      "importance": 3,
+      "quote": "〔2〕一九四五年日本投降以后，以侵略中国领土主权和干涉中国内政为目的的美国军队即在中国登陆，侵驻北平、上海、南京、天津、唐山、开平、秦皇岛、静海、青岛等地区，并不断地向解放区进犯。"
+    },
+    {
+      "id": 15514,
+      "article_id": 155,
+      "title": "驻天津美军配合国民党军队进攻",
+      "description": "本文中所举的安平镇事件，是一九四六年七月二十九日驻天津美军配合国民党军队进攻河北省香河县安平镇的事件。",
+      "date_text": "一九四六年七月二十九日",
+      "start_date": "1946-07-29",
+      "end_date": "1946-07-29",
+      "location": null,
+      "importance": 3,
+      "quote": "本文中所举的安平镇事件，是一九四六年七月二十九日驻天津美军配合国民党军队进攻河北省香河县安平镇的事件。"
+    },
+    {
+      "id": 15515,
+      "article_id": 155,
+      "title": "长春和九台间的和气堡人民解放",
+      "description": "九台事件，是一九四七年三月一日美军向长春和九台间的和气堡人民解放军阵地进行军事侦察的事件。",
+      "date_text": "一九四七年三月一日",
+      "start_date": "1947-03-01",
+      "end_date": "1947-03-01",
+      "location": null,
+      "importance": 3,
+      "quote": "九台事件，是一九四七年三月一日美军向长春和九台间的和气堡人民解放军阵地进行军事侦察的事件。"
+    },
+    {
+      "id": 15516,
+      "article_id": 155,
+      "title": "腐败，积极参加争取民主的斗争",
+      "description": "一九四三年以后，由于痛恨国民党政府的反动和腐败，积极参加争取民主的斗争。",
+      "date_text": "一九四三年",
+      "start_date": "1943-01-01",
+      "end_date": "1943-01-01",
+      "location": null,
+      "importance": 3,
+      "quote": "一九四三年以后，由于痛恨国民党政府的反动和腐败，积极参加争取民主的斗争。"
+    },
+    {
+      "id": 15517,
+      "article_id": 155,
+      "title": "和拒绝领取“美援”面粉的宣言",
+      "description": "一九四八年六月签名于抗议美国扶植日本和拒绝领取“美援”面粉的宣言。",
+      "date_text": "一九四八年六月",
+      "start_date": "1948-06-01",
+      "end_date": "1948-06-01",
+      "location": "美国",
+      "importance": 3,
+      "quote": "一九四八年六月签名于抗议美国扶植日本和拒绝领取“美援”面粉的宣言。"
+    }
+  ],
+  "ideas": [
+    {
+      "id": 15551,
+      "article_id": 155,
+      "name": "阶级分析",
+      "summary": "文章围绕“别了，司徒雷登”展开，强调阶级分析在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "阶级分析",
+      "quote": "美国也有“民主政治”，可惜只是资产阶级一个阶级的独裁统治的别名。"
+    },
+    {
+      "id": 15552,
+      "article_id": 155,
+      "name": "统一战线",
+      "summary": "文章围绕“别了，司徒雷登”展开，强调统一战线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "统一战线",
+      "quote": "中国还有一部分知识分子和其他人等存有糊涂思想，对美国存有幻想，因此应当对他们进行说服、争取、教育和团结的工作，使他们站到人民方面来，不上帝国主义的当。"
+    },
+    {
+      "id": 15553,
+      "article_id": 155,
+      "name": "人民战争",
+      "summary": "文章围绕“别了，司徒雷登”展开，强调人民战争在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "军事思想",
+      "quote": "美国出钱出枪，蒋介石出人，替美国打仗杀中国人，借以变中国为美国殖民地的战争，组成了美国帝国主义在第二次世界大战以后的世界侵略政策的一个重大的部分。"
+    },
+    {
+      "id": 15554,
+      "article_id": 155,
+      "name": "群众路线",
+      "summary": "文章围绕“别了，司徒雷登”展开，强调群众路线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "在马歇尔系统看来，他只有一个缺点，就是在他代表马歇尔系统的政策在中国当大使的整个时期，恰恰就是这个政策彻底地被中国人民打败了的时期，这个责任可不小。"
+    },
+    {
+      "id": 15555,
+      "article_id": 155,
+      "name": "党的建设",
+      "summary": "文章围绕“别了，司徒雷登”展开，强调党的建设在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "中国还有一部分知识分子和其他人等存有糊涂思想，对美国存有幻想，因此应当对他们进行说服、争取、教育和团结的工作，使他们站到人民方面来，不上帝国主义的当。"
+    },
+    {
+      "id": 15556,
+      "article_id": 155,
+      "name": "土地政策",
+      "summary": "文章围绕“别了，司徒雷登”展开，强调土地政策在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "农民问题",
+      "quote": "除了看见人民解放军一队一队地走过，工人、农民、学生一群一群地起来之外，他还看见了一种现象，就是中国的自由主义者或民主个人主义者们也大群地和工农兵学生等人一道喊口号，讲革命。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "蒋介石",
+      "type": "人物",
+      "description": "国民党主要领导人，在多篇文章中作为政治和军事斗争对象出现。"
+    },
+    {
+      "name": "司徒雷登",
+      "type": "人物",
+      "description": "美国驻华外交人物，在解放战争后期和新中国成立前夕被文章批评。"
+    },
+    {
+      "name": "中国共产党",
+      "type": "组织",
+      "description": "中国革命的领导力量，文章常围绕其路线、政策和组织建设展开。"
+    },
+    {
+      "name": "国民党",
+      "type": "组织",
+      "description": "中国近现代主要政党之一，文章中常作为统一战线对象或批判对象出现。"
+    },
+    {
+      "name": "中国人民解放军",
+      "type": "组织",
+      "description": "中国共产党领导的人民军队，在解放战争和建国后文献中频繁出现。"
+    },
+    {
+      "name": "美帝国主义",
+      "type": "组织",
+      "description": "文章中批判的美国帝国主义势力。"
+    },
+    {
+      "name": "苏联",
+      "type": "地点",
+      "description": "世界上第一个社会主义国家，文章常在国际形势中提及。"
+    },
+    {
+      "name": "美国",
+      "type": "地点",
+      "description": "重要国际力量，在中国革命和国际形势论述中多次出现。"
+    },
+    {
+      "name": "日本",
+      "type": "地点",
+      "description": "侵华战争发动国，在抗日战争文献中频繁出现。"
+    },
+    {
+      "name": "中国",
+      "type": "地点",
+      "description": "文章讨论的革命、战争和建设的主要空间。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 155,
+      "target_type": "Idea",
+      "target_id": 15551,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 155,
+      "target_type": "Idea",
+      "target_id": 15552,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 155,
+      "target_type": "Idea",
+      "target_id": 15553,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 155,
+      "target_type": "Idea",
+      "target_id": 15554,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 155,
+      "target_type": "Idea",
+      "target_id": 15555,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 155,
+      "target_type": "Idea",
+      "target_id": 15556,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 155,
+      "target_type": "Event",
+      "target_id": 15511,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 155,
+      "target_type": "Event",
+      "target_id": 15512,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 155,
+      "target_type": "Event",
+      "target_id": 15513,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 155,
+      "target_type": "Event",
+      "target_id": 15514,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 155,
+      "target_type": "Entity",
+      "target_id": "蒋介石",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 155,
+      "target_type": "Entity",
+      "target_id": "司徒雷登",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 155,
+      "target_type": "Entity",
+      "target_id": "中国共产党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 155,
+      "target_type": "Entity",
+      "target_id": "国民党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 155,
+      "target_type": "Entity",
+      "target_id": "中国人民解放军",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 155,
+      "target_type": "Entity",
+      "target_id": "美帝国主义",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 15551,
+      "target_type": "Entity",
+      "target_id": "蒋介石",
+      "relation_type": "支持"
+    }
+  ]
+}

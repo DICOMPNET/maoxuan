@@ -1,0 +1,308 @@
+{
+  "article": {
+    "id": 105,
+    "title": "迎接中国革命的新高潮",
+    "volume": "第四卷",
+    "date_text": "一九四七年二月一日",
+    "start_date": "1947-02-01",
+    "end_date": "1947-02-01",
+    "source": "这是毛泽东为中共中央起草的对党内的指示。"
+  },
+  "events": [
+    {
+      "id": 10511,
+      "article_id": 105,
+      "title": "者有其田，这是一个伟大的胜利",
+      "description": "各区都有约三分之二的地方执行了中央一九四六年五月四日的指示⑼，解决了土地问题，实现了耕者有其田，这是一个伟大的胜利。",
+      "date_text": "一九四六年五月四日",
+      "start_date": "1946-05-04",
+      "end_date": "1946-05-04",
+      "location": null,
+      "importance": 4,
+      "quote": "各区都有约三分之二的地方执行了中央一九四六年五月四日的指示⑼，解决了土地问题，实现了耕者有其田，这是一个伟大的胜利。"
+    },
+    {
+      "id": 10512,
+      "article_id": 105,
+      "title": "九日在北平爆发的学生爱国运动",
+      "description": "〔3〕指一九三五年十二月九日在北平爆发的学生爱国运动。",
+      "date_text": "一九三五年十二月九日",
+      "start_date": "1935-12-09",
+      "end_date": "1935-12-09",
+      "location": "北平",
+      "importance": 4,
+      "quote": "〔3〕指一九三五年十二月九日在北平爆发的学生爱国运动。"
+    },
+    {
+      "id": 10513,
+      "article_id": 105,
+      "title": "即中国青年党，一九二三年成立",
+      "description": "〔7〕青年党，即中国青年党，一九二三年成立。",
+      "date_text": "一九二三年",
+      "start_date": "1923-01-01",
+      "end_date": "1923-01-01",
+      "location": "中国",
+      "importance": 3,
+      "quote": "〔7〕青年党，即中国青年党，一九二三年成立。"
+    },
+    {
+      "id": 10514,
+      "article_id": 105,
+      "title": "派遣代表到延安进行“和平谈判",
+      "description": "〔8〕一九四七年一月十六日，国民党政府由于它的军事进攻的不断失败和军事形势的日益恶化，为了取得喘息时间，准备再攻，经过美国驻中国大使司徒雷登向中国共产党要求允许派遣代表到延安进行“和平谈判”。",
+      "date_text": "一九四七年一月十六日",
+      "start_date": "1947-01-16",
+      "end_date": "1947-01-16",
+      "location": "美国",
+      "importance": 3,
+      "quote": "〔8〕一九四七年一月十六日，国民党政府由于它的军事进攻的不断失败和军事形势的日益恶化，为了取得喘息时间，准备再攻，经过美国驻中国大使司徒雷登向中国共产党要求允许派遣代表到延安进行“和平谈判”。"
+    },
+    {
+      "id": 10515,
+      "article_id": 105,
+      "title": "废除国民党违背政治协商会议",
+      "description": "中国共产党指出，恢复谈判，必须实现两个最低条件，即（一）废除国民党违背政治协商会议协议制定的伪宪法，（二）国民党军队退出一九四六年一月十三日停战协定生效以后侵占的解放区的一切土地；",
+      "date_text": "一九四六年一月十三日",
+      "start_date": "1946-01-13",
+      "end_date": "1946-01-13",
+      "location": "中国",
+      "importance": 3,
+      "quote": "中国共产党指出，恢复谈判，必须实现两个最低条件，即（一）废除国民党违背政治协商会议协议制定的伪宪法，（二）国民党军队退出一九四六年一月十三日停战协定生效以后侵占的解放区的一切土地；"
+    },
+    {
+      "id": 10516,
+      "article_id": 105,
+      "title": "11〕见本卷《一九四六年解放",
+      "description": "〔11〕见本卷《一九四六年解放区工作的方针》注〔4〕。",
+      "date_text": "一九四六年",
+      "start_date": "1946-01-01",
+      "end_date": "1946-01-01",
+      "location": null,
+      "importance": 3,
+      "quote": "〔11〕见本卷《一九四六年解放区工作的方针》注〔4〕。"
+    }
+  ],
+  "ideas": [
+    {
+      "id": 10551,
+      "article_id": 105,
+      "name": "阶级分析",
+      "summary": "文章围绕“迎接中国革命的新高潮”展开，强调阶级分析在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "阶级分析",
+      "quote": "这里包括工人、农民、城市小资产阶级、民族资产阶级、开明绅士、其他爱国分子、少数民族和海外华侨在内。"
+    },
+    {
+      "id": 10552,
+      "article_id": 105,
+      "name": "统一战线",
+      "summary": "文章围绕“迎接中国革命的新高潮”展开，强调统一战线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "统一战线",
+      "quote": "（六）美蒋的上述反动政策，迫使中国各阶层人民处于团结自救的地位。"
+    },
+    {
+      "id": 10553,
+      "article_id": 105,
+      "name": "人民战争",
+      "summary": "文章围绕“迎接中国革命的新高潮”展开，强调人民战争在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "军事思想",
+      "quote": "去年七月至今年一月的七个月作战，已歼灭蒋介石进犯解放区的正规军五十六个旅，平均每月歼敌八个旅；"
+    },
+    {
+      "id": 10554,
+      "article_id": 105,
+      "name": "群众路线",
+      "summary": "文章围绕“迎接中国革命的新高潮”展开，强调群众路线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "这个新的阶段，即是全国范围的反帝反封建斗争发展到新的人民大革命的阶段。"
+    },
+    {
+      "id": 10555,
+      "article_id": 105,
+      "name": "党的建设",
+      "summary": "文章围绕“迎接中国革命的新高潮”展开，强调党的建设在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "迎接中国革命的新高潮（一九四七年二月一日）这是毛泽东为中共中央起草的对党内的指示。"
+    },
+    {
+      "id": 10556,
+      "article_id": 105,
+      "name": "土地政策",
+      "summary": "文章围绕“迎接中国革命的新高潮”展开，强调土地政策在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "农民问题",
+      "quote": "这里包括工人、农民、城市小资产阶级、民族资产阶级、开明绅士、其他爱国分子、少数民族和海外华侨在内。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "毛泽东",
+      "type": "人物",
+      "description": "中国共产党和中华人民共和国的主要领导人，本文作者或讲话者。"
+    },
+    {
+      "name": "蒋介石",
+      "type": "人物",
+      "description": "国民党主要领导人，在多篇文章中作为政治和军事斗争对象出现。"
+    },
+    {
+      "name": "司徒雷登",
+      "type": "人物",
+      "description": "美国驻华外交人物，在解放战争后期和新中国成立前夕被文章批评。"
+    },
+    {
+      "name": "中国共产党",
+      "type": "组织",
+      "description": "中国革命的领导力量，文章常围绕其路线、政策和组织建设展开。"
+    },
+    {
+      "name": "国民党",
+      "type": "组织",
+      "description": "中国近现代主要政党之一，文章中常作为统一战线对象或批判对象出现。"
+    },
+    {
+      "name": "中共中央",
+      "type": "组织",
+      "description": "中国共产党中央领导机关的简称。"
+    },
+    {
+      "name": "日本帝国主义",
+      "type": "组织",
+      "description": "发动侵华战争的日本军国主义侵略势力，是抗日文献中的主要敌人。"
+    },
+    {
+      "name": "美帝国主义",
+      "type": "组织",
+      "description": "文章中批判的美国帝国主义势力。"
+    },
+    {
+      "name": "苏联",
+      "type": "地点",
+      "description": "世界上第一个社会主义国家，文章常在国际形势中提及。"
+    },
+    {
+      "name": "美国",
+      "type": "地点",
+      "description": "重要国际力量，在中国革命和国际形势论述中多次出现。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 105,
+      "target_type": "Idea",
+      "target_id": 10551,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 105,
+      "target_type": "Idea",
+      "target_id": 10552,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 105,
+      "target_type": "Idea",
+      "target_id": 10553,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 105,
+      "target_type": "Idea",
+      "target_id": 10554,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 105,
+      "target_type": "Idea",
+      "target_id": 10555,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 105,
+      "target_type": "Idea",
+      "target_id": 10556,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 105,
+      "target_type": "Event",
+      "target_id": 10511,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 105,
+      "target_type": "Event",
+      "target_id": 10512,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 105,
+      "target_type": "Event",
+      "target_id": 10513,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 105,
+      "target_type": "Event",
+      "target_id": 10514,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 105,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 105,
+      "target_type": "Entity",
+      "target_id": "蒋介石",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 105,
+      "target_type": "Entity",
+      "target_id": "司徒雷登",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 105,
+      "target_type": "Entity",
+      "target_id": "中国共产党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 105,
+      "target_type": "Entity",
+      "target_id": "国民党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 105,
+      "target_type": "Entity",
+      "target_id": "中共中央",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 10551,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "支持"
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "article": {
+    "id": 83,
+    "title": "愚公移山",
+    "volume": "第三卷",
+    "date_text": "一九四五年六月十一日",
+    "start_date": "1945-06-11",
+    "end_date": "1945-06-11",
+    "source": "这是毛泽东在中国共产党第七次全国代表大会上的闭幕词。"
+  },
+  "events": [
+    {
+      "id": 8311,
+      "article_id": 83,
+      "title": "者招待会上的谈话中，公开宣言",
+      "description": "一九四五年四月二日他在华盛顿国务院记者招待会上的谈话中，公开宣言不同中国共产党合作。",
+      "date_text": "一九四五年四月二日",
+      "start_date": "1945-04-02",
+      "end_date": "1945-04-02",
+      "location": "中国",
+      "importance": 4,
+      "quote": "一九四五年四月二日他在华盛顿国务院记者招待会上的谈话中，公开宣言不同中国共产党合作。"
+    }
+  ],
+  "ideas": [
+    {
+      "id": 8351,
+      "article_id": 83,
+      "name": "阶级分析",
+      "summary": "文章围绕“愚公移山”展开，强调阶级分析在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "阶级分析",
+      "quote": "现在依然如斯大林很早就说过的一样，旧世界有三个大矛盾：第一个是帝国主义国家中的无产阶级和资产阶级的矛盾，第二个是帝国主义国家之间的矛盾，第三个是殖民地半殖民地国家和帝国主义宗主国之间的矛盾⑷。"
+    },
+    {
+      "id": 8352,
+      "article_id": 83,
+      "name": "统一战线",
+      "summary": "文章围绕“愚公移山”展开，强调统一战线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "统一战线",
+      "quote": "我们开了一个胜利的大会，一个团结的大会。"
+    },
+    {
+      "id": 8353,
+      "article_id": 83,
+      "name": "群众路线",
+      "summary": "文章围绕“愚公移山”展开，强调群众路线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "我们做了三件事：第一，决定了党的路线，这就是放手发动群众，壮大人民力量，在我党的领导下，打败日本侵略者，解放全国人民，建立一个新民主主义的中国。"
+    },
+    {
+      "id": 8354,
+      "article_id": 83,
+      "name": "党的建设",
+      "summary": "文章围绕“愚公移山”展开，强调党的建设在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "我们开了一个胜利的大会，一个团结的大会。"
+    },
+    {
+      "id": 8355,
+      "article_id": 83,
+      "name": "矛盾方法",
+      "summary": "文章围绕“愚公移山”展开，强调矛盾方法在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "哲学方法论",
+      "quote": "现在依然如斯大林很早就说过的一样，旧世界有三个大矛盾：第一个是帝国主义国家中的无产阶级和资产阶级的矛盾，第二个是帝国主义国家之间的矛盾，第三个是殖民地半殖民地国家和帝国主义宗主国之间的矛盾⑷。"
+    },
+    {
+      "id": 8356,
+      "article_id": 83,
+      "name": "国际形势",
+      "summary": "文章围绕“愚公移山”展开，强调国际形势在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "国际形势",
+      "quote": "现在也有两座压在中国人民头上的大山，一座叫做帝国主义，一座叫做封建主义。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "毛泽东",
+      "type": "人物",
+      "description": "中国共产党和中华人民共和国的主要领导人，本文作者或讲话者。"
+    },
+    {
+      "name": "蒋介石",
+      "type": "人物",
+      "description": "国民党主要领导人，在多篇文章中作为政治和军事斗争对象出现。"
+    },
+    {
+      "name": "斯大林",
+      "type": "人物",
+      "description": "苏联领导人，在国际形势和社会主义阵营相关论述中被提及。"
+    },
+    {
+      "name": "赫尔利",
+      "type": "人物",
+      "description": "美国外交人物，抗战后期参与对华调停并受到文章批评。"
+    },
+    {
+      "name": "中国共产党",
+      "type": "组织",
+      "description": "中国革命的领导力量，文章常围绕其路线、政策和组织建设展开。"
+    },
+    {
+      "name": "国民党",
+      "type": "组织",
+      "description": "中国近现代主要政党之一，文章中常作为统一战线对象或批判对象出现。"
+    },
+    {
+      "name": "日本帝国主义",
+      "type": "组织",
+      "description": "发动侵华战争的日本军国主义侵略势力，是抗日文献中的主要敌人。"
+    },
+    {
+      "name": "美国",
+      "type": "地点",
+      "description": "重要国际力量，在中国革命和国际形势论述中多次出现。"
+    },
+    {
+      "name": "日本",
+      "type": "地点",
+      "description": "侵华战争发动国，在抗日战争文献中频繁出现。"
+    },
+    {
+      "name": "中国",
+      "type": "地点",
+      "description": "文章讨论的革命、战争和建设的主要空间。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 83,
+      "target_type": "Idea",
+      "target_id": 8351,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 83,
+      "target_type": "Idea",
+      "target_id": 8352,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 83,
+      "target_type": "Idea",
+      "target_id": 8353,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 83,
+      "target_type": "Idea",
+      "target_id": 8354,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 83,
+      "target_type": "Idea",
+      "target_id": 8355,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 83,
+      "target_type": "Idea",
+      "target_id": 8356,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 83,
+      "target_type": "Event",
+      "target_id": 8311,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 83,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 83,
+      "target_type": "Entity",
+      "target_id": "蒋介石",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 83,
+      "target_type": "Entity",
+      "target_id": "斯大林",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 83,
+      "target_type": "Entity",
+      "target_id": "赫尔利",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 83,
+      "target_type": "Entity",
+      "target_id": "中国共产党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 83,
+      "target_type": "Entity",
+      "target_id": "国民党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 8351,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "支持"
+    }
+  ]
+}

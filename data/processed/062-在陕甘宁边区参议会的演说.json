@@ -1,0 +1,250 @@
+{
+  "article": {
+    "id": 62,
+    "title": "在陕甘宁边区参议会的演说",
+    "volume": "第三卷",
+    "date_text": "一九四一年十一月六日",
+    "start_date": "1941-11-06",
+    "end_date": "1941-11-06",
+    "source": null
+  },
+  "events": [
+    {
+      "id": 6211,
+      "article_id": 62,
+      "title": "文章论述的现实背景",
+      "description": "在陕甘宁边区参议会的演说（一九四一年十一月六日）各位参议员先生，各位同志：今天边区参议会开幕，是有重大意义的。",
+      "date_text": null,
+      "start_date": null,
+      "end_date": null,
+      "location": null,
+      "importance": 2,
+      "quote": "在陕甘宁边区参议会的演说（一九四一年十一月六日）各位参议员先生，各位同志：今天边区参议会开幕，是有重大意义的。"
+    },
+    {
+      "id": 6212,
+      "article_id": 62,
+      "title": "文章论述的现实背景",
+      "description": "参议会的目的，只有一个，就是要打倒日本帝国主义，建设新民主主义的中国，也就是革命的三民主义的中国。",
+      "date_text": null,
+      "start_date": null,
+      "end_date": null,
+      "location": null,
+      "importance": 2,
+      "quote": "参议会的目的，只有一个，就是要打倒日本帝国主义，建设新民主主义的中国，也就是革命的三民主义的中国。"
+    },
+    {
+      "id": 6213,
+      "article_id": 62,
+      "title": "文章论述的现实背景",
+      "description": "现在的中国不能有别的目的，只能有这个目的。",
+      "date_text": null,
+      "start_date": null,
+      "end_date": null,
+      "location": null,
+      "importance": 2,
+      "quote": "现在的中国不能有别的目的，只能有这个目的。"
+    }
+  ],
+  "ideas": [
+    {
+      "id": 6251,
+      "article_id": 62,
+      "name": "阶级分析",
+      "summary": "文章围绕“在陕甘宁边区参议会的演说”展开，强调阶级分析在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "阶级分析",
+      "quote": "中国共产党的主张就是要团结全国一切抗日力量打倒日本帝国主义，要和全国一切抗日的党派、阶级、民族合作，只要不是汉奸，都要联合一致，共同奋斗。"
+    },
+    {
+      "id": 6252,
+      "article_id": 62,
+      "name": "统一战线",
+      "summary": "文章围绕“在陕甘宁边区参议会的演说”展开，强调统一战线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "统一战线",
+      "quote": "中国共产党的主张就是要团结全国一切抗日力量打倒日本帝国主义，要和全国一切抗日的党派、阶级、民族合作，只要不是汉奸，都要联合一致，共同奋斗。"
+    },
+    {
+      "id": 6253,
+      "article_id": 62,
+      "name": "群众路线",
+      "summary": "文章围绕“在陕甘宁边区参议会的演说”展开，强调群众路线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "中国人民英勇抗战已有四年多，这个抗战是由国共两党的合作和各阶级各党派各民族的合作来支持的。"
+    },
+    {
+      "id": 6254,
+      "article_id": 62,
+      "name": "党的建设",
+      "summary": "文章围绕“在陕甘宁边区参议会的演说”展开，强调党的建设在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "中国共产党的主张就是要团结全国一切抗日力量打倒日本帝国主义，要和全国一切抗日的党派、阶级、民族合作，只要不是汉奸，都要联合一致，共同奋斗。"
+    },
+    {
+      "id": 6255,
+      "article_id": 62,
+      "name": "土地政策",
+      "summary": "文章围绕“在陕甘宁边区参议会的演说”展开，强调土地政策在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "农民问题",
+      "quote": "中国社会是一个两头小中间大的社会，无产阶级和地主大资产阶级都只占少数，最广大的人民是农民、城市小资产阶级以及其他的中间阶级。"
+    },
+    {
+      "id": 6256,
+      "article_id": 62,
+      "name": "矛盾方法",
+      "summary": "文章围绕“在陕甘宁边区参议会的演说”展开，强调矛盾方法在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "哲学方法论",
+      "quote": "我们不是一个自以为是的小宗派，我们一定要学会打开大门和党外人士实行民主合作的方法，我们一定要学会善于同别人商量问题。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "中国共产党",
+      "type": "组织",
+      "description": "中国革命的领导力量，文章常围绕其路线、政策和组织建设展开。"
+    },
+    {
+      "name": "日本帝国主义",
+      "type": "组织",
+      "description": "发动侵华战争的日本军国主义侵略势力，是抗日文献中的主要敌人。"
+    },
+    {
+      "name": "苏联",
+      "type": "地点",
+      "description": "世界上第一个社会主义国家，文章常在国际形势中提及。"
+    },
+    {
+      "name": "日本",
+      "type": "地点",
+      "description": "侵华战争发动国，在抗日战争文献中频繁出现。"
+    },
+    {
+      "name": "中国",
+      "type": "地点",
+      "description": "文章讨论的革命、战争和建设的主要空间。"
+    },
+    {
+      "name": "陕甘宁边区",
+      "type": "地点",
+      "description": "抗日战争时期中国共产党领导的重要根据地。"
+    },
+    {
+      "name": "新民主主义",
+      "type": "概念",
+      "description": "中国革命阶段、政权和社会发展道路的重要理论。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 62,
+      "target_type": "Idea",
+      "target_id": 6251,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 62,
+      "target_type": "Idea",
+      "target_id": 6252,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 62,
+      "target_type": "Idea",
+      "target_id": 6253,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 62,
+      "target_type": "Idea",
+      "target_id": 6254,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 62,
+      "target_type": "Idea",
+      "target_id": 6255,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 62,
+      "target_type": "Idea",
+      "target_id": 6256,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 62,
+      "target_type": "Event",
+      "target_id": 6211,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 62,
+      "target_type": "Event",
+      "target_id": 6212,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 62,
+      "target_type": "Event",
+      "target_id": 6213,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 62,
+      "target_type": "Entity",
+      "target_id": "中国共产党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 62,
+      "target_type": "Entity",
+      "target_id": "日本帝国主义",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 62,
+      "target_type": "Entity",
+      "target_id": "苏联",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 62,
+      "target_type": "Entity",
+      "target_id": "日本",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 62,
+      "target_type": "Entity",
+      "target_id": "中国",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 62,
+      "target_type": "Entity",
+      "target_id": "陕甘宁边区",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 6251,
+      "target_type": "Entity",
+      "target_id": "中国共产党",
+      "relation_type": "支持"
+    }
+  ]
+}

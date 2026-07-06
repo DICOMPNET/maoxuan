@@ -1,0 +1,177 @@
+{
+  "article": {
+    "id": 139,
+    "title": "中共发言人评南京行政院的决议",
+    "volume": "第四卷",
+    "date_text": "一九四九年一月二十一日",
+    "start_date": "1949-01-21",
+    "end_date": "1949-01-21",
+    "source": null
+  },
+  "events": [
+    {
+      "id": 13911,
+      "article_id": 139,
+      "title": "称：十九日上午九时行政院会议",
+      "description": "中共发言人评南京行政院的决议（一九四九年一月二十一日）南京国民党反动政府的官方通讯社中央社十九日电称：十九日上午九时行政院会议广泛讨论时局，决议如下：“政府为遵从全国人民之愿望，蕲求和平之早日实现，特慎重表示，愿与中共双方立即先行无条件停战，并各指定代表进行和平商谈。",
+      "date_text": "一九四九年一月二十一日",
+      "start_date": "1949-01-21",
+      "end_date": "1949-01-21",
+      "location": "南京",
+      "importance": 4,
+      "quote": "中共发言人评南京行政院的决议（一九四九年一月二十一日）南京国民党反动政府的官方通讯社中央社十九日电称：十九日上午九时行政院会议广泛讨论时局，决议如下：“政府为遵从全国人民之愿望，蕲求和平之早日实现，特慎重表示，愿与中共双方立即先行无条件停战，并各指定代表进行和平商谈。"
+    }
+  ],
+  "ideas": [
+    {
+      "id": 13951,
+      "article_id": 139,
+      "name": "人民战争",
+      "summary": "文章围绕“中共发言人评南京行政院的决议”展开，强调人民战争在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "军事思想",
+      "quote": "你们则将战争与和平分割为两件事，不愿意派出代表和我们商讨停止战争的具体方法，而却异想天开地建议“立即先行无条件停战”，然后再派代表“进行和平商谈”，究竟是你们的建议对呢，还是你们“总统”的建议对呢？"
+    },
+    {
+      "id": 13952,
+      "article_id": 139,
+      "name": "群众路线",
+      "summary": "文章围绕“中共发言人评南京行政院的决议”展开，强调群众路线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "中共发言人评南京行政院的决议（一九四九年一月二十一日）南京国民党反动政府的官方通讯社中央社十九日电称：十九日上午九时行政院会议广泛讨论时局，决议如下：“政府为遵从全国人民之愿望，蕲求和平之早日实现，特慎重表示，愿与中共双方立即先行无条件停战，并各指定代表进行和平商谈。"
+    },
+    {
+      "id": 13953,
+      "article_id": 139,
+      "name": "矛盾方法",
+      "summary": "文章围绕“中共发言人评南京行政院的决议”展开，强调矛盾方法在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "哲学方法论",
+      "quote": "蒋介石在其一月一日的建议中说：“只要共党一有和平的诚意，能作确切的表示，政府必开诚相见，愿与商讨停止战事，恢复和平的具体方法。"
+    },
+    {
+      "id": 13954,
+      "article_id": 139,
+      "name": "国际形势",
+      "summary": "文章围绕“中共发言人评南京行政院的决议”展开，强调国际形势在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "国际形势",
+      "quote": "中共发言人评南京行政院的决议（一九四九年一月二十一日）南京国民党反动政府的官方通讯社中央社十九日电称：十九日上午九时行政院会议广泛讨论时局，决议如下：“政府为遵从全国人民之愿望，蕲求和平之早日实现，特慎重表示，愿与中共双方立即先行无条件停战，并各指定代表进行和平商谈。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "毛泽东",
+      "type": "人物",
+      "description": "中国共产党和中华人民共和国的主要领导人，本文作者或讲话者。"
+    },
+    {
+      "name": "蒋介石",
+      "type": "人物",
+      "description": "国民党主要领导人，在多篇文章中作为政治和军事斗争对象出现。"
+    },
+    {
+      "name": "中国共产党",
+      "type": "组织",
+      "description": "中国革命的领导力量，文章常围绕其路线、政策和组织建设展开。"
+    },
+    {
+      "name": "国民党",
+      "type": "组织",
+      "description": "中国近现代主要政党之一，文章中常作为统一战线对象或批判对象出现。"
+    },
+    {
+      "name": "中国",
+      "type": "地点",
+      "description": "文章讨论的革命、战争和建设的主要空间。"
+    },
+    {
+      "name": "南京",
+      "type": "地点",
+      "description": "中国重要城市，国民党政府相关叙述中常见。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 139,
+      "target_type": "Idea",
+      "target_id": 13951,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 139,
+      "target_type": "Idea",
+      "target_id": 13952,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 139,
+      "target_type": "Idea",
+      "target_id": 13953,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 139,
+      "target_type": "Idea",
+      "target_id": 13954,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 139,
+      "target_type": "Event",
+      "target_id": 13911,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 139,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 139,
+      "target_type": "Entity",
+      "target_id": "蒋介石",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 139,
+      "target_type": "Entity",
+      "target_id": "中国共产党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 139,
+      "target_type": "Entity",
+      "target_id": "国民党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 139,
+      "target_type": "Entity",
+      "target_id": "中国",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 139,
+      "target_type": "Entity",
+      "target_id": "南京",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 13951,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "支持"
+    }
+  ]
+}

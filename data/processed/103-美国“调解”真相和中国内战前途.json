@@ -1,0 +1,308 @@
+{
+  "article": {
+    "id": 103,
+    "title": "美国“调解”真相和中国内战前途",
+    "volume": "第四卷",
+    "date_text": "一九四六年九月二十九日",
+    "start_date": "1946-09-29",
+    "end_date": "1946-09-29",
+    "source": null
+  },
+  "events": [
+    {
+      "id": 10311,
+      "article_id": 103,
+      "title": "党的代表签订了停战协定，发布",
+      "description": "一九四六年一月，国民党政府的代表和中国共产党的代表签订了停战协定，发布了停战令，并组成了有美国代表参加的“三人小组”和“北平军事调处执行部”。",
+      "date_text": "一九四六年一月",
+      "start_date": "1946-01-01",
+      "end_date": "1946-01-01",
+      "location": "美国",
+      "importance": 4,
+      "quote": "一九四六年一月，国民党政府的代表和中国共产党的代表签订了停战协定，发布了停战令，并组成了有美国代表参加的“三人小组”和“北平军事调处执行部”。"
+    },
+    {
+      "id": 10312,
+      "article_id": 103,
+      "title": "万人）的百分之八十调集到进攻",
+      "description": "至一九四六年六月，蒋介石已将国民党正规军总兵力（大约二百万人）的百分之八十调集到进攻解放区的前线，其中有五十四万多人是美国武装部队直接用军舰、飞机帮助运送的。",
+      "date_text": "一九四六年六月",
+      "start_date": "1946-06-01",
+      "end_date": "1946-06-01",
+      "location": "美国",
+      "importance": 4,
+      "quote": "至一九四六年六月，蒋介石已将国民党正规军总兵力（大约二百万人）的百分之八十调集到进攻解放区的前线，其中有五十四万多人是美国武装部队直接用军舰、飞机帮助运送的。"
+    },
+    {
+      "id": 10313,
+      "article_id": 103,
+      "title": "苏、美、英三国外长莫斯科会议",
+      "description": "〔2〕指一九四五年十二月苏、美、英三国外长莫斯科会议关于中国问题的协议。",
+      "date_text": "一九四五年十二月",
+      "start_date": "1945-12-01",
+      "end_date": "1945-12-01",
+      "location": "中国",
+      "importance": 3,
+      "quote": "〔2〕指一九四五年十二月苏、美、英三国外长莫斯科会议关于中国问题的协议。"
+    },
+    {
+      "id": 10314,
+      "article_id": 103,
+      "title": "一九四六年六月七日以后解放",
+      "description": "五、一九四六年六月七日以后解放区人民武装在山东、山西两省从伪军手里解放出来的一切地区。",
+      "date_text": "一九四六年六月七日",
+      "start_date": "1946-06-07",
+      "end_date": "1946-06-07",
+      "location": null,
+      "importance": 3,
+      "quote": "五、一九四六年六月七日以后解放区人民武装在山东、山西两省从伪军手里解放出来的一切地区。"
+    },
+    {
+      "id": 10315,
+      "article_id": 103,
+      "title": "照一九四六年一月政治协商会议",
+      "description": "〔4〕按照一九四六年一月政治协商会议的决议和会议中协商的精神，国民大会应该是各党派参加的民主的团结的大会，必须在政协各项协议付诸实施之后，在改组后的政府领导之下才能召开。",
+      "date_text": "一九四六年一月",
+      "start_date": "1946-01-01",
+      "end_date": "1946-01-01",
+      "location": null,
+      "importance": 3,
+      "quote": "〔4〕按照一九四六年一月政治协商会议的决议和会议中协商的精神，国民大会应该是各党派参加的民主的团结的大会，必须在政协各项协议付诸实施之后，在改组后的政府领导之下才能召开。"
+    },
+    {
+      "id": 10316,
+      "article_id": 103,
+      "title": "领张家口，蒋介石被这一“胜利",
+      "description": "但是国民党反动派违反政协决议，在同年六月下旬发动全国性内战，十月十一日国民党军队占领张家口，蒋介石被这一“胜利”冲昏了头脑，即于当日下令召开国民大会。",
+      "date_text": null,
+      "start_date": null,
+      "end_date": null,
+      "location": null,
+      "importance": 3,
+      "quote": "但是国民党反动派违反政协决议，在同年六月下旬发动全国性内战，十月十一日国民党军队占领张家口，蒋介石被这一“胜利”冲昏了头脑，即于当日下令召开国民大会。"
+    }
+  ],
+  "ideas": [
+    {
+      "id": 10351,
+      "article_id": 103,
+      "name": "统一战线",
+      "summary": "文章围绕“美国“调解”真相和中国内战前途”展开，强调统一战线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "统一战线",
+      "quote": "但是，另一方面，中国人民必将团结起来，保卫自己的生存，决定自己的命运。"
+    },
+    {
+      "id": 10352,
+      "article_id": 103,
+      "name": "人民战争",
+      "summary": "文章围绕“美国“调解”真相和中国内战前途”展开，强调人民战争在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "军事思想",
+      "quote": "如果不是这样，就有变为长期战争的可能。"
+    },
+    {
+      "id": 10353,
+      "article_id": 103,
+      "name": "群众路线",
+      "summary": "文章围绕“美国“调解”真相和中国内战前途”展开，强调群众路线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "这一政策继续实行下去，必将激起全中国一切爱国人民起来作坚决的反抗。"
+    },
+    {
+      "id": 10354,
+      "article_id": 103,
+      "name": "党的建设",
+      "summary": "文章围绕“美国“调解”真相和中国内战前途”展开，强调党的建设在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "但是，另一方面，中国人民必将团结起来，保卫自己的生存，决定自己的命运。"
+    },
+    {
+      "id": 10355,
+      "article_id": 103,
+      "name": "经济建设",
+      "summary": "文章围绕“美国“调解”真相和中国内战前途”展开，强调经济建设在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "经济政策",
+      "quote": "蒋介石如能按照今年一月间的停战协定⑸和政治协商会议的共同决议⑹处理中国政治军事经济等项问题，而不是按照所谓“五项”或十项违反上述协定和决议的片面要求，那末，我们是仍然愿意和他共事的。"
+    },
+    {
+      "id": 10356,
+      "article_id": 103,
+      "name": "国际形势",
+      "summary": "文章围绕“美国“调解”真相和中国内战前途”展开，强调国际形势在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "国际形势",
+      "quote": "美国“调解”真相和中国内战前途——和美国记者斯蒂尔的谈话（一九四六年九月二十九日）斯蒂尔问：阁下是否认为美国调解中国内战之举已告失败？"
+    }
+  ],
+  "entities": [
+    {
+      "name": "蒋介石",
+      "type": "人物",
+      "description": "国民党主要领导人，在多篇文章中作为政治和军事斗争对象出现。"
+    },
+    {
+      "name": "司徒雷登",
+      "type": "人物",
+      "description": "美国驻华外交人物，在解放战争后期和新中国成立前夕被文章批评。"
+    },
+    {
+      "name": "中国共产党",
+      "type": "组织",
+      "description": "中国革命的领导力量，文章常围绕其路线、政策和组织建设展开。"
+    },
+    {
+      "name": "国民党",
+      "type": "组织",
+      "description": "中国近现代主要政党之一，文章中常作为统一战线对象或批判对象出现。"
+    },
+    {
+      "name": "中国人民解放军",
+      "type": "组织",
+      "description": "中国共产党领导的人民军队，在解放战争和建国后文献中频繁出现。"
+    },
+    {
+      "name": "苏联",
+      "type": "地点",
+      "description": "世界上第一个社会主义国家，文章常在国际形势中提及。"
+    },
+    {
+      "name": "美国",
+      "type": "地点",
+      "description": "重要国际力量，在中国革命和国际形势论述中多次出现。"
+    },
+    {
+      "name": "中国",
+      "type": "地点",
+      "description": "文章讨论的革命、战争和建设的主要空间。"
+    },
+    {
+      "name": "东北",
+      "type": "地点",
+      "description": "中国重要区域，在抗战、解放战争和工业建设中被反复提及。"
+    },
+    {
+      "name": "华北",
+      "type": "地点",
+      "description": "中国北部地区，在抗战和解放战争中具有重要战略地位。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 103,
+      "target_type": "Idea",
+      "target_id": 10351,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 103,
+      "target_type": "Idea",
+      "target_id": 10352,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 103,
+      "target_type": "Idea",
+      "target_id": 10353,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 103,
+      "target_type": "Idea",
+      "target_id": 10354,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 103,
+      "target_type": "Idea",
+      "target_id": 10355,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 103,
+      "target_type": "Idea",
+      "target_id": 10356,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 103,
+      "target_type": "Event",
+      "target_id": 10311,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 103,
+      "target_type": "Event",
+      "target_id": 10312,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 103,
+      "target_type": "Event",
+      "target_id": 10313,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 103,
+      "target_type": "Event",
+      "target_id": 10314,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 103,
+      "target_type": "Entity",
+      "target_id": "蒋介石",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 103,
+      "target_type": "Entity",
+      "target_id": "司徒雷登",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 103,
+      "target_type": "Entity",
+      "target_id": "中国共产党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 103,
+      "target_type": "Entity",
+      "target_id": "国民党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 103,
+      "target_type": "Entity",
+      "target_id": "中国人民解放军",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 103,
+      "target_type": "Entity",
+      "target_id": "苏联",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 10351,
+      "target_type": "Entity",
+      "target_id": "蒋介石",
+      "relation_type": "支持"
+    }
+  ]
+}

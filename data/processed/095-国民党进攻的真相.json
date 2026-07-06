@@ -1,0 +1,293 @@
+{
+  "article": {
+    "id": 95,
+    "title": "国民党进攻的真相",
+    "volume": "第四卷",
+    "date_text": "一九四五年十一月五日",
+    "start_date": "1945-11-05",
+    "end_date": "1945-11-05",
+    "source": "这是毛泽东以中共发言人的名义发表的谈话。这时蒋介石已经撕毁《双十协定》，进攻解放区的内战规模已经日趋扩大。"
+  },
+  "events": [
+    {
+      "id": 9511,
+      "article_id": 95,
+      "title": "国民党进攻",
+      "description": "国民党进攻的真相（一九四五年十一月五日）这是毛泽东以中共发言人的名义发表的谈话。",
+      "date_text": "一九四五年十一月五日",
+      "start_date": "1945-11-05",
+      "end_date": "1945-11-05",
+      "location": null,
+      "importance": 4,
+      "quote": "国民党进攻的真相（一九四五年十一月五日）这是毛泽东以中共发言人的名义发表的谈话。"
+    },
+    {
+      "id": 9512,
+      "article_id": 95,
+      "title": "指挥十三个师，攻入我上党解放",
+      "description": "十月上旬，阎锡山指挥十三个师，攻入我上党解放区襄垣、屯留区域，被当地军民在自卫战斗中全部缴械，被俘人员中亦有军长师长多人。",
+      "date_text": null,
+      "start_date": null,
+      "end_date": null,
+      "location": null,
+      "importance": 4,
+      "quote": "十月上旬，阎锡山指挥十三个师，攻入我上党解放区襄垣、屯留区域，被当地军民在自卫战斗中全部缴械，被俘人员中亦有军长师长多人。"
+    },
+    {
+      "id": 9513,
+      "article_id": 95,
+      "title": "自郑州、新乡一带沿平汉路进攻",
+      "description": "〔3〕一九四五年九月，国民党军队自郑州、新乡一带沿平汉路进攻晋冀鲁豫解放区。",
+      "date_text": "一九四五年九月",
+      "start_date": "1945-09-01",
+      "end_date": "1945-09-01",
+      "location": null,
+      "importance": 3,
+      "quote": "〔3〕一九四五年九月，国民党军队自郑州、新乡一带沿平汉路进攻晋冀鲁豫解放区。"
+    },
+    {
+      "id": 9514,
+      "article_id": 95,
+      "title": "军队，对进犯军作了坚决的斗争",
+      "description": "豫鄂解放区的人民军队，对进犯军作了坚决的斗争，保存了实力，于一九四五年十月下旬，转移至豫、鄂交界之大洪山、桐柏山、枣阳地区，后因国民党军队继续追逼，又转移至平汉路东之宣化店地区。",
+      "date_text": "一九四五年十月",
+      "start_date": "1945-10-01",
+      "end_date": "1945-10-01",
+      "location": null,
+      "importance": 3,
+      "quote": "豫鄂解放区的人民军队，对进犯军作了坚决的斗争，保存了实力，于一九四五年十月下旬，转移至豫、鄂交界之大洪山、桐柏山、枣阳地区，后因国民党军队继续追逼，又转移至平汉路东之宣化店地区。"
+    },
+    {
+      "id": 9515,
+      "article_id": 95,
+      "title": "三三年蒋介石编的专门讲述进攻",
+      "description": "〔7〕《剿匪手本》，是一九三三年蒋介石编的专门讲述进攻中国人民军队和革命根据地的方法的反革命小册子。",
+      "date_text": "一九三三年",
+      "start_date": "1933-01-01",
+      "end_date": "1933-01-01",
+      "location": "中国",
+      "importance": 3,
+      "quote": "〔7〕《剿匪手本》，是一九三三年蒋介石编的专门讲述进攻中国人民军队和革命根据地的方法的反革命小册子。"
+    },
+    {
+      "id": 9516,
+      "article_id": 95,
+      "title": "一九四五年抗日战争",
+      "description": "一九四五年抗日战争结束以后，蒋介石重印这个小册子发给国民党军官，并下达密令称：“此次剿匪为人民幸福之所系，务本以往抗战之精神，遵照中正所订《剿匪手本》，督励所属，努力进剿，迅速完成任务。",
+      "date_text": "一九四五年",
+      "start_date": "1945-01-01",
+      "end_date": "1945-01-01",
+      "location": null,
+      "importance": 3,
+      "quote": "一九四五年抗日战争结束以后，蒋介石重印这个小册子发给国民党军官，并下达密令称：“此次剿匪为人民幸福之所系，务本以往抗战之精神，遵照中正所订《剿匪手本》，督励所属，努力进剿，迅速完成任务。"
+    }
+  ],
+  "ideas": [
+    {
+      "id": 9551,
+      "article_id": 95,
+      "name": "人民战争",
+      "summary": "文章围绕“国民党进攻的真相”展开，强调人民战争在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "军事思想",
+      "quote": "合众社重庆三日电报道，国民党中央宣传部长吴国桢宣称，“政府在此次战争中全居守势”，并提出所谓恢复交通的办法⑴。"
+    },
+    {
+      "id": 9552,
+      "article_id": 95,
+      "name": "群众路线",
+      "summary": "文章围绕“国民党进攻的真相”展开，强调群众路线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "除我军已撤退的浙东、苏南、皖中、皖南、湖南五个解放区全被国民党军队进占、大肆蹂躏人民外，其他大多数解放区，例如广东、湖北、河南、苏北、皖北、山东、河北等省，国民党正规军已有七十余师开到我解放区及其附近，压迫人民，进攻我军，或准备进攻。"
+    },
+    {
+      "id": 9553,
+      "article_id": 95,
+      "name": "矛盾方法",
+      "summary": "文章围绕“国民党进攻的真相”展开，强调矛盾方法在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "哲学方法论",
+      "quote": "现在的中心问题，是全国人民动员起来，用一切方法制止内战。"
+    },
+    {
+      "id": 9554,
+      "article_id": 95,
+      "name": "国际形势",
+      "summary": "文章围绕“国民党进攻的真相”展开，强调国际形势在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "国际形势",
+      "quote": "其中由彰德⑵北进一路，攻至邯郸地区之八个师，两个师反对内战，主张和平，六个师（其中有三个美械师）在我解放区军民举行自卫的反击之后，始被迫放下武器。"
+    },
+    {
+      "id": 9555,
+      "article_id": 95,
+      "name": "革命策略",
+      "summary": "文章围绕“国民党进攻的真相”展开，强调革命策略在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "革命策略",
+      "quote": "〔7〕《剿匪手本》，是一九三三年蒋介石编的专门讲述进攻中国人民军队和革命根据地的方法的反革命小册子。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "毛泽东",
+      "type": "人物",
+      "description": "中国共产党和中华人民共和国的主要领导人，本文作者或讲话者。"
+    },
+    {
+      "name": "蒋介石",
+      "type": "人物",
+      "description": "国民党主要领导人，在多篇文章中作为政治和军事斗争对象出现。"
+    },
+    {
+      "name": "国民党",
+      "type": "组织",
+      "description": "中国近现代主要政党之一，文章中常作为统一战线对象或批判对象出现。"
+    },
+    {
+      "name": "日本",
+      "type": "地点",
+      "description": "侵华战争发动国，在抗日战争文献中频繁出现。"
+    },
+    {
+      "name": "中国",
+      "type": "地点",
+      "description": "文章讨论的革命、战争和建设的主要空间。"
+    },
+    {
+      "name": "延安",
+      "type": "地点",
+      "description": "中国共产党抗日战争时期的重要根据地和领导中心。"
+    },
+    {
+      "name": "东北",
+      "type": "地点",
+      "description": "中国重要区域，在抗战、解放战争和工业建设中被反复提及。"
+    },
+    {
+      "name": "华北",
+      "type": "地点",
+      "description": "中国北部地区，在抗战和解放战争中具有重要战略地位。"
+    },
+    {
+      "name": "重庆",
+      "type": "地点",
+      "description": "抗战时期国民政府所在地，战后谈判相关文献中常见。"
+    },
+    {
+      "name": "抗日战争",
+      "type": "事件",
+      "description": "中国人民反抗日本侵略的民族解放战争。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 95,
+      "target_type": "Idea",
+      "target_id": 9551,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 95,
+      "target_type": "Idea",
+      "target_id": 9552,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 95,
+      "target_type": "Idea",
+      "target_id": 9553,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 95,
+      "target_type": "Idea",
+      "target_id": 9554,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 95,
+      "target_type": "Idea",
+      "target_id": 9555,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 95,
+      "target_type": "Event",
+      "target_id": 9511,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 95,
+      "target_type": "Event",
+      "target_id": 9512,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 95,
+      "target_type": "Event",
+      "target_id": 9513,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 95,
+      "target_type": "Event",
+      "target_id": 9514,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 95,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 95,
+      "target_type": "Entity",
+      "target_id": "蒋介石",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 95,
+      "target_type": "Entity",
+      "target_id": "国民党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 95,
+      "target_type": "Entity",
+      "target_id": "日本",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 95,
+      "target_type": "Entity",
+      "target_id": "中国",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 95,
+      "target_type": "Entity",
+      "target_id": "延安",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 9551,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "支持"
+    }
+  ]
+}

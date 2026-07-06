@@ -1,0 +1,212 @@
+{
+  "article": {
+    "id": 47,
+    "title": "《中国工人》发刊词",
+    "volume": "第二卷",
+    "date_text": "一九四○年二月七日",
+    "start_date": "1940-02-07",
+    "end_date": "1940-02-07",
+    "source": null
+  },
+  "events": [
+    {
+      "id": 4711,
+      "article_id": 47,
+      "title": "人》月刊，由中共中央职工运动",
+      "description": "------------------注释〔1〕《中国工人》月刊，由中共中央职工运动委员会主办，一九四○年二月在延安创刊，一九四一年三月终刊。",
+      "date_text": "一九四○年二月",
+      "start_date": "1940-02-01",
+      "end_date": "1940-02-01",
+      "location": "中国",
+      "importance": 4,
+      "quote": "------------------注释〔1〕《中国工人》月刊，由中共中央职工运动委员会主办，一九四○年二月在延安创刊，一九四一年三月终刊。"
+    }
+  ],
+  "ideas": [
+    {
+      "id": 4751,
+      "article_id": 47,
+      "name": "阶级分析",
+      "summary": "文章围绕“《中国工人》发刊词”展开，强调阶级分析在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "阶级分析",
+      "quote": "中国工人阶级，二十年来，在自己的政党——中国共产党的领导之下展开了英勇的斗争，成了全国人民中最有觉悟的部分，成了中国革命的领导者。"
+    },
+    {
+      "id": 4752,
+      "article_id": 47,
+      "name": "统一战线",
+      "summary": "文章围绕“《中国工人》发刊词”展开，强调统一战线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "统一战线",
+      "quote": "中国工人阶级联合农民和一切革命的人民反对帝国主义和封建主义，为建立新民主主义的中国而斗争，为驱逐日本帝国主义而斗争，这个功劳是非常之大的。"
+    },
+    {
+      "id": 4753,
+      "article_id": 47,
+      "name": "群众路线",
+      "summary": "文章围绕“《中国工人》发刊词”展开，强调群众路线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "中国工人阶级，二十年来，在自己的政党——中国共产党的领导之下展开了英勇的斗争，成了全国人民中最有觉悟的部分，成了中国革命的领导者。"
+    },
+    {
+      "id": 4754,
+      "article_id": 47,
+      "name": "党的建设",
+      "summary": "文章围绕“《中国工人》发刊词”展开，强调党的建设在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "但是中国革命尚未成功，还须付出很大的气力，团结自己，团结农民和其他小资产阶级，团结知识分子，团结一切革命的人民。"
+    },
+    {
+      "id": 4755,
+      "article_id": 47,
+      "name": "土地政策",
+      "summary": "文章围绕“《中国工人》发刊词”展开，强调土地政策在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "农民问题",
+      "quote": "中国工人阶级联合农民和一切革命的人民反对帝国主义和封建主义，为建立新民主主义的中国而斗争，为驱逐日本帝国主义而斗争，这个功劳是非常之大的。"
+    },
+    {
+      "id": 4756,
+      "article_id": 47,
+      "name": "国际形势",
+      "summary": "文章围绕“《中国工人》发刊词”展开，强调国际形势在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "国际形势",
+      "quote": "中国工人阶级联合农民和一切革命的人民反对帝国主义和封建主义，为建立新民主主义的中国而斗争，为驱逐日本帝国主义而斗争，这个功劳是非常之大的。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "中国共产党",
+      "type": "组织",
+      "description": "中国革命的领导力量，文章常围绕其路线、政策和组织建设展开。"
+    },
+    {
+      "name": "中共中央",
+      "type": "组织",
+      "description": "中国共产党中央领导机关的简称。"
+    },
+    {
+      "name": "日本帝国主义",
+      "type": "组织",
+      "description": "发动侵华战争的日本军国主义侵略势力，是抗日文献中的主要敌人。"
+    },
+    {
+      "name": "日本",
+      "type": "地点",
+      "description": "侵华战争发动国，在抗日战争文献中频繁出现。"
+    },
+    {
+      "name": "中国",
+      "type": "地点",
+      "description": "文章讨论的革命、战争和建设的主要空间。"
+    },
+    {
+      "name": "延安",
+      "type": "地点",
+      "description": "中国共产党抗日战争时期的重要根据地和领导中心。"
+    },
+    {
+      "name": "新民主主义",
+      "type": "概念",
+      "description": "中国革命阶段、政权和社会发展道路的重要理论。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 47,
+      "target_type": "Idea",
+      "target_id": 4751,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 47,
+      "target_type": "Idea",
+      "target_id": 4752,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 47,
+      "target_type": "Idea",
+      "target_id": 4753,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 47,
+      "target_type": "Idea",
+      "target_id": 4754,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 47,
+      "target_type": "Idea",
+      "target_id": 4755,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 47,
+      "target_type": "Idea",
+      "target_id": 4756,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 47,
+      "target_type": "Event",
+      "target_id": 4711,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 47,
+      "target_type": "Entity",
+      "target_id": "中国共产党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 47,
+      "target_type": "Entity",
+      "target_id": "中共中央",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 47,
+      "target_type": "Entity",
+      "target_id": "日本帝国主义",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 47,
+      "target_type": "Entity",
+      "target_id": "日本",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 47,
+      "target_type": "Entity",
+      "target_id": "中国",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 47,
+      "target_type": "Entity",
+      "target_id": "延安",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 4751,
+      "target_type": "Entity",
+      "target_id": "中国共产党",
+      "relation_type": "支持"
+    }
+  ]
+}

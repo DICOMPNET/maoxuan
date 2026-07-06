@@ -1,0 +1,184 @@
+{
+  "article": {
+    "id": 99,
+    "title": "关于目前国际形势的几点估计",
+    "volume": "第四卷",
+    "date_text": "一九四六年四月",
+    "start_date": "1946-04-01",
+    "end_date": "1946-04-01",
+    "source": null
+  },
+  "events": [
+    {
+      "id": 9911,
+      "article_id": 99,
+      "title": "九四七年十二月的中共中央会议",
+      "description": "一九四七年十二月的中共中央会议，印发了这个文件。",
+      "date_text": "一九四七年十二月",
+      "start_date": "1947-12-01",
+      "end_date": "1947-12-01",
+      "location": null,
+      "importance": 4,
+      "quote": "一九四七年十二月的中共中央会议，印发了这个文件。"
+    },
+    {
+      "id": 9912,
+      "article_id": 99,
+      "title": "关于一九四七年十二月中央会议",
+      "description": "由于到会同志一致同意这个文件的内容，后来将全文收入了中共中央一九四八年一月发出的《关于一九四七年十二月中央会议决议事项的通知》中。",
+      "date_text": "一九四八年一月",
+      "start_date": "1948-01-01",
+      "end_date": "1948-01-01",
+      "location": null,
+      "importance": 4,
+      "quote": "由于到会同志一致同意这个文件的内容，后来将全文收入了中共中央一九四八年一月发出的《关于一九四七年十二月中央会议决议事项的通知》中。"
+    }
+  ],
+  "ideas": [
+    {
+      "id": 9951,
+      "article_id": 99,
+      "name": "人民战争",
+      "summary": "文章围绕“关于目前国际形势的几点估计”展开，强调人民战争在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "军事思想",
+      "quote": "在这种情况下，当时有一些同志，由于过高地估计帝国主义力量，过低地估计人民力量，惧怕美帝国主义，惧怕爆发新的世界战争，因而在美蒋反动派武装进攻的面前，表示软弱，不敢坚决地用革命战争反对反革命战争。"
+    },
+    {
+      "id": 9952,
+      "article_id": 99,
+      "name": "群众路线",
+      "summary": "文章围绕“关于目前国际形势的几点估计”展开，强调群众路线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "一九四六年春季，以美国为首的帝国主义和各国反动派，日益加紧反苏、反共、反人民的活动，鼓吹所谓“美苏必战”，所谓“第三次世界大战必然爆发”。"
+    },
+    {
+      "id": 9953,
+      "article_id": 99,
+      "name": "国际形势",
+      "summary": "文章围绕“关于目前国际形势的几点估计”展开，强调国际形势在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "国际形势",
+      "quote": "关于目前国际形势的几点估计（一九四六年四月）这个文件是针对当时对于国际形势的一种悲观估计而写的。"
+    },
+    {
+      "id": 9954,
+      "article_id": 99,
+      "name": "革命策略",
+      "summary": "文章围绕“关于目前国际形势的几点估计”展开，强调革命策略在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "革命策略",
+      "quote": "在这种情况下，当时有一些同志，由于过高地估计帝国主义力量，过低地估计人民力量，惧怕美帝国主义，惧怕爆发新的世界战争，因而在美蒋反动派武装进攻的面前，表示软弱，不敢坚决地用革命战争反对反革命战争。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "毛泽东",
+      "type": "人物",
+      "description": "中国共产党和中华人民共和国的主要领导人，本文作者或讲话者。"
+    },
+    {
+      "name": "中共中央",
+      "type": "组织",
+      "description": "中国共产党中央领导机关的简称。"
+    },
+    {
+      "name": "美帝国主义",
+      "type": "组织",
+      "description": "文章中批判的美国帝国主义势力。"
+    },
+    {
+      "name": "苏联",
+      "type": "地点",
+      "description": "世界上第一个社会主义国家，文章常在国际形势中提及。"
+    },
+    {
+      "name": "美国",
+      "type": "地点",
+      "description": "重要国际力量，在中国革命和国际形势论述中多次出现。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 99,
+      "target_type": "Idea",
+      "target_id": 9951,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 99,
+      "target_type": "Idea",
+      "target_id": 9952,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 99,
+      "target_type": "Idea",
+      "target_id": 9953,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 99,
+      "target_type": "Idea",
+      "target_id": 9954,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 99,
+      "target_type": "Event",
+      "target_id": 9911,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 99,
+      "target_type": "Event",
+      "target_id": 9912,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 99,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 99,
+      "target_type": "Entity",
+      "target_id": "中共中央",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 99,
+      "target_type": "Entity",
+      "target_id": "美帝国主义",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 99,
+      "target_type": "Entity",
+      "target_id": "苏联",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 99,
+      "target_type": "Entity",
+      "target_id": "美国",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 9951,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "支持"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "article": {
+    "id": 68,
+    "title": "祝十月革命二十五周年",
+    "volume": "第三卷",
+    "date_text": "一九四二年十一月六日",
+    "start_date": "1942-11-06",
+    "end_date": "1942-11-06",
+    "source": null
+  },
+  "events": [
+    {
+      "id": 6811,
+      "article_id": 68,
+      "title": "年的十月革命节不但是苏德战争",
+      "description": "我坚信，今年的十月革命节不但是苏德战争的转折点，而且是全世界反法西斯阵线战胜法西斯阵线的转折点。",
+      "date_text": null,
+      "start_date": null,
+      "end_date": null,
+      "location": null,
+      "importance": 4,
+      "quote": "我坚信，今年的十月革命节不但是苏德战争的转折点，而且是全世界反法西斯阵线战胜法西斯阵线的转折点。"
+    }
+  ],
+  "ideas": [
+    {
+      "id": 6851,
+      "article_id": 68,
+      "name": "人民战争",
+      "summary": "文章围绕“祝十月革命二十五周年”展开，强调人民战争在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "军事思想",
+      "quote": "我坚信，今年的十月革命节不但是苏德战争的转折点，而且是全世界反法西斯阵线战胜法西斯阵线的转折点。"
+    },
+    {
+      "id": 6852,
+      "article_id": 68,
+      "name": "群众路线",
+      "summary": "文章围绕“祝十月革命二十五周年”展开，强调群众路线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "我们中国人民庆祝红军的胜利，同时也即是庆祝自己的胜利。"
+    },
+    {
+      "id": 6853,
+      "article_id": 68,
+      "name": "国际形势",
+      "summary": "文章围绕“祝十月革命二十五周年”展开，强调国际形势在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "国际形势",
+      "quote": "我坚信，今年的十月革命节不但是苏德战争的转折点，而且是全世界反法西斯阵线战胜法西斯阵线的转折点。"
+    },
+    {
+      "id": 6854,
+      "article_id": 68,
+      "name": "革命策略",
+      "summary": "文章围绕“祝十月革命二十五周年”展开，强调革命策略在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "革命策略",
+      "quote": "祝十月革命二十五周年（一九四二年十一月六日）我们以最大的乐观来庆祝今年的十月革命节。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "斯大林",
+      "type": "人物",
+      "description": "苏联领导人，在国际形势和社会主义阵营相关论述中被提及。"
+    },
+    {
+      "name": "苏联",
+      "type": "地点",
+      "description": "世界上第一个社会主义国家，文章常在国际形势中提及。"
+    },
+    {
+      "name": "日本",
+      "type": "地点",
+      "description": "侵华战争发动国，在抗日战争文献中频繁出现。"
+    },
+    {
+      "name": "中国",
+      "type": "地点",
+      "description": "文章讨论的革命、战争和建设的主要空间。"
+    },
+    {
+      "name": "抗日战争",
+      "type": "事件",
+      "description": "中国人民反抗日本侵略的民族解放战争。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 68,
+      "target_type": "Idea",
+      "target_id": 6851,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 68,
+      "target_type": "Idea",
+      "target_id": 6852,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 68,
+      "target_type": "Idea",
+      "target_id": 6853,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 68,
+      "target_type": "Idea",
+      "target_id": 6854,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 68,
+      "target_type": "Event",
+      "target_id": 6811,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 68,
+      "target_type": "Entity",
+      "target_id": "斯大林",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 68,
+      "target_type": "Entity",
+      "target_id": "苏联",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 68,
+      "target_type": "Entity",
+      "target_id": "日本",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 68,
+      "target_type": "Entity",
+      "target_id": "中国",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 68,
+      "target_type": "Entity",
+      "target_id": "抗日战争",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 6851,
+      "target_type": "Entity",
+      "target_id": "斯大林",
+      "relation_type": "支持"
+    }
+  ]
+}

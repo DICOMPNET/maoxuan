@@ -1,0 +1,284 @@
+{
+  "article": {
+    "id": 22,
+    "title": "和英国记者贝特兰的谈话",
+    "volume": "第二卷",
+    "date_text": "一九三七年十月二十五日",
+    "start_date": "1937-10-25",
+    "end_date": "1937-10-25",
+    "source": null
+  },
+  "events": [
+    {
+      "id": 2211,
+      "article_id": 22,
+      "title": "十五日）中国共产党和抗日战争",
+      "description": "和英国记者贝特兰的谈话（一九三七年十月二十五日）中国共产党和抗日战争贝问：中国共产党在中日战争爆发前后，有什么具体表示？",
+      "date_text": "一九三七年十月二十五日",
+      "start_date": "1937-10-25",
+      "end_date": "1937-10-25",
+      "location": "中国",
+      "importance": 4,
+      "quote": "和英国记者贝特兰的谈话（一九三七年十月二十五日）中国共产党和抗日战争贝问：中国共产党在中日战争爆发前后，有什么具体表示？"
+    },
+    {
+      "id": 2212,
+      "article_id": 22,
+      "title": "的作战，因此获得了北伐的胜利",
+      "description": "一九二四年到一九二七年革命时代有了新精神的军队，其作战方法也自然与其政治精神相配合，不是被动的呆板的作战，而是主动的活泼的富于攻击精神的作战，因此获得了北伐的胜利。",
+      "date_text": "一九二四年",
+      "start_date": "1924-01-01",
+      "end_date": "1924-01-01",
+      "location": null,
+      "importance": 4,
+      "quote": "一九二四年到一九二七年革命时代有了新精神的军队，其作战方法也自然与其政治精神相配合，不是被动的呆板的作战，而是主动的活泼的富于攻击精神的作战，因此获得了北伐的胜利。"
+    },
+    {
+      "id": 2213,
+      "article_id": 22,
+      "title": "二六年到一九二七年的北伐战争",
+      "description": "中国一九二六年到一九二七年的北伐战争，也是依靠民主集中制取得了胜利。",
+      "date_text": "一九二六年",
+      "start_date": "1926-01-01",
+      "end_date": "1926-01-01",
+      "location": "中国",
+      "importance": 3,
+      "quote": "中国一九二六年到一九二七年的北伐战争，也是依靠民主集中制取得了胜利。"
+    },
+    {
+      "id": 2214,
+      "article_id": 22,
+      "title": "合作，造成了第一次革命的胜利",
+      "description": "一九二四年到一九二七年的两党合作，造成了第一次革命的胜利。",
+      "date_text": "一九二四年",
+      "start_date": "1924-01-01",
+      "end_date": "1924-01-01",
+      "location": null,
+      "importance": 3,
+      "quote": "一九二四年到一九二七年的两党合作，造成了第一次革命的胜利。"
+    }
+  ],
+  "ideas": [
+    {
+      "id": 2251,
+      "article_id": 22,
+      "name": "阶级分析",
+      "summary": "文章围绕“和英国记者贝特兰的谈话”展开，强调阶级分析在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "阶级分析",
+      "quote": "这个口号政治上组织上的含义包括如下三点：（一）不是一个阶级的国家和政府，而是排除汉奸卖国贼在外的一切抗日阶级互相联盟的国家和政府，其中必须包括工人、农民及其他小资产阶级在内。"
+    },
+    {
+      "id": 2252,
+      "article_id": 22,
+      "name": "统一战线",
+      "summary": "文章围绕“和英国记者贝特兰的谈话”展开，强调统一战线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "统一战线",
+      "quote": "我们曾经反复地指出，必须加强统一战线，实行革命的政策，才能进行胜利的民族解放战争。"
+    },
+    {
+      "id": 2253,
+      "article_id": 22,
+      "name": "人民战争",
+      "summary": "文章围绕“和英国记者贝特兰的谈话”展开，强调人民战争在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "军事思想",
+      "quote": "和英国记者贝特兰的谈话（一九三七年十月二十五日）中国共产党和抗日战争贝问：中国共产党在中日战争爆发前后，有什么具体表示？"
+    },
+    {
+      "id": 2254,
+      "article_id": 22,
+      "name": "群众路线",
+      "summary": "文章围绕“和英国记者贝特兰的谈话”展开，强调群众路线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "广大的人民群众依然如过去一样被政府限制着不许起来参战，因此现在的战争还不是群众性的战争。"
+    },
+    {
+      "id": 2255,
+      "article_id": 22,
+      "name": "党的建设",
+      "summary": "文章围绕“和英国记者贝特兰的谈话”展开，强调党的建设在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "另一方面是中国大多数人从此得到了深刻的认识，知道非进一步团结和实现全民抗战不能挽救危机。"
+    },
+    {
+      "id": 2256,
+      "article_id": 22,
+      "name": "土地政策",
+      "summary": "文章围绕“和英国记者贝特兰的谈话”展开，强调土地政策在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "农民问题",
+      "quote": "如果说过去日寇差不多不费一点气力唾手而得东四省⑶，现在就非经过血战不能占领中国的土地了。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "中国共产党",
+      "type": "组织",
+      "description": "中国革命的领导力量，文章常围绕其路线、政策和组织建设展开。"
+    },
+    {
+      "name": "国民党",
+      "type": "组织",
+      "description": "中国近现代主要政党之一，文章中常作为统一战线对象或批判对象出现。"
+    },
+    {
+      "name": "八路军",
+      "type": "组织",
+      "description": "抗日战争时期中国共产党领导的人民军队主力之一。"
+    },
+    {
+      "name": "日本帝国主义",
+      "type": "组织",
+      "description": "发动侵华战争的日本军国主义侵略势力，是抗日文献中的主要敌人。"
+    },
+    {
+      "name": "日本",
+      "type": "地点",
+      "description": "侵华战争发动国，在抗日战争文献中频繁出现。"
+    },
+    {
+      "name": "中国",
+      "type": "地点",
+      "description": "文章讨论的革命、战争和建设的主要空间。"
+    },
+    {
+      "name": "华北",
+      "type": "地点",
+      "description": "中国北部地区，在抗战和解放战争中具有重要战略地位。"
+    },
+    {
+      "name": "上海",
+      "type": "地点",
+      "description": "中国重要城市，抗战和近代政治经济论述中多次出现。"
+    },
+    {
+      "name": "卢沟桥事变",
+      "type": "事件",
+      "description": "一九三七年七月七日日军进攻卢沟桥，中国全国性抗战由此开始。"
+    },
+    {
+      "name": "抗日战争",
+      "type": "事件",
+      "description": "中国人民反抗日本侵略的民族解放战争。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 22,
+      "target_type": "Idea",
+      "target_id": 2251,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 22,
+      "target_type": "Idea",
+      "target_id": 2252,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 22,
+      "target_type": "Idea",
+      "target_id": 2253,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 22,
+      "target_type": "Idea",
+      "target_id": 2254,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 22,
+      "target_type": "Idea",
+      "target_id": 2255,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 22,
+      "target_type": "Idea",
+      "target_id": 2256,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 22,
+      "target_type": "Event",
+      "target_id": 2211,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 22,
+      "target_type": "Event",
+      "target_id": 2212,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 22,
+      "target_type": "Event",
+      "target_id": 2213,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 22,
+      "target_type": "Event",
+      "target_id": 2214,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 22,
+      "target_type": "Entity",
+      "target_id": "中国共产党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 22,
+      "target_type": "Entity",
+      "target_id": "国民党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 22,
+      "target_type": "Entity",
+      "target_id": "八路军",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 22,
+      "target_type": "Entity",
+      "target_id": "日本帝国主义",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 22,
+      "target_type": "Entity",
+      "target_id": "日本",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 22,
+      "target_type": "Entity",
+      "target_id": "中国",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 2251,
+      "target_type": "Entity",
+      "target_id": "中国共产党",
+      "relation_type": "支持"
+    }
+  ]
+}

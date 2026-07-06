@@ -1,0 +1,246 @@
+{
+  "article": {
+    "id": 33,
+    "title": "必须制裁反动派",
+    "volume": "第二卷",
+    "date_text": "一九三九年八月一日",
+    "start_date": "1939-08-01",
+    "end_date": "1939-08-01",
+    "source": "这是毛泽东在延安人民追悼平江惨案死难烈士大会上的演说。"
+  },
+  "events": [
+    {
+      "id": 3311,
+      "article_id": 33,
+      "title": "一九三八年十月武汉失守",
+      "description": "一九三八年十月武汉失守以后，日本帝国主义对国民党采取以政治诱降为主的方针，英美等帝国主义也不断劝蒋介石同日本帝国主义“议和”。",
+      "date_text": "一九三八年十月",
+      "start_date": "1938-10-01",
+      "end_date": "1938-10-01",
+      "location": "日本",
+      "importance": 4,
+      "quote": "一九三八年十月武汉失守以后，日本帝国主义对国民党采取以政治诱降为主的方针，英美等帝国主义也不断劝蒋介石同日本帝国主义“议和”。"
+    },
+    {
+      "id": 3312,
+      "article_id": 33,
+      "title": "〔5〕一九三八年十月武汉失守",
+      "description": "〔5〕一九三八年十月武汉失守后，国民党逐渐加紧反共活动。",
+      "date_text": "一九三八年十月",
+      "start_date": "1938-10-01",
+      "end_date": "1938-10-01",
+      "location": "武汉",
+      "importance": 4,
+      "quote": "〔5〕一九三八年十月武汉失守后，国民党逐渐加紧反共活动。"
+    }
+  ],
+  "ideas": [
+    {
+      "id": 3351,
+      "article_id": 33,
+      "name": "统一战线",
+      "summary": "文章围绕“必须制裁反动派”展开，强调统一战线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "统一战线",
+      "quote": "现在全国抗日，全国人民在抗日的目标之下结成一个大团结。"
+    },
+    {
+      "id": 3352,
+      "article_id": 33,
+      "name": "人民战争",
+      "summary": "文章围绕“必须制裁反动派”展开，强调人民战争在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "军事思想",
+      "quote": "军队为什么杀死了抗日战士？"
+    },
+    {
+      "id": 3353,
+      "article_id": 33,
+      "name": "群众路线",
+      "summary": "文章围绕“必须制裁反动派”展开，强调群众路线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "必须制裁反动派（一九三九年八月一日）这是毛泽东在延安人民追悼平江惨案死难烈士大会上的演说。"
+    },
+    {
+      "id": 3354,
+      "article_id": 33,
+      "name": "党的建设",
+      "summary": "文章围绕“必须制裁反动派”展开，强调党的建设在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "现在全国抗日，全国人民在抗日的目标之下结成一个大团结。"
+    },
+    {
+      "id": 3355,
+      "article_id": 33,
+      "name": "经济建设",
+      "summary": "文章围绕“必须制裁反动派”展开，强调经济建设在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "经济政策",
+      "quote": "一九三八年十一月，英国首相张伯伦表示愿意实行英日经济合作，共同参加所谓“远东建设”。"
+    },
+    {
+      "id": 3356,
+      "article_id": 33,
+      "name": "矛盾方法",
+      "summary": "文章围绕“必须制裁反动派”展开，强调矛盾方法在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "哲学方法论",
+      "quote": "在这些反动的文件里，规定采用法西斯统治的方法，限制共产党人和一切进步分子的思想、言论和行动，破坏一切抗日的群众组织；"
+    }
+  ],
+  "entities": [
+    {
+      "name": "毛泽东",
+      "type": "人物",
+      "description": "中国共产党和中华人民共和国的主要领导人，本文作者或讲话者。"
+    },
+    {
+      "name": "蒋介石",
+      "type": "人物",
+      "description": "国民党主要领导人，在多篇文章中作为政治和军事斗争对象出现。"
+    },
+    {
+      "name": "国民党",
+      "type": "组织",
+      "description": "中国近现代主要政党之一，文章中常作为统一战线对象或批判对象出现。"
+    },
+    {
+      "name": "八路军",
+      "type": "组织",
+      "description": "抗日战争时期中国共产党领导的人民军队主力之一。"
+    },
+    {
+      "name": "新四军",
+      "type": "组织",
+      "description": "抗日战争时期中国共产党领导的人民军队之一。"
+    },
+    {
+      "name": "日本帝国主义",
+      "type": "组织",
+      "description": "发动侵华战争的日本军国主义侵略势力，是抗日文献中的主要敌人。"
+    },
+    {
+      "name": "美帝国主义",
+      "type": "组织",
+      "description": "文章中批判的美国帝国主义势力。"
+    },
+    {
+      "name": "美国",
+      "type": "地点",
+      "description": "重要国际力量，在中国革命和国际形势论述中多次出现。"
+    },
+    {
+      "name": "日本",
+      "type": "地点",
+      "description": "侵华战争发动国，在抗日战争文献中频繁出现。"
+    },
+    {
+      "name": "中国",
+      "type": "地点",
+      "description": "文章讨论的革命、战争和建设的主要空间。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 33,
+      "target_type": "Idea",
+      "target_id": 3351,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 33,
+      "target_type": "Idea",
+      "target_id": 3352,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 33,
+      "target_type": "Idea",
+      "target_id": 3353,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 33,
+      "target_type": "Idea",
+      "target_id": 3354,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 33,
+      "target_type": "Idea",
+      "target_id": 3355,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 33,
+      "target_type": "Idea",
+      "target_id": 3356,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 33,
+      "target_type": "Event",
+      "target_id": 3311,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 33,
+      "target_type": "Event",
+      "target_id": 3312,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 33,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 33,
+      "target_type": "Entity",
+      "target_id": "蒋介石",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 33,
+      "target_type": "Entity",
+      "target_id": "国民党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 33,
+      "target_type": "Entity",
+      "target_id": "八路军",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 33,
+      "target_type": "Entity",
+      "target_id": "新四军",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 33,
+      "target_type": "Entity",
+      "target_id": "日本帝国主义",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 3351,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "支持"
+    }
+  ]
+}

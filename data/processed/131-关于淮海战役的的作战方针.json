@@ -1,0 +1,290 @@
+{
+  "article": {
+    "id": 131,
+    "title": "关于淮海战役的的作战方针",
+    "volume": "第四卷",
+    "date_text": "一九四八年十月十一日",
+    "start_date": "1948-10-11",
+    "end_date": "1948-10-11",
+    "source": "这是毛泽东为中共中央军事委员会起草的给华东野战军的电报。这个电报同时告知华东局和中原局。此后，全国局势发生了对中国人民解放军有利的急剧变化，中原野战军奉命东进徐州、蚌埠地区，由华东野战军、中原野战军和华东、中原的地方部队共同作战。战役发起后，毛泽东又为中央军委起草致华东野战军并告中原野战军的电报，下达在徐州附近歼灭国民党军刘峙集团主力的战役决心。于是，..."
+  },
+  "events": [
+    {
+      "id": 13111,
+      "article_id": 131,
+      "title": "关于淮海战役",
+      "description": "关于淮海战役的的作战方针（一九四八年十月十一日）这是毛泽东为中共中央军事委员会起草的给华东野战军的电报。",
+      "date_text": "一九四八年十月十一日",
+      "start_date": "1948-10-11",
+      "end_date": "1948-10-11",
+      "location": null,
+      "importance": 4,
+      "quote": "关于淮海战役的的作战方针（一九四八年十月十一日）这是毛泽东为中共中央军事委员会起草的给华东野战军的电报。"
+    },
+    {
+      "id": 13112,
+      "article_id": 131,
+      "title": "淮海战役",
+      "description": "淮海战役在一九四九年一月十日结束，一月二十一日蒋介石即宣告“引退”，南京国民党反动统治集团从此陷入土崩瓦解的状态。",
+      "date_text": "一九四九年一月十日",
+      "start_date": "1949-01-10",
+      "end_date": "1949-01-10",
+      "location": "南京",
+      "importance": 4,
+      "quote": "淮海战役在一九四九年一月十日结束，一月二十一日蒋介石即宣告“引退”，南京国民党反动统治集团从此陷入土崩瓦解的状态。"
+    },
+    {
+      "id": 13113,
+      "article_id": 131,
+      "title": "战役",
+      "description": "战役自一九四八年十一月六日开始到一九四九年一月十日结束，历时六十五天，共歼灭国民党军五十五万五千人，此外还击退了由南京方面来援的刘汝明、李延年两个兵团，基本上解放了长江以北的华东、中原地区。",
+      "date_text": "一九四八年十一月六日",
+      "start_date": "1948-11-06",
+      "end_date": "1948-11-06",
+      "location": "南京",
+      "importance": 3,
+      "quote": "战役自一九四八年十一月六日开始到一九四九年一月十日结束，历时六十五天，共歼灭国民党军五十五万五千人，此外还击退了由南京方面来援的刘汝明、李延年两个兵团，基本上解放了长江以北的华东、中原地区。"
+    },
+    {
+      "id": 13114,
+      "article_id": 131,
+      "title": "一九四九年一月十日，人民解放",
+      "description": "第三阶段，从一九四八年十二月十六日到一九四九年一月十日，人民解放军淮海前线部队首先进行了二十天的战场休整。",
+      "date_text": "一九四八年十二月十六日",
+      "start_date": "1948-12-16",
+      "end_date": "1948-12-16",
+      "location": null,
+      "importance": 3,
+      "quote": "第三阶段，从一九四八年十二月十六日到一九四九年一月十日，人民解放军淮海前线部队首先进行了二十天的战场休整。"
+    },
+    {
+      "id": 13115,
+      "article_id": 131,
+      "title": "八年九月人民解放军在济南战役",
+      "description": "〔2〕攻济打援，是指一九四八年九月人民解放军在济南战役中所采取的作战方法。",
+      "date_text": "一九四八年九月",
+      "start_date": "1948-09-01",
+      "end_date": "1948-09-01",
+      "location": null,
+      "importance": 3,
+      "quote": "〔2〕攻济打援，是指一九四八年九月人民解放军在济南战役中所采取的作战方法。"
+    },
+    {
+      "id": 13116,
+      "article_id": 131,
+      "title": "人民解放",
+      "description": "人民解放军于一九四八年九月十六日晚，对济南守敌发起攻击。",
+      "date_text": "一九四八年九月十六日",
+      "start_date": "1948-09-16",
+      "end_date": "1948-09-16",
+      "location": null,
+      "importance": 3,
+      "quote": "人民解放军于一九四八年九月十六日晚，对济南守敌发起攻击。"
+    },
+    {
+      "id": 13117,
+      "article_id": 131,
+      "title": "第四点，其原文为：“淮海战役",
+      "description": "一九六○年出版本卷第一版时，删去了第四点，其原文为：“淮海战役的结果，将是开辟了苏北战场，山东苏北打成一片，邱李两兵团固守徐蚌一线及其周围，使我难于歼击。",
+      "date_text": "一九六○年",
+      "start_date": "1960-01-01",
+      "end_date": "1960-01-01",
+      "location": null,
+      "importance": 3,
+      "quote": "一九六○年出版本卷第一版时，删去了第四点，其原文为：“淮海战役的结果，将是开辟了苏北战场，山东苏北打成一片，邱李两兵团固守徐蚌一线及其周围，使我难于歼击。"
+    }
+  ],
+  "ideas": [
+    {
+      "id": 13151,
+      "article_id": 131,
+      "name": "人民战争",
+      "summary": "文章围绕“关于淮海战役的的作战方针”展开，强调人民战争在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "军事思想",
+      "quote": "关于淮海战役的的作战方针（一九四八年十月十一日）这是毛泽东为中共中央军事委员会起草的给华东野战军的电报。"
+    },
+    {
+      "id": 13152,
+      "article_id": 131,
+      "name": "群众路线",
+      "summary": "文章围绕“关于淮海战役的的作战方针”展开，强调群众路线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "此后，全国局势发生了对中国人民解放军有利的急剧变化，中原野战军奉命东进徐州、蚌埠地区，由华东野战军、中原野战军和华东、中原的地方部队共同作战。"
+    },
+    {
+      "id": 13153,
+      "article_id": 131,
+      "name": "矛盾方法",
+      "summary": "文章围绕“关于淮海战役的的作战方针”展开，强调矛盾方法在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "哲学方法论",
+      "quote": "〔2〕攻济打援，是指一九四八年九月人民解放军在济南战役中所采取的作战方法。"
+    },
+    {
+      "id": 13154,
+      "article_id": 131,
+      "name": "革命策略",
+      "summary": "文章围绕“关于淮海战役的的作战方针”展开，强调革命策略在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "革命策略",
+      "quote": "关于淮海战役的的作战方针（一九四八年十月十一日）这是毛泽东为中共中央军事委员会起草的给华东野战军的电报。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "毛泽东",
+      "type": "人物",
+      "description": "中国共产党和中华人民共和国的主要领导人，本文作者或讲话者。"
+    },
+    {
+      "name": "蒋介石",
+      "type": "人物",
+      "description": "国民党主要领导人，在多篇文章中作为政治和军事斗争对象出现。"
+    },
+    {
+      "name": "杜聿明",
+      "type": "人物",
+      "description": "国民党高级将领，在解放战争战役文献中被提及。"
+    },
+    {
+      "name": "国民党",
+      "type": "组织",
+      "description": "中国近现代主要政党之一，文章中常作为统一战线对象或批判对象出现。"
+    },
+    {
+      "name": "中共中央",
+      "type": "组织",
+      "description": "中国共产党中央领导机关的简称。"
+    },
+    {
+      "name": "中国人民解放军",
+      "type": "组织",
+      "description": "中国共产党领导的人民军队，在解放战争和建国后文献中频繁出现。"
+    },
+    {
+      "name": "中国",
+      "type": "地点",
+      "description": "文章讨论的革命、战争和建设的主要空间。"
+    },
+    {
+      "name": "东北",
+      "type": "地点",
+      "description": "中国重要区域，在抗战、解放战争和工业建设中被反复提及。"
+    },
+    {
+      "name": "华北",
+      "type": "地点",
+      "description": "中国北部地区，在抗战和解放战争中具有重要战略地位。"
+    },
+    {
+      "name": "南京",
+      "type": "地点",
+      "description": "中国重要城市，国民党政府相关叙述中常见。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 131,
+      "target_type": "Idea",
+      "target_id": 13151,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 131,
+      "target_type": "Idea",
+      "target_id": 13152,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 131,
+      "target_type": "Idea",
+      "target_id": 13153,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 131,
+      "target_type": "Idea",
+      "target_id": 13154,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 131,
+      "target_type": "Event",
+      "target_id": 13111,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 131,
+      "target_type": "Event",
+      "target_id": 13112,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 131,
+      "target_type": "Event",
+      "target_id": 13113,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 131,
+      "target_type": "Event",
+      "target_id": 13114,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 131,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 131,
+      "target_type": "Entity",
+      "target_id": "蒋介石",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 131,
+      "target_type": "Entity",
+      "target_id": "杜聿明",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 131,
+      "target_type": "Entity",
+      "target_id": "国民党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 131,
+      "target_type": "Entity",
+      "target_id": "中共中央",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 131,
+      "target_type": "Entity",
+      "target_id": "中国人民解放军",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 13151,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "支持"
+    }
+  ]
+}

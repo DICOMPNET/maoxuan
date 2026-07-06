@@ -1,0 +1,195 @@
+{
+  "article": {
+    "id": 125,
+    "title": "再克洛阳后给洛阳前线指挥部的电报",
+    "volume": "第四卷",
+    "date_text": "一九四八年四月八日",
+    "start_date": "1948-04-08",
+    "end_date": "1948-04-08",
+    "source": "这是毛泽东为中共中央起草的电报。因为它的内容不但适用于洛阳，也基本上适用于一切新解放的城市，所以这个电报同时发给了其他前线和其他地区的领导同志。"
+  },
+  "events": [
+    {
+      "id": 12511,
+      "article_id": 125,
+      "title": "人民解放",
+      "description": "人民解放军于一九四八年三月十四日首次攻克洛阳，以后为便于歼灭敌人有生力量，又主动撤出。",
+      "date_text": "一九四八年三月十四日",
+      "start_date": "1948-03-14",
+      "end_date": "1948-03-14",
+      "location": null,
+      "importance": 4,
+      "quote": "人民解放军于一九四八年三月十四日首次攻克洛阳，以后为便于歼灭敌人有生力量，又主动撤出。"
+    }
+  ],
+  "ideas": [
+    {
+      "id": 12551,
+      "article_id": 125,
+      "name": "阶级分析",
+      "summary": "文章围绕“再克洛阳后给洛阳前线指挥部的电报”展开，强调阶级分析在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "阶级分析",
+      "quote": "对于小官僚和地主所办的工商业，则不在没收之列。"
+    },
+    {
+      "id": 12552,
+      "article_id": 125,
+      "name": "人民战争",
+      "summary": "文章围绕“再克洛阳后给洛阳前线指挥部的电报”展开，强调人民战争在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "军事思想",
+      "quote": "在战争时期，能够继续生产，能够不减工时，维持原有工资水平，就是好事。"
+    },
+    {
+      "id": 12553,
+      "article_id": 125,
+      "name": "群众路线",
+      "summary": "文章围绕“再克洛阳后给洛阳前线指挥部的电报”展开，强调群众路线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "五、不要忙于组织城市人民进行民主改革和生活改善的斗争。"
+    },
+    {
+      "id": 12554,
+      "article_id": 125,
+      "name": "土地政策",
+      "summary": "文章围绕“再克洛阳后给洛阳前线指挥部的电报”展开，强调土地政策在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "农民问题",
+      "quote": "三、禁止农民团体进城捉拿和斗争地主。"
+    },
+    {
+      "id": 12555,
+      "article_id": 125,
+      "name": "经济建设",
+      "summary": "文章围绕“再克洛阳后给洛阳前线指挥部的电报”展开，强调经济建设在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "经济政策",
+      "quote": "二、对于官僚资本要有明确界限，不要将国民党人经营的工商业都叫作官僚资本而加以没收。"
+    },
+    {
+      "id": 12556,
+      "article_id": 125,
+      "name": "矛盾方法",
+      "summary": "文章围绕“再克洛阳后给洛阳前线指挥部的电报”展开，强调矛盾方法在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "哲学方法论",
+      "quote": "要等市政管理有了头绪，人心已经安定，经过周密调查，弄清情况和筹有妥善解决办法的时候，才可以按情况酌量处理。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "毛泽东",
+      "type": "人物",
+      "description": "中国共产党和中华人民共和国的主要领导人，本文作者或讲话者。"
+    },
+    {
+      "name": "国民党",
+      "type": "组织",
+      "description": "中国近现代主要政党之一，文章中常作为统一战线对象或批判对象出现。"
+    },
+    {
+      "name": "中共中央",
+      "type": "组织",
+      "description": "中国共产党中央领导机关的简称。"
+    },
+    {
+      "name": "中国共产党",
+      "type": "组织",
+      "description": "中国革命的领导力量，文章常围绕其路线、政策和组织建设展开。"
+    },
+    {
+      "name": "中国",
+      "type": "地点",
+      "description": "文章讨论的革命、战争和建设的主要空间。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 125,
+      "target_type": "Idea",
+      "target_id": 12551,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 125,
+      "target_type": "Idea",
+      "target_id": 12552,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 125,
+      "target_type": "Idea",
+      "target_id": 12553,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 125,
+      "target_type": "Idea",
+      "target_id": 12554,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 125,
+      "target_type": "Idea",
+      "target_id": 12555,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 125,
+      "target_type": "Idea",
+      "target_id": 12556,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 125,
+      "target_type": "Event",
+      "target_id": 12511,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 125,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 125,
+      "target_type": "Entity",
+      "target_id": "国民党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 125,
+      "target_type": "Entity",
+      "target_id": "中共中央",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 125,
+      "target_type": "Entity",
+      "target_id": "中国共产党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 125,
+      "target_type": "Entity",
+      "target_id": "中国",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 12551,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "支持"
+    }
+  ]
+}

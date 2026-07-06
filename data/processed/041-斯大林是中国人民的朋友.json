@@ -1,0 +1,203 @@
+{
+  "article": {
+    "id": 41,
+    "title": "斯大林是中国人民的朋友",
+    "volume": "第二卷",
+    "date_text": "一九三九年十二月二十日",
+    "start_date": "1939-12-20",
+    "end_date": "1939-12-20",
+    "source": null
+  },
+  "events": [
+    {
+      "id": 4111,
+      "article_id": 41,
+      "title": "文章论述的现实背景",
+      "description": "斯大林是中国人民的朋友（一九三九年十二月二十日）今年十二月二十一日，是斯大林同志的六十岁生日。",
+      "date_text": null,
+      "start_date": null,
+      "end_date": null,
+      "location": null,
+      "importance": 2,
+      "quote": "斯大林是中国人民的朋友（一九三九年十二月二十日）今年十二月二十一日，是斯大林同志的六十岁生日。"
+    },
+    {
+      "id": 4112,
+      "article_id": 41,
+      "title": "文章论述的现实背景",
+      "description": "这个生日，在全世界上，在只要是知道的又是革命的人们的心中，可以料得到，都会引起亲切的热烈的庆祝。",
+      "date_text": null,
+      "start_date": null,
+      "end_date": null,
+      "location": null,
+      "importance": 2,
+      "quote": "这个生日，在全世界上，在只要是知道的又是革命的人们的心中，可以料得到，都会引起亲切的热烈的庆祝。"
+    },
+    {
+      "id": 4113,
+      "article_id": 41,
+      "title": "文章论述的现实背景",
+      "description": "庆祝斯大林，这不是一件应景的事情。",
+      "date_text": null,
+      "start_date": null,
+      "end_date": null,
+      "location": null,
+      "importance": 2,
+      "quote": "庆祝斯大林，这不是一件应景的事情。"
+    }
+  ],
+  "ideas": [
+    {
+      "id": 4151,
+      "article_id": 41,
+      "name": "人民战争",
+      "summary": "文章围绕“斯大林是中国人民的朋友”展开，强调人民战争在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "军事思想",
+      "quote": "抗日战争以来，没有一个帝国主义国家的政府真正援助我们，只有苏联是用了空军和物资援助了我们。"
+    },
+    {
+      "id": 4152,
+      "article_id": 41,
+      "name": "群众路线",
+      "summary": "文章围绕“斯大林是中国人民的朋友”展开，强调群众路线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "斯大林是中国人民的朋友（一九三九年十二月二十日）今年十二月二十一日，是斯大林同志的六十岁生日。"
+    },
+    {
+      "id": 4153,
+      "article_id": 41,
+      "name": "国际形势",
+      "summary": "文章围绕“斯大林是中国人民的朋友”展开，强调国际形势在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "国际形势",
+      "quote": "这个生日，在全世界上，在只要是知道的又是革命的人们的心中，可以料得到，都会引起亲切的热烈的庆祝。"
+    },
+    {
+      "id": 4154,
+      "article_id": 41,
+      "name": "革命策略",
+      "summary": "文章围绕“斯大林是中国人民的朋友”展开，强调革命策略在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "革命策略",
+      "quote": "这个生日，在全世界上，在只要是知道的又是革命的人们的心中，可以料得到，都会引起亲切的热烈的庆祝。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "斯大林",
+      "type": "人物",
+      "description": "苏联领导人，在国际形势和社会主义阵营相关论述中被提及。"
+    },
+    {
+      "name": "苏联",
+      "type": "地点",
+      "description": "世界上第一个社会主义国家，文章常在国际形势中提及。"
+    },
+    {
+      "name": "中国",
+      "type": "地点",
+      "description": "文章讨论的革命、战争和建设的主要空间。"
+    },
+    {
+      "name": "抗日战争",
+      "type": "事件",
+      "description": "中国人民反抗日本侵略的民族解放战争。"
+    },
+    {
+      "name": "毛泽东",
+      "type": "人物",
+      "description": "中国共产党和中华人民共和国的主要领导人，本文作者或讲话者。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 41,
+      "target_type": "Idea",
+      "target_id": 4151,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 41,
+      "target_type": "Idea",
+      "target_id": 4152,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 41,
+      "target_type": "Idea",
+      "target_id": 4153,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 41,
+      "target_type": "Idea",
+      "target_id": 4154,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 41,
+      "target_type": "Event",
+      "target_id": 4111,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 41,
+      "target_type": "Event",
+      "target_id": 4112,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 41,
+      "target_type": "Event",
+      "target_id": 4113,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 41,
+      "target_type": "Entity",
+      "target_id": "斯大林",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 41,
+      "target_type": "Entity",
+      "target_id": "苏联",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 41,
+      "target_type": "Entity",
+      "target_id": "中国",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 41,
+      "target_type": "Entity",
+      "target_id": "抗日战争",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 41,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 4151,
+      "target_type": "Entity",
+      "target_id": "斯大林",
+      "relation_type": "支持"
+    }
+  ]
+}
