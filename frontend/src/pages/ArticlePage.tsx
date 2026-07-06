@@ -3,8 +3,9 @@ import { Link, useNavigate, useParams } from "react-router-dom";
 import ReactMarkdown from "react-markdown";
 
 import { api } from "../api/client";
+import ArticleInsightsPanel from "../components/ArticleInsightsPanel";
 import ArticleTOC from "../components/ArticleTOC";
-import type { Article, ArticleSummary } from "../types";
+import type { Article, ArticleInsights, ArticleSummary } from "../types";
 
 function stripMarkdown(text: string): string {
   return text
@@ -35,6 +36,7 @@ export default function ArticlePage() {
   const currentArticleId = Number(id ?? "0") || 0;
   const [articles, setArticles] = useState<Article[]>([]);
   const [article, setArticle] = useState<Article | null>(null);
+  const [insights, setInsights] = useState<ArticleInsights | null>(null);
   const [tocList, setTocList] = useState<ArticleSummary[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
@@ -50,6 +52,11 @@ export default function ArticlePage() {
         })
         .catch(() => setError("文章加载失败"))
         .finally(() => setLoading(false));
+      setInsights(null);
+      api
+        .articleInsights(Number(id))
+        .then(setInsights)
+        .catch(() => setInsights(null));
     } else {
       api
         .articles()
@@ -106,6 +113,14 @@ export default function ArticlePage() {
               <div className="article-body">
                 <ReactMarkdown>{article?.content ?? ""}</ReactMarkdown>
               </div>
+              {insights && (
+                <ArticleInsightsPanel
+                  articleId={currentArticleId}
+                  ideas={insights.ideas}
+                  events={insights.events}
+                  entities={insights.entities}
+                />
+              )}
               {(prevArticle || nextArticle) && (
                 <nav className="article-nav">
                   <div>

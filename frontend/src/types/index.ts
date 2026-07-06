@@ -46,6 +46,12 @@ export type Entity = {
   description?: string | null;
 };
 
+export type ArticleInsights = {
+  ideas: Idea[];
+  events: Event[];
+  entities: Entity[];
+};
+
 export type GraphNode = {
   id: string;
   name: string;

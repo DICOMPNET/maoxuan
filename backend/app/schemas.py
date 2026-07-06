@@ -89,6 +89,12 @@ class SearchResults(BaseModel):
     entities: list[EntityRead]
 
 
+class ArticleInsights(BaseModel):
+    ideas: list[IdeaRead]
+    events: list[EventRead]
+    entities: list[EntityRead]
+
+
 class ArticleSummary(BaseModel):
     model_config = ConfigDict(from_attributes=True)
 

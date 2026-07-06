@@ -1,5 +1,6 @@
 import type {
   Article,
+  ArticleInsights,
   ArticleSummary,
   Entity,
   Event,
@@ -32,6 +33,8 @@ export const api = {
   articleToc: () => getJson<ArticleSummary[]>("/api/articles/toc"),
   articles: () => getJson<Article[]>("/api/articles?limit=300"),
   article: (id: number) => getJson<Article>(`/api/articles/${id}`),
+  articleInsights: (id: number) =>
+    getJson<ArticleInsights>(`/api/articles/${id}/insights`),
 
   timeline: (articleId: number) =>
     getJson<Event[]>(`/api/events/timeline${qs({ article_id: articleId })}`),

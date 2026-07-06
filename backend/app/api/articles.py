@@ -6,7 +6,7 @@ from sqlmodel import Session, select
 from app import crud
 from app.database import get_session
 from app.models import Article
-from app.schemas import ArticleRead, ArticleSummary
+from app.schemas import ArticleInsights, ArticleRead, ArticleSummary
 
 router = APIRouter(prefix="/api/articles", tags=["articles"])
 
@@ -33,3 +33,14 @@ def read_article(article_id: int, session: Session = Depends(get_session)):
     if article is None:
         raise HTTPException(status_code=404, detail="Article not found")
     return article
+
+
+@router.get("/{article_id}/insights", response_model=ArticleInsights)
+def read_article_insights(article_id: int, session: Session = Depends(get_session)):
+    """Structured knowledge extracted from one article: ideas, events, linked entities."""
+    if crud.get_article(session, article_id) is None:
+        raise HTTPException(status_code=404, detail="Article not found")
+    events = crud.list_events(session, limit=500, sort="start_date", article_id=article_id)
+    ideas = crud.list_ideas(session, limit=500, article_id=article_id)
+    entities = crud.list_article_entities(session, article_id, events, ideas)
+    return ArticleInsights(ideas=ideas, events=events, entities=entities)

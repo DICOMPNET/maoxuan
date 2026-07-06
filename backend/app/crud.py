@@ -50,6 +50,36 @@ def list_entities(session: Session, limit: int = 100, offset: int = 0) -> list[E
     return list(session.exec(select(Entity).offset(offset).limit(limit)).all())
 
 
+def list_article_entities(
+    session: Session,
+    article_id: int,
+    events: list[Event],
+    ideas: list[Idea],
+) -> list[Entity]:
+    """Entities linked via relations to an article or its events/ideas."""
+    primary: set[tuple[str, int]] = {("article", article_id)}
+    primary.update(("event", ev.id) for ev in events)
+    primary.update(("idea", idea.id) for idea in ideas)
+
+    entity_ids: set[int] = set()
+    for r in list_relations(session, limit=5000):
+        source = (r.source_type.lower(), r.source_id)
+        target = (r.target_type.lower(), r.target_id)
+        if source in primary and target[0] == "entity":
+            entity_ids.add(target[1])
+        if target in primary and source[0] == "entity":
+            entity_ids.add(source[1])
+
+    if not entity_ids:
+        return []
+    statement = (
+        select(Entity)
+        .where(col(Entity.id).in_(entity_ids))
+        .order_by(Entity.type, Entity.name)
+    )
+    return list(session.exec(statement).all())
+
+
 def list_relations(session: Session, limit: int = 500, offset: int = 0) -> list[Relation]:
     return list(session.exec(select(Relation).offset(offset).limit(limit)).all())
 

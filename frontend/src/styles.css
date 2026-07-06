@@ -2360,6 +2360,104 @@ button {
 }
 
 /* ══════════════════════════════════════════════════
+   ARTICLE INSIGHTS (本篇知识)
+   ══════════════════════════════════════════════════ */
+.article-insights {
+  border-top: 1px solid var(--color-border-light);
+  margin-top: 40px;
+  padding-top: 20px;
+}
+
+.article-insights-head {
+  align-items: baseline;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: space-between;
+}
+
+.article-insights-head .muted {
+  font-size: var(--font-xs);
+  margin-top: 4px;
+}
+
+.insight-section {
+  margin-top: 24px;
+}
+
+.insight-section > h2 {
+  color: var(--color-text-primary);
+  font-size: var(--font-md);
+  margin: 0 0 12px;
+}
+
+.insight-card {
+  border: 1px solid var(--color-border-light);
+  border-radius: var(--radius-panel);
+  padding: 14px;
+}
+
+.insight-card p {
+  color: var(--color-text-secondary);
+  line-height: var(--lh-normal);
+  margin: 6px 0 0;
+}
+
+.insight-card blockquote {
+  margin-bottom: 0;
+}
+
+.insight-card-head {
+  align-items: baseline;
+  display: flex;
+  gap: 10px;
+  justify-content: space-between;
+}
+
+.insight-card-head h3 {
+  color: var(--color-text-primary);
+  font-size: var(--font-md);
+  margin: 0;
+}
+
+.insight-entity-group {
+  align-items: baseline;
+  display: flex;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+
+.insight-entity-type {
+  color: var(--color-text-faint);
+  flex-shrink: 0;
+  font-size: var(--font-xs);
+  font-weight: 600;
+}
+
+.insight-entity-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.insight-entity-chip {
+  background: var(--color-gold-surface);
+  border: 1px solid rgba(196,163,90,0.25);
+  border-radius: var(--radius-chip);
+  color: var(--color-text-secondary);
+  font-size: var(--font-xs);
+  font-weight: 600;
+  padding: 3px 10px;
+  text-decoration: none;
+  transition: border-color var(--t-base), color var(--t-base);
+}
+
+.insight-entity-chip:hover {
+  border-color: rgba(196,163,90,0.55);
+  color: var(--color-text-primary);
+}
+
+/* ══════════════════════════════════════════════════
    ARTICLE LIST — VOLUME GROUPS & CARDS
    ══════════════════════════════════════════════════ */
 .article-volume-group {
