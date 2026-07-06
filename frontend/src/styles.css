@@ -1618,6 +1618,59 @@ button {
   min-height: 0;
 }
 
+/* 地图图表容器：承载“全国范围”浮动徽章 */
+.map-chart-wrap {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  min-height: 0;
+  position: relative;
+}
+
+.map-nationwide {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  position: absolute;
+  right: 12px;
+  top: 10px;
+  z-index: 3;
+}
+
+.map-nationwide-chip {
+  background: rgba(247,242,230,0.92);
+  border: 1px solid var(--color-border-light);
+  border-radius: var(--radius-chip);
+  color: var(--color-text-secondary);
+  cursor: pointer;
+  font-size: var(--font-xs);
+  font-weight: 600;
+  padding: 5px 10px;
+  transition: border-color var(--t-base), color var(--t-base);
+}
+
+.map-nationwide-chip:hover {
+  border-color: rgba(196,163,90,0.55);
+  color: var(--color-text-primary);
+}
+
+.map-nationwide-chip.active {
+  border-color: var(--color-gold);
+  color: var(--color-text-primary);
+}
+
+.screen-panel-map .map-nationwide-chip {
+  background: rgba(20,14,12,0.82);
+  border-color: var(--screen-border);
+  color: var(--screen-muted);
+}
+
+.screen-panel-map .map-nationwide-chip:hover,
+.screen-panel-map .map-nationwide-chip.active {
+  border-color: var(--screen-red-bright);
+  color: var(--screen-text);
+}
+
 .timeline-module {
   position: relative;
   height: clamp(560px, calc(100vh - 280px), 760px);
@@ -1912,12 +1965,61 @@ button {
 .screen-grid {
   display: grid;
   gap: 14px;
-  grid-template-columns: minmax(0, 1.28fr) minmax(340px, 0.72fr);
+  grid-template-areas:
+    "life life focus"
+    "map timeline graph";
+  grid-template-columns: minmax(0, 0.78fr) minmax(0, 0.78fr) minmax(320px, 0.72fr);
   grid-template-rows: minmax(0, 1.08fr) minmax(0, 0.92fr);
   height: calc(100vh - 204px);
   min-height: 620px;
   position: relative;
   z-index: 1;
+}
+
+.screen-panel-life { grid-area: life; }
+.screen-panel-focus { grid-area: focus; }
+.screen-panel-map { grid-area: map; }
+.screen-panel-timeline { grid-area: timeline; }
+.screen-panel-graph { grid-area: graph; }
+
+.screen-life-board {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 18px 18px 12px;
+}
+
+.screen-life-board .responsive-chart {
+  min-height: 0;
+}
+
+.screen-life-status {
+  align-items: baseline;
+  border-top: 1px solid var(--screen-border);
+  color: var(--screen-muted);
+  display: flex;
+  font-size: 12px;
+  gap: 12px;
+  justify-content: space-between;
+  margin-top: 10px;
+  padding-top: 10px;
+}
+
+.screen-life-status strong {
+  color: var(--screen-text);
+  font-variant-numeric: tabular-nums;
+}
+
+.screen-life-status span {
+  align-items: baseline;
+  display: flex;
+  flex-shrink: 0;
+  gap: 12px;
+}
+
+.screen-life-status a {
+  color: var(--screen-red-bright);
+  font-weight: 700;
 }
 
 .screen-panel {
@@ -2105,10 +2207,23 @@ button {
   }
 
   .screen-grid {
+    grid-template-areas: none;
     grid-template-columns: 1fr;
     grid-template-rows: auto;
     height: auto;
     min-height: 0;
+  }
+
+  .screen-panel-life,
+  .screen-panel-focus,
+  .screen-panel-map,
+  .screen-panel-timeline,
+  .screen-panel-graph {
+    grid-area: auto;
+  }
+
+  .screen-panel-life .screen-life-board {
+    height: 520px;
   }
 
   .screen-panel-map .map-module,

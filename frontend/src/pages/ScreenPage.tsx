@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 
 import { api } from "../api/client";
 import GraphView from "../components/GraphView";
+import LifeTrajectoryBoard from "../components/LifeTrajectoryBoard";
 import MapView from "../components/MapView";
 import TimelineChart from "../components/TimelineChart";
 import type { Event, GraphNode, ScreenOverview } from "../types";
@@ -126,13 +127,8 @@ export default function ScreenPage() {
       </section>
 
       <section className="screen-grid">
-        <div className="screen-panel screen-panel-map">
-          <MapView
-            locations={overview.map_locations}
-            selectedLocationName={selectedLocationName}
-            onSelect={() => undefined}
-            variant="screen"
-          />
+        <div className="screen-panel screen-panel-life">
+          <LifeTrajectoryBoard />
         </div>
 
         <div className="screen-panel screen-panel-focus">
@@ -159,6 +155,15 @@ export default function ScreenPage() {
               </button>
             ))}
           </div>
+        </div>
+
+        <div className="screen-panel screen-panel-map">
+          <MapView
+            locations={overview.map_locations}
+            selectedLocationName={selectedLocationName}
+            onSelect={() => undefined}
+            variant="screen"
+          />
         </div>
 
         <div className="screen-panel screen-panel-timeline">

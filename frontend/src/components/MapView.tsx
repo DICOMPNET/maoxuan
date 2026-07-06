@@ -21,7 +21,10 @@ export default function MapView({
   const selectedLocation = locations.find((location) => location.name === selectedLocationName);
   const eventCount = locations.reduce((total, location) => total + location.event_count, 0);
   const provinceData = buildProvinceData(locations);
-  const pointData = locations.map((location) => ({
+  // “全国”类地点没有具体坐标含义，画成居中大点会盖住其他标记，改为浮动徽章展示
+  const nationwideLocations = locations.filter((location) => location.province === "全国");
+  const regionalLocations = locations.filter((location) => location.province !== "全国");
+  const pointData = regionalLocations.map((location) => ({
     name: location.name,
     province: location.province,
     value: [location.longitude, location.latitude, location.event_count],
@@ -94,7 +97,9 @@ export default function MapView({
         name: "地点事件",
         type: "scatter",
         coordinateSystem: "geo",
-        symbolSize: (value: [number, number, number]) => 14 + value[2] * 3,
+        // 事件数开方缩放并封顶，避免高频地点的大圆点盖住邻近标记
+        symbolSize: (value: [number, number, number]) =>
+          12 + Math.min(Math.sqrt(value[2]) * 5, 26),
         data: pointData,
         label: {
           show: true,
@@ -126,19 +131,36 @@ export default function MapView({
           <span>{eventCount} 个事件</span>
         </div>
       </div>
-      <ReactEChartsCore
-        echarts={echarts}
-        option={option}
-        className="responsive-chart map-chart"
-        style={{ height: "100%" }}
-        onEvents={{
-          click: (params: { seriesType?: string; name: string }) => {
-            if (params.seriesType !== "scatter") return;
-            const location = locations.find((item) => item.name === params.name);
-            if (location) onSelect(location);
-          },
-        }}
-      />
+      <div className="map-chart-wrap">
+        <ReactEChartsCore
+          echarts={echarts}
+          option={option}
+          className="responsive-chart map-chart"
+          style={{ height: "100%" }}
+          onEvents={{
+            click: (params: { seriesType?: string; name: string }) => {
+              if (params.seriesType !== "scatter") return;
+              const location = locations.find((item) => item.name === params.name);
+              if (location) onSelect(location);
+            },
+          }}
+        />
+        {nationwideLocations.length > 0 && (
+          <div className="map-nationwide">
+            {nationwideLocations.map((location) => (
+              <button
+                type="button"
+                key={location.id}
+                className={`map-nationwide-chip${location.name === selectedLocationName ? " active" : ""}`}
+                title={`时间：${formatRange(location)}`}
+                onClick={() => onSelect(location)}
+              >
+                {location.name} · 全国范围 · {location.event_count} 个事件
+              </button>
+            ))}
+          </div>
+        )}
+      </div>
       <div className="module-footer">
         当前选中：<strong>{selectedLocation?.name ?? "未选择地点"}</strong>
         {selectedLocation ? <span> · {selectedLocation.province} · {selectedLocation.event_count} 个事件</span> : null}
