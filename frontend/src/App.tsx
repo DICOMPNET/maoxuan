@@ -7,6 +7,7 @@ const ArticlePage = lazy(() => import("./pages/ArticlePage"));
 const DisclaimerPage = lazy(() => import("./pages/DisclaimerPage"));
 const GraphPage = lazy(() => import("./pages/GraphPage"));
 const IssuePage = lazy(() => import("./pages/IssuePage"));
+const LifeTrajectoryPage = lazy(() => import("./pages/LifeTrajectoryPage"));
 const MapPage = lazy(() => import("./pages/MapPage"));
 const SearchPage = lazy(() => import("./pages/SearchPage"));
 const ScreenPage = lazy(() => import("./pages/ScreenPage"));
@@ -30,6 +31,7 @@ function WorkspaceRoute({ children }: { children: ReactNode }) {
 
 const navItems = [
   { to: "/", label: "导读", code: "导" },
+  { to: "/life", label: "生平轨迹", code: "轨" },
   { to: "/timeline", label: "时间线", code: "时" },
   { to: "/map", label: "地图", code: "图" },
   { to: "/graph", label: "知识图谱", code: "谱" },
@@ -94,6 +96,7 @@ export default function App() {
           <Routes>
             <Route path="/" element={<GuidePage />} />
             <Route path="/guide" element={<GuidePage />} />
+            <Route path="/life" element={<WorkspaceRoute><LifeTrajectoryPage /></WorkspaceRoute>} />
             <Route path="/timeline" element={<WorkspaceRoute><TimelinePage /></WorkspaceRoute>} />
             <Route path="/map" element={<WorkspaceRoute><MapPage /></WorkspaceRoute>} />
             <Route path="/graph" element={<WorkspaceRoute><GraphPage /></WorkspaceRoute>} />

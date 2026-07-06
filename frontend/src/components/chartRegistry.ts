@@ -1,5 +1,5 @@
 import * as echarts from "echarts/core";
-import { GraphChart, MapChart, ScatterChart } from "echarts/charts";
+import { EffectScatterChart, GraphChart, LinesChart, MapChart, ScatterChart } from "echarts/charts";
 import {
   DataZoomComponent,
   GeoComponent,
@@ -14,10 +14,12 @@ import { CanvasRenderer } from "echarts/renderers";
 echarts.use([
   CanvasRenderer,
   DataZoomComponent,
+  EffectScatterChart,
   GeoComponent,
   GraphChart,
   GridComponent,
   LabelLayout,
+  LinesChart,
   LegendComponent,
   MapChart,
   ScatterChart,
