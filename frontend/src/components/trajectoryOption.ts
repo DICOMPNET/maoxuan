@@ -65,7 +65,11 @@ export function buildTrajectoryOption(
   stops: LifeStop[],
   selectedId: string | undefined,
   zoom: number,
-  { roam = true }: { roam?: boolean } = {},
+  {
+    roam = true,
+    layoutCenter = ["52%", "54%"],
+    layoutSize = "104%",
+  }: { roam?: boolean; layoutCenter?: [string, string]; layoutSize?: string } = {},
 ) {
   const zoomScale = Math.max(1, Math.min(zoom, 6));
   const widthScale = Math.min(1 + (zoomScale - 1) * 0.12, 1.7);
@@ -178,8 +182,8 @@ export function buildTrajectoryOption(
       map: "china",
       roam,
       scaleLimit: { min: 0.9, max: 6 },
-      layoutCenter: ["52%", "54%"],
-      layoutSize: "104%",
+      layoutCenter,
+      layoutSize,
       label: { show: true, color: "rgba(226,222,206,0.34)", fontSize: 9 },
       itemStyle: {
         areaColor: "#243740",

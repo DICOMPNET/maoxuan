@@ -30,7 +30,12 @@ export default function LifeTrajectoryBoard() {
   const current = revealedStops[revealedStops.length - 1];
 
   const option = useMemo(
-    () => buildTrajectoryOption(revealedStops, current?.id, 1, { roam: false }),
+    () =>
+      buildTrajectoryOption(revealedStops, current?.id, 1, {
+        roam: false,
+        layoutCenter: ["50%", "56%"],
+        layoutSize: "150%",
+      }),
     [revealedStops, current?.id],
   );
 
