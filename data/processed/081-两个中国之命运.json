@@ -1,0 +1,227 @@
+{
+  "article": {
+    "id": 81,
+    "title": "两个中国之命运",
+    "volume": "第三卷",
+    "date_text": "一九四五年四月二十三日",
+    "start_date": "1945-04-23",
+    "end_date": "1945-04-23",
+    "source": "这是毛泽东在中国共产党第七次全国代表大会上的开幕词。"
+  },
+  "events": [
+    {
+      "id": 8111,
+      "article_id": 81,
+      "title": "十四年了，其间经过了北伐战争",
+      "description": "中国共产党从一九二一年产生以来，已经二十四年了，其间经过了北伐战争、土地革命战争、抗日战争这样三个英勇奋斗的历史时期，积累了丰富的经验。",
+      "date_text": "一九二一年",
+      "start_date": "1921-01-01",
+      "end_date": "1921-01-01",
+      "location": "中国",
+      "importance": 4,
+      "quote": "中国共产党从一九二一年产生以来，已经二十四年了，其间经过了北伐战争、土地革命战争、抗日战争这样三个英勇奋斗的历史时期，积累了丰富的经验。"
+    }
+  ],
+  "ideas": [
+    {
+      "id": 8151,
+      "article_id": 81,
+      "name": "统一战线",
+      "summary": "文章围绕“两个中国之命运”展开，强调统一战线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "统一战线",
+      "quote": "这个大会是一个打败日本侵略者、建设新中国的大会，是一个团结全中国人民、团结全世界人民、争取最后胜利的大会。"
+    },
+    {
+      "id": 8152,
+      "article_id": 81,
+      "name": "人民战争",
+      "summary": "文章围绕“两个中国之命运”展开，强调人民战争在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "军事思想",
+      "quote": "世界反法西斯战争的主要的一部分是在西方，那里的战争很快就要胜利了，这是苏联红军努力的结果。"
+    },
+    {
+      "id": 8153,
+      "article_id": 81,
+      "name": "群众路线",
+      "summary": "文章围绕“两个中国之命运”展开，强调群众路线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "我们应该讲，我们这次大会是关系全中国四亿五千万人民命运的一次大会。"
+    },
+    {
+      "id": 8154,
+      "article_id": 81,
+      "name": "党的建设",
+      "summary": "文章围绕“两个中国之命运”展开，强调党的建设在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "这个大会是一个打败日本侵略者、建设新中国的大会，是一个团结全中国人民、团结全世界人民、争取最后胜利的大会。"
+    },
+    {
+      "id": 8155,
+      "article_id": 81,
+      "name": "土地政策",
+      "summary": "文章围绕“两个中国之命运”展开，强调土地政策在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "农民问题",
+      "quote": "中国共产党从一九二一年产生以来，已经二十四年了，其间经过了北伐战争、土地革命战争、抗日战争这样三个英勇奋斗的历史时期，积累了丰富的经验。"
+    },
+    {
+      "id": 8156,
+      "article_id": 81,
+      "name": "国际形势",
+      "summary": "文章围绕“两个中国之命运”展开，强调国际形势在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "国际形势",
+      "quote": "我们这个大会要打倒日本帝国主义，把全中国人民解放出来。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "毛泽东",
+      "type": "人物",
+      "description": "中国共产党和中华人民共和国的主要领导人，本文作者或讲话者。"
+    },
+    {
+      "name": "蒋介石",
+      "type": "人物",
+      "description": "国民党主要领导人，在多篇文章中作为政治和军事斗争对象出现。"
+    },
+    {
+      "name": "中国共产党",
+      "type": "组织",
+      "description": "中国革命的领导力量，文章常围绕其路线、政策和组织建设展开。"
+    },
+    {
+      "name": "国民党",
+      "type": "组织",
+      "description": "中国近现代主要政党之一，文章中常作为统一战线对象或批判对象出现。"
+    },
+    {
+      "name": "日本帝国主义",
+      "type": "组织",
+      "description": "发动侵华战争的日本军国主义侵略势力，是抗日文献中的主要敌人。"
+    },
+    {
+      "name": "苏联",
+      "type": "地点",
+      "description": "世界上第一个社会主义国家，文章常在国际形势中提及。"
+    },
+    {
+      "name": "日本",
+      "type": "地点",
+      "description": "侵华战争发动国，在抗日战争文献中频繁出现。"
+    },
+    {
+      "name": "中国",
+      "type": "地点",
+      "description": "文章讨论的革命、战争和建设的主要空间。"
+    },
+    {
+      "name": "抗日战争",
+      "type": "事件",
+      "description": "中国人民反抗日本侵略的民族解放战争。"
+    },
+    {
+      "name": "新民主主义",
+      "type": "概念",
+      "description": "中国革命阶段、政权和社会发展道路的重要理论。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 81,
+      "target_type": "Idea",
+      "target_id": 8151,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 81,
+      "target_type": "Idea",
+      "target_id": 8152,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 81,
+      "target_type": "Idea",
+      "target_id": 8153,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 81,
+      "target_type": "Idea",
+      "target_id": 8154,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 81,
+      "target_type": "Idea",
+      "target_id": 8155,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 81,
+      "target_type": "Idea",
+      "target_id": 8156,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 81,
+      "target_type": "Event",
+      "target_id": 8111,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 81,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 81,
+      "target_type": "Entity",
+      "target_id": "蒋介石",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 81,
+      "target_type": "Entity",
+      "target_id": "中国共产党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 81,
+      "target_type": "Entity",
+      "target_id": "国民党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 81,
+      "target_type": "Entity",
+      "target_id": "日本帝国主义",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 81,
+      "target_type": "Entity",
+      "target_id": "苏联",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 8151,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "支持"
+    }
+  ]
+}

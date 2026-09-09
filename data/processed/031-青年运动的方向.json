@@ -1,0 +1,246 @@
+{
+  "article": {
+    "id": 31,
+    "title": "青年运动的方向",
+    "volume": "第二卷",
+    "date_text": "一九三九年五月四日",
+    "start_date": "1939-05-04",
+    "end_date": "1939-05-04",
+    "source": "这是毛泽东在延安青年群众举行的五四运动二十周年纪念会上的讲演。毛泽东在这个讲演中发展了关于中国革命问题的思想。"
+  },
+  "events": [
+    {
+      "id": 3111,
+      "article_id": 31,
+      "title": "青年运动",
+      "description": "青年运动的方向（一九三九年五月四日）这是毛泽东在延安青年群众举行的五四运动二十周年纪念会上的讲演。",
+      "date_text": "一九三九年五月四日",
+      "start_date": "1939-05-04",
+      "end_date": "1939-05-04",
+      "location": "延安",
+      "importance": 4,
+      "quote": "青年运动的方向（一九三九年五月四日）这是毛泽东在延安青年群众举行的五四运动二十周年纪念会上的讲演。"
+    },
+    {
+      "id": 3112,
+      "article_id": 31,
+      "title": "中华人民共和国成立",
+      "description": "中华人民共和国成立以后，中央人民政府政务院在一九四九年十二月正式宣布以五月四日为中国青年节。",
+      "date_text": "一九四九年十二月",
+      "start_date": "1949-12-01",
+      "end_date": "1949-12-01",
+      "location": "中国",
+      "importance": 4,
+      "quote": "中华人民共和国成立以后，中央人民政府政务院在一九四九年十二月正式宣布以五月四日为中国青年节。"
+    }
+  ],
+  "ideas": [
+    {
+      "id": 3151,
+      "article_id": 31,
+      "name": "阶级分析",
+      "summary": "文章围绕“青年运动的方向”展开，强调阶级分析在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "阶级分析",
+      "quote": "革命的动力，有无产阶级，有农民阶级，还有其他阶级中一切愿意反帝反封建的人，他们都是反帝反封建的革命力量。"
+    },
+    {
+      "id": 3152,
+      "article_id": 31,
+      "name": "统一战线",
+      "summary": "文章围绕“青年运动的方向”展开，强调统一战线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "统一战线",
+      "quote": "积四十年之经验，深知欲达到此目的，必须唤起民众及联合世界上以平等待我之民族共同奋斗。"
+    },
+    {
+      "id": 3153,
+      "article_id": 31,
+      "name": "人民战争",
+      "summary": "文章围绕“青年运动的方向”展开，强调人民战争在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "军事思想",
+      "quote": "抗日战争就要努力达到这个由失败到胜利的转变点。"
+    },
+    {
+      "id": 3154,
+      "article_id": 31,
+      "name": "群众路线",
+      "summary": "文章围绕“青年运动的方向”展开，强调群众路线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "青年运动的方向（一九三九年五月四日）这是毛泽东在延安青年群众举行的五四运动二十周年纪念会上的讲演。"
+    },
+    {
+      "id": 3155,
+      "article_id": 31,
+      "name": "党的建设",
+      "summary": "文章围绕“青年运动的方向”展开，强调党的建设在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "你们要使全国青年知道现在的形势，实行团结，抗日到底。"
+    },
+    {
+      "id": 3156,
+      "article_id": 31,
+      "name": "土地政策",
+      "summary": "文章围绕“青年运动的方向”展开，强调土地政策在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "农民问题",
+      "quote": "革命的动力，有无产阶级，有农民阶级，还有其他阶级中一切愿意反帝反封建的人，他们都是反帝反封建的革命力量。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "毛泽东",
+      "type": "人物",
+      "description": "中国共产党和中华人民共和国的主要领导人，本文作者或讲话者。"
+    },
+    {
+      "name": "蒋介石",
+      "type": "人物",
+      "description": "国民党主要领导人，在多篇文章中作为政治和军事斗争对象出现。"
+    },
+    {
+      "name": "国民党",
+      "type": "组织",
+      "description": "中国近现代主要政党之一，文章中常作为统一战线对象或批判对象出现。"
+    },
+    {
+      "name": "中央人民政府",
+      "type": "组织",
+      "description": "中华人民共和国成立后的中央政权机关。"
+    },
+    {
+      "name": "日本帝国主义",
+      "type": "组织",
+      "description": "发动侵华战争的日本军国主义侵略势力，是抗日文献中的主要敌人。"
+    },
+    {
+      "name": "苏联",
+      "type": "地点",
+      "description": "世界上第一个社会主义国家，文章常在国际形势中提及。"
+    },
+    {
+      "name": "美国",
+      "type": "地点",
+      "description": "重要国际力量，在中国革命和国际形势论述中多次出现。"
+    },
+    {
+      "name": "日本",
+      "type": "地点",
+      "description": "侵华战争发动国，在抗日战争文献中频繁出现。"
+    },
+    {
+      "name": "中国",
+      "type": "地点",
+      "description": "文章讨论的革命、战争和建设的主要空间。"
+    },
+    {
+      "name": "延安",
+      "type": "地点",
+      "description": "中国共产党抗日战争时期的重要根据地和领导中心。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 31,
+      "target_type": "Idea",
+      "target_id": 3151,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 31,
+      "target_type": "Idea",
+      "target_id": 3152,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 31,
+      "target_type": "Idea",
+      "target_id": 3153,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 31,
+      "target_type": "Idea",
+      "target_id": 3154,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 31,
+      "target_type": "Idea",
+      "target_id": 3155,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 31,
+      "target_type": "Idea",
+      "target_id": 3156,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 31,
+      "target_type": "Event",
+      "target_id": 3111,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 31,
+      "target_type": "Event",
+      "target_id": 3112,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 31,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 31,
+      "target_type": "Entity",
+      "target_id": "蒋介石",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 31,
+      "target_type": "Entity",
+      "target_id": "国民党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 31,
+      "target_type": "Entity",
+      "target_id": "中央人民政府",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 31,
+      "target_type": "Entity",
+      "target_id": "日本帝国主义",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 31,
+      "target_type": "Entity",
+      "target_id": "苏联",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 3151,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "支持"
+    }
+  ]
+}

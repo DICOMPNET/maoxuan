@@ -1,0 +1,20 @@
+.DS_Store
+.idea
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+backend/uv.lock
+backend/maoxuan_knowledge_backend.egg-info/
+
+# Backend runtime data
+backend/data/*.db
+backend/data/*.db-*
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Environment
+.env

@@ -1,0 +1,236 @@
+{
+  "article": {
+    "id": 42,
+    "title": "纪念白求恩",
+    "volume": "第二卷",
+    "date_text": "一九三九年十二月二十一日",
+    "start_date": "1939-12-21",
+    "end_date": "1939-12-21",
+    "source": null
+  },
+  "events": [
+    {
+      "id": 4211,
+      "article_id": 42,
+      "title": "岁了，为了帮助中国的抗日战争",
+      "description": "纪念白求恩（一九三九年十二月二十一日）白求恩⑴同志是加拿大共产党员，五十多岁了，为了帮助中国的抗日战争，受加拿大共产党和美国共产党的派遣，不远万里，来到中国。",
+      "date_text": "一九三九年十二月二十一日",
+      "start_date": "1939-12-21",
+      "end_date": "1939-12-21",
+      "location": "美国",
+      "importance": 4,
+      "quote": "纪念白求恩（一九三九年十二月二十一日）白求恩⑴同志是加拿大共产党员，五十多岁了，为了帮助中国的抗日战争，受加拿大共产党和美国共产党的派遣，不远万里，来到中国。"
+    },
+    {
+      "id": 4212,
+      "article_id": 42,
+      "title": "一九三七年中国的抗日战争",
+      "description": "一九三七年中国的抗日战争爆发，他率领加拿大美国医疗队，于一九三八年初来中国，三月底到达延安，不久赴晋察冀边区，在那里工作了一年多。",
+      "date_text": "一九三七年",
+      "start_date": "1937-01-01",
+      "end_date": "1937-01-01",
+      "location": "美国",
+      "importance": 4,
+      "quote": "一九三七年中国的抗日战争爆发，他率领加拿大美国医疗队，于一九三八年初来中国，三月底到达延安，不久赴晋察冀边区，在那里工作了一年多。"
+    }
+  ],
+  "ideas": [
+    {
+      "id": 4251,
+      "article_id": 42,
+      "name": "阶级分析",
+      "summary": "文章围绕“纪念白求恩”展开，强调阶级分析在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "阶级分析",
+      "quote": "列宁主义认为：资本主义国家的无产阶级要拥护殖民地半殖民地人民的解放斗争，殖民地半殖民地的无产阶级要拥护资本主义国家的无产阶级的解放斗争，世界革命才能胜利⑵。"
+    },
+    {
+      "id": 4252,
+      "article_id": 42,
+      "name": "统一战线",
+      "summary": "文章围绕“纪念白求恩”展开，强调统一战线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "统一战线",
+      "quote": "我们要和一切资本主义国家的无产阶级联合起来，要和日本的、英国的、美国的、德国的、意大利的以及一切资本主义国家的无产阶级联合起来，才能打倒帝国主义，解放我们的民族和人民，解放世界的民族和人民。"
+    },
+    {
+      "id": 4253,
+      "article_id": 42,
+      "name": "人民战争",
+      "summary": "文章围绕“纪念白求恩”展开，强调人民战争在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "军事思想",
+      "quote": "纪念白求恩（一九三九年十二月二十一日）白求恩⑴同志是加拿大共产党员，五十多岁了，为了帮助中国的抗日战争，受加拿大共产党和美国共产党的派遣，不远万里，来到中国。"
+    },
+    {
+      "id": 4254,
+      "article_id": 42,
+      "name": "群众路线",
+      "summary": "文章围绕“纪念白求恩”展开，强调群众路线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "一个外国人，毫无利己的动机，把中国人民的解放事业当作他自己的事业，这是什么精神？"
+    },
+    {
+      "id": 4255,
+      "article_id": 42,
+      "name": "矛盾方法",
+      "summary": "文章围绕“纪念白求恩”展开，强调矛盾方法在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "哲学方法论",
+      "quote": "白求恩同志是实践了这一条列宁主义路线的。"
+    },
+    {
+      "id": 4256,
+      "article_id": 42,
+      "name": "国际形势",
+      "summary": "文章围绕“纪念白求恩”展开，强调国际形势在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "国际形势",
+      "quote": "纪念白求恩（一九三九年十二月二十一日）白求恩⑴同志是加拿大共产党员，五十多岁了，为了帮助中国的抗日战争，受加拿大共产党和美国共产党的派遣，不远万里，来到中国。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "白求恩",
+      "type": "人物",
+      "description": "加拿大共产党员、国际主义医生，是中国抗战时期的重要友人。"
+    },
+    {
+      "name": "中国共产党",
+      "type": "组织",
+      "description": "中国革命的领导力量，文章常围绕其路线、政策和组织建设展开。"
+    },
+    {
+      "name": "八路军",
+      "type": "组织",
+      "description": "抗日战争时期中国共产党领导的人民军队主力之一。"
+    },
+    {
+      "name": "美国",
+      "type": "地点",
+      "description": "重要国际力量，在中国革命和国际形势论述中多次出现。"
+    },
+    {
+      "name": "日本",
+      "type": "地点",
+      "description": "侵华战争发动国，在抗日战争文献中频繁出现。"
+    },
+    {
+      "name": "中国",
+      "type": "地点",
+      "description": "文章讨论的革命、战争和建设的主要空间。"
+    },
+    {
+      "name": "延安",
+      "type": "地点",
+      "description": "中国共产党抗日战争时期的重要根据地和领导中心。"
+    },
+    {
+      "name": "抗日战争",
+      "type": "事件",
+      "description": "中国人民反抗日本侵略的民族解放战争。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 42,
+      "target_type": "Idea",
+      "target_id": 4251,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 42,
+      "target_type": "Idea",
+      "target_id": 4252,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 42,
+      "target_type": "Idea",
+      "target_id": 4253,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 42,
+      "target_type": "Idea",
+      "target_id": 4254,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 42,
+      "target_type": "Idea",
+      "target_id": 4255,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 42,
+      "target_type": "Idea",
+      "target_id": 4256,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 42,
+      "target_type": "Event",
+      "target_id": 4211,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 42,
+      "target_type": "Event",
+      "target_id": 4212,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 42,
+      "target_type": "Entity",
+      "target_id": "白求恩",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 42,
+      "target_type": "Entity",
+      "target_id": "中国共产党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 42,
+      "target_type": "Entity",
+      "target_id": "八路军",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 42,
+      "target_type": "Entity",
+      "target_id": "美国",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 42,
+      "target_type": "Entity",
+      "target_id": "日本",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 42,
+      "target_type": "Entity",
+      "target_id": "中国",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 4251,
+      "target_type": "Entity",
+      "target_id": "白求恩",
+      "relation_type": "支持"
+    }
+  ]
+}

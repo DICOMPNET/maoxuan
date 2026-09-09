@@ -1,0 +1,296 @@
+{
+  "article": {
+    "id": 149,
+    "title": "向全国进军的命令",
+    "volume": "第四卷",
+    "date_text": "一九四九年四月二十一日",
+    "start_date": "1949-04-21",
+    "end_date": "1949-04-21",
+    "source": "这个命令是毛泽东起草的。在国民党反动政府拒绝签订国内和平协定以后，人民解放军遵照毛泽东主席和朱德总司令的这个命令，向尚未解放的广大地区，举行了规模空前的全面大进军。刘伯承、邓小平等领导的第二野战军和陈毅、粟裕、谭震林等领导的第三野战军，于一九四九年四月二十日夜起，至二十一日，在西起九江东北的湖口，东至江阴，长达五百余公里的战线上，强渡长江，彻底摧毁国民..."
+  },
+  "events": [
+    {
+      "id": 14911,
+      "article_id": 149,
+      "title": "八月十七日解放",
+      "description": "八月十七日解放福州，十月十七日解放厦门。",
+      "date_text": null,
+      "start_date": null,
+      "end_date": null,
+      "location": null,
+      "importance": 4,
+      "quote": "八月十七日解放福州，十月十七日解放厦门。"
+    },
+    {
+      "id": 14912,
+      "article_id": 149,
+      "title": "月间进行衡（阳）宝（庆）战役",
+      "description": "第四野战军在九、十月间进行衡（阳）宝（庆）战役，歼灭了国民党白崇禧军的主力以后，又向广东、广西进军。",
+      "date_text": null,
+      "start_date": null,
+      "end_date": null,
+      "location": null,
+      "importance": 4,
+      "quote": "第四野战军在九、十月间进行衡（阳）宝（庆）战役，歼灭了国民党白崇禧军的主力以后，又向广东、广西进军。"
+    },
+    {
+      "id": 14913,
+      "article_id": 149,
+      "title": "十月十四日解放",
+      "description": "十月十四日解放广州，十一月二十二日解放桂林，十二月四日解放南宁。",
+      "date_text": null,
+      "start_date": null,
+      "end_date": null,
+      "location": null,
+      "importance": 3,
+      "quote": "十月十四日解放广州，十一月二十二日解放桂林，十二月四日解放南宁。"
+    },
+    {
+      "id": 14914,
+      "article_id": 149,
+      "title": "一九四九年十二月底，人民解放",
+      "description": "到一九四九年十二月底，人民解放军已经全部歼灭了中国大陆上的国民党军队，解放了除西藏以外的全部中国大陆。",
+      "date_text": "一九四九年十二月",
+      "start_date": "1949-12-01",
+      "end_date": "1949-12-01",
+      "location": "中国",
+      "importance": 3,
+      "quote": "到一九四九年十二月底，人民解放军已经全部歼灭了中国大陆上的国民党军队，解放了除西藏以外的全部中国大陆。"
+    },
+    {
+      "id": 14915,
+      "article_id": 149,
+      "title": "治中为首的国民党政府和平谈判",
+      "description": "中国人民革命军事委员会主席毛泽东中国人民解放军总司令朱德------------------注释〔1〕一九四九年四月一日，以张治中为首的国民党政府和平谈判代表团到达北平，和中国共产党代表团进行谈判。",
+      "date_text": "一九四九年四月一日",
+      "start_date": "1949-04-01",
+      "end_date": "1949-04-01",
+      "location": "中国",
+      "importance": 3,
+      "quote": "中国人民革命军事委员会主席毛泽东中国人民解放军总司令朱德------------------注释〔1〕一九四九年四月一日，以张治中为首的国民党政府和平谈判代表团到达北平，和中国共产党代表团进行谈判。"
+    }
+  ],
+  "ideas": [
+    {
+      "id": 14951,
+      "article_id": 149,
+      "name": "阶级分析",
+      "summary": "文章围绕“向全国进军的命令”展开，强调阶级分析在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "阶级分析",
+      "quote": "第十七款在人民解放军尚未到达和接收的地区，南京国民政府所属的地方政府应负责保护农民群众的组织及其活动，不得压抑或破坏。"
+    },
+    {
+      "id": 14952,
+      "article_id": 149,
+      "name": "统一战线",
+      "summary": "文章围绕“向全国进军的命令”展开，强调统一战线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "统一战线",
+      "quote": "中国共产党曾于同年一月十四日发表声明，同意南京国民政府上项提议，并提议以惩办战争罪犯，废除伪宪法，废除伪法统，依据民主原则改编一切反动军队，没收官僚资本，实行土地改革，废除卖国条约，召集没有反动分子参加的新的政治协商会议成立民主联合政府，接收南京国民党反动政府及其所属各级政府的一切权力等八项条件为双方举行和平谈判的基础，此八项基础条件已为南京国民政府所同意。"
+    },
+    {
+      "id": 14953,
+      "article_id": 149,
+      "name": "人民战争",
+      "summary": "文章围绕“向全国进军的命令”展开，强调人民战争在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "军事思想",
+      "quote": "和第二、第三野战军进行渡江作战的同时，聂荣臻、徐向前等领导的华北各兵团，四月二十四日攻克太原。"
+    },
+    {
+      "id": 14954,
+      "article_id": 149,
+      "name": "群众路线",
+      "summary": "文章围绕“向全国进军的命令”展开，强调群众路线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "在国民党反动政府拒绝签订国内和平协定以后，人民解放军遵照毛泽东主席和朱德总司令的这个命令，向尚未解放的广大地区，举行了规模空前的全面大进军。"
+    },
+    {
+      "id": 14955,
+      "article_id": 149,
+      "name": "党的建设",
+      "summary": "文章围绕“向全国进军的命令”展开，强调党的建设在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "在开赴指定地点的行进中及到达后，南京国民政府所属武装部队应严格遵守纪律，不得破坏地方秩序。"
+    },
+    {
+      "id": 14956,
+      "article_id": 149,
+      "name": "土地政策",
+      "summary": "文章围绕“向全国进军的命令”展开，强调土地政策在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "农民问题",
+      "quote": "中国共产党曾于同年一月十四日发表声明，同意南京国民政府上项提议，并提议以惩办战争罪犯，废除伪宪法，废除伪法统，依据民主原则改编一切反动军队，没收官僚资本，实行土地改革，废除卖国条约，召集没有反动分子参加的新的政治协商会议成立民主联合政府，接收南京国民党反动政府及其所属各级政府的一切权力等八项条件为双方举行和平谈判的基础，此八项基础条件已为南京国民政府所同意。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "毛泽东",
+      "type": "人物",
+      "description": "中国共产党和中华人民共和国的主要领导人，本文作者或讲话者。"
+    },
+    {
+      "name": "蒋介石",
+      "type": "人物",
+      "description": "国民党主要领导人，在多篇文章中作为政治和军事斗争对象出现。"
+    },
+    {
+      "name": "冈村宁次",
+      "type": "人物",
+      "description": "日本侵华军高级将领，战后战争责任问题中被提及。"
+    },
+    {
+      "name": "中国共产党",
+      "type": "组织",
+      "description": "中国革命的领导力量，文章常围绕其路线、政策和组织建设展开。"
+    },
+    {
+      "name": "国民党",
+      "type": "组织",
+      "description": "中国近现代主要政党之一，文章中常作为统一战线对象或批判对象出现。"
+    },
+    {
+      "name": "中共中央",
+      "type": "组织",
+      "description": "中国共产党中央领导机关的简称。"
+    },
+    {
+      "name": "中国人民解放军",
+      "type": "组织",
+      "description": "中国共产党领导的人民军队，在解放战争和建国后文献中频繁出现。"
+    },
+    {
+      "name": "美国",
+      "type": "地点",
+      "description": "重要国际力量，在中国革命和国际形势论述中多次出现。"
+    },
+    {
+      "name": "日本",
+      "type": "地点",
+      "description": "侵华战争发动国，在抗日战争文献中频繁出现。"
+    },
+    {
+      "name": "中国",
+      "type": "地点",
+      "description": "文章讨论的革命、战争和建设的主要空间。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 149,
+      "target_type": "Idea",
+      "target_id": 14951,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 149,
+      "target_type": "Idea",
+      "target_id": 14952,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 149,
+      "target_type": "Idea",
+      "target_id": 14953,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 149,
+      "target_type": "Idea",
+      "target_id": 14954,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 149,
+      "target_type": "Idea",
+      "target_id": 14955,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 149,
+      "target_type": "Idea",
+      "target_id": 14956,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 149,
+      "target_type": "Event",
+      "target_id": 14911,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 149,
+      "target_type": "Event",
+      "target_id": 14912,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 149,
+      "target_type": "Event",
+      "target_id": 14913,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 149,
+      "target_type": "Event",
+      "target_id": 14914,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 149,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 149,
+      "target_type": "Entity",
+      "target_id": "蒋介石",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 149,
+      "target_type": "Entity",
+      "target_id": "冈村宁次",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 149,
+      "target_type": "Entity",
+      "target_id": "中国共产党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 149,
+      "target_type": "Entity",
+      "target_id": "国民党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 149,
+      "target_type": "Entity",
+      "target_id": "中共中央",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 14951,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "支持"
+    }
+  ]
+}

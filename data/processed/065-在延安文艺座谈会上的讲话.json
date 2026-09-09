@@ -1,0 +1,227 @@
+{
+  "article": {
+    "id": 65,
+    "title": "在延安文艺座谈会上的讲话",
+    "volume": "第三卷",
+    "date_text": "一九四二年五月",
+    "start_date": "1942-05-01",
+    "end_date": "1942-05-01",
+    "source": null
+  },
+  "events": [
+    {
+      "id": 6511,
+      "article_id": 65,
+      "title": "出版，内容是描写苏联国内战争",
+      "description": "他所作的小说《毁灭》于一九二七年出版，内容是描写苏联国内战争时期由苏联远东滨海边区工人、农民和革命知识分子所组成的一支游击队同国内反革命白卫军以及日本武装干涉军进行斗争的故事。",
+      "date_text": "一九二七年",
+      "start_date": "1927-01-01",
+      "end_date": "1927-01-01",
+      "location": "苏联",
+      "importance": 4,
+      "quote": "他所作的小说《毁灭》于一九二七年出版，内容是描写苏联国内战争时期由苏联远东滨海边区工人、农民和革命知识分子所组成的一支游击队同国内反革命白卫军以及日本武装干涉军进行斗争的故事。"
+    }
+  ],
+  "ideas": [
+    {
+      "id": 6551,
+      "article_id": 65,
+      "name": "阶级分析",
+      "summary": "文章围绕“在延安文艺座谈会上的讲话”展开，强调阶级分析在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "阶级分析",
+      "quote": "我们是站在无产阶级的和人民大众的立场。"
+    },
+    {
+      "id": 6552,
+      "article_id": 65,
+      "name": "统一战线",
+      "summary": "文章围绕“在延安文艺座谈会上的讲话”展开，强调统一战线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "统一战线",
+      "quote": "但是仅仅有这种军队是不够的，我们还要有文化的军队，这是团结自己、战胜敌人必不可少的一支军队。"
+    },
+    {
+      "id": 6553,
+      "article_id": 65,
+      "name": "人民战争",
+      "summary": "文章围绕“在延安文艺座谈会上的讲话”展开，强调人民战争在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "军事思想",
+      "quote": "我们要战胜敌人，首先要依靠手里拿枪的军队。"
+    },
+    {
+      "id": 6554,
+      "article_id": 65,
+      "name": "群众路线",
+      "summary": "文章围绕“在延安文艺座谈会上的讲话”展开，强调群众路线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "在我们为中国人民解放的斗争中，有各种的战线，就中也可以说有文武两个战线，这就是文化战线和军事战线。"
+    },
+    {
+      "id": 6555,
+      "article_id": 65,
+      "name": "党的建设",
+      "summary": "文章围绕“在延安文艺座谈会上的讲话”展开，强调党的建设在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "但是仅仅有这种军队是不够的，我们还要有文化的军队，这是团结自己、战胜敌人必不可少的一支军队。"
+    },
+    {
+      "id": 6556,
+      "article_id": 65,
+      "name": "土地政策",
+      "summary": "文章围绕“在延安文艺座谈会上的讲话”展开，强调土地政策在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "农民问题",
+      "quote": "无产阶级中还有许多人保留着小资产阶级的思想，农民和城市小资产阶级都有落后的思想，这些就是他们在斗争中的负担。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "国民党",
+      "type": "组织",
+      "description": "中国近现代主要政党之一，文章中常作为统一战线对象或批判对象出现。"
+    },
+    {
+      "name": "八路军",
+      "type": "组织",
+      "description": "抗日战争时期中国共产党领导的人民军队主力之一。"
+    },
+    {
+      "name": "新四军",
+      "type": "组织",
+      "description": "抗日战争时期中国共产党领导的人民军队之一。"
+    },
+    {
+      "name": "日本帝国主义",
+      "type": "组织",
+      "description": "发动侵华战争的日本军国主义侵略势力，是抗日文献中的主要敌人。"
+    },
+    {
+      "name": "苏联",
+      "type": "地点",
+      "description": "世界上第一个社会主义国家，文章常在国际形势中提及。"
+    },
+    {
+      "name": "日本",
+      "type": "地点",
+      "description": "侵华战争发动国，在抗日战争文献中频繁出现。"
+    },
+    {
+      "name": "中国",
+      "type": "地点",
+      "description": "文章讨论的革命、战争和建设的主要空间。"
+    },
+    {
+      "name": "延安",
+      "type": "地点",
+      "description": "中国共产党抗日战争时期的重要根据地和领导中心。"
+    },
+    {
+      "name": "陕甘宁边区",
+      "type": "地点",
+      "description": "抗日战争时期中国共产党领导的重要根据地。"
+    },
+    {
+      "name": "华北",
+      "type": "地点",
+      "description": "中国北部地区，在抗战和解放战争中具有重要战略地位。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 65,
+      "target_type": "Idea",
+      "target_id": 6551,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 65,
+      "target_type": "Idea",
+      "target_id": 6552,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 65,
+      "target_type": "Idea",
+      "target_id": 6553,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 65,
+      "target_type": "Idea",
+      "target_id": 6554,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 65,
+      "target_type": "Idea",
+      "target_id": 6555,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 65,
+      "target_type": "Idea",
+      "target_id": 6556,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 65,
+      "target_type": "Event",
+      "target_id": 6511,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 65,
+      "target_type": "Entity",
+      "target_id": "国民党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 65,
+      "target_type": "Entity",
+      "target_id": "八路军",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 65,
+      "target_type": "Entity",
+      "target_id": "新四军",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 65,
+      "target_type": "Entity",
+      "target_id": "日本帝国主义",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 65,
+      "target_type": "Entity",
+      "target_id": "苏联",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 65,
+      "target_type": "Entity",
+      "target_id": "日本",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 6551,
+      "target_type": "Entity",
+      "target_id": "国民党",
+      "relation_type": "反对"
+    }
+  ]
+}

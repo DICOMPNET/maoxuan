@@ -1,0 +1,195 @@
+{
+  "article": {
+    "id": 118,
+    "title": "新解放区土地改革要点",
+    "volume": "第四卷",
+    "date_text": "一九四八年二月十五日",
+    "start_date": "1948-02-15",
+    "end_date": "1948-02-15",
+    "source": "这是毛泽东为中共中央起草的对党内的指示。"
+  },
+  "events": [
+    {
+      "id": 11811,
+      "article_id": 118,
+      "title": "新解放",
+      "description": "新解放区土地改革要点（一九四八年二月十五日）这是毛泽东为中共中央起草的对党内的指示。",
+      "date_text": "一九四八年二月十五日",
+      "start_date": "1948-02-15",
+      "end_date": "1948-02-15",
+      "location": null,
+      "importance": 4,
+      "quote": "新解放区土地改革要点（一九四八年二月十五日）这是毛泽东为中共中央起草的对党内的指示。"
+    }
+  ],
+  "ideas": [
+    {
+      "id": 11851,
+      "article_id": 118,
+      "name": "阶级分析",
+      "summary": "文章围绕“新解放区土地改革要点”展开，强调阶级分析在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "阶级分析",
+      "quote": "第一阶段，打击地主，中立富农。"
+    },
+    {
+      "id": 11852,
+      "article_id": 118,
+      "name": "人民战争",
+      "summary": "文章围绕“新解放区土地改革要点”展开，强调人民战争在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "军事思想",
+      "quote": "在整个战略区是如此，在一个县内也是如此。"
+    },
+    {
+      "id": 11853,
+      "article_id": 118,
+      "name": "群众路线",
+      "summary": "文章围绕“新解放区土地改革要点”展开，强调群众路线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "一、不要性急，应依环境、群众觉悟程度和领导干部强弱决定土地改革工作进行的速度。"
+    },
+    {
+      "id": 11854,
+      "article_id": 118,
+      "name": "党的建设",
+      "summary": "文章围绕“新解放区土地改革要点”展开，强调党的建设在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "新解放区土地改革要点（一九四八年二月十五日）这是毛泽东为中共中央起草的对党内的指示。"
+    },
+    {
+      "id": 11855,
+      "article_id": 118,
+      "name": "土地政策",
+      "summary": "文章围绕“新解放区土地改革要点”展开，强调土地政策在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "农民问题",
+      "quote": "新解放区土地改革要点（一九四八年二月十五日）这是毛泽东为中共中央起草的对党内的指示。"
+    },
+    {
+      "id": 11856,
+      "article_id": 118,
+      "name": "经济建设",
+      "summary": "文章围绕“新解放区土地改革要点”展开，强调经济建设在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "经济政策",
+      "quote": "九、严格注意保护工商业。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "毛泽东",
+      "type": "人物",
+      "description": "中国共产党和中华人民共和国的主要领导人，本文作者或讲话者。"
+    },
+    {
+      "name": "中共中央",
+      "type": "组织",
+      "description": "中国共产党中央领导机关的简称。"
+    },
+    {
+      "name": "中国",
+      "type": "地点",
+      "description": "文章讨论的革命、战争和建设的主要空间。"
+    },
+    {
+      "name": "土地改革",
+      "type": "事件",
+      "description": "中国革命中废除封建土地制度、发动农民群众的重要运动。"
+    },
+    {
+      "name": "中国共产党",
+      "type": "组织",
+      "description": "中国革命的领导力量，文章常围绕其路线、政策和组织建设展开。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 118,
+      "target_type": "Idea",
+      "target_id": 11851,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 118,
+      "target_type": "Idea",
+      "target_id": 11852,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 118,
+      "target_type": "Idea",
+      "target_id": 11853,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 118,
+      "target_type": "Idea",
+      "target_id": 11854,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 118,
+      "target_type": "Idea",
+      "target_id": 11855,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 118,
+      "target_type": "Idea",
+      "target_id": 11856,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 118,
+      "target_type": "Event",
+      "target_id": 11811,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 118,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 118,
+      "target_type": "Entity",
+      "target_id": "中共中央",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 118,
+      "target_type": "Entity",
+      "target_id": "中国",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 118,
+      "target_type": "Entity",
+      "target_id": "土地改革",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 118,
+      "target_type": "Entity",
+      "target_id": "中国共产党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 11851,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "支持"
+    }
+  ]
+}

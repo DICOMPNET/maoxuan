@@ -1,0 +1,227 @@
+{
+  "article": {
+    "id": 44,
+    "title": "克服投降危险，力争时局好转",
+    "volume": "第二卷",
+    "date_text": "一九四○年一月二十八日",
+    "start_date": "1940-01-28",
+    "end_date": "1940-01-28",
+    "source": "这是毛泽东为中共中央起草的对党内的指示。"
+  },
+  "events": [
+    {
+      "id": 4411,
+      "article_id": 44,
+      "title": "月二十四日由国民党中央社发表",
+      "description": "〔2〕指一九四○年一月二十四日由国民党中央社发表的蒋介石《为〈日汪密约〉告全国军民书》。",
+      "date_text": "一九四○年一月二十四日",
+      "start_date": "1940-01-24",
+      "end_date": "1940-01-24",
+      "location": null,
+      "importance": 4,
+      "quote": "〔2〕指一九四○年一月二十四日由国民党中央社发表的蒋介石《为〈日汪密约〉告全国军民书》。"
+    }
+  ],
+  "ideas": [
+    {
+      "id": 4451,
+      "article_id": 44,
+      "name": "阶级分析",
+      "summary": "文章围绕“克服投降危险，力争时局好转”展开，强调阶级分析在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "阶级分析",
+      "quote": "大地主大资产阶级的投降方向和无产阶级、农民、城市小资产阶级、中等资产阶级的抗战方向，是对立的，双方在斗争中。"
+    },
+    {
+      "id": 4452,
+      "article_id": 44,
+      "name": "统一战线",
+      "summary": "文章围绕“克服投降危险，力争时局好转”展开，强调统一战线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "统一战线",
+      "quote": "如果没有这种精神，如果没有坚决反抗这些现象的正确方针，如果听任国民党顽固派的“军事限共”和“政治限共”发展下去，如果只从惧怕破裂统一战线一点设想，那末，抗战的前途就是危险的，投降和反共就将全国化，统一战线就有破裂的危险。"
+    },
+    {
+      "id": 4453,
+      "article_id": 44,
+      "name": "人民战争",
+      "summary": "文章围绕“克服投降危险，力争时局好转”展开，强调人民战争在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "军事思想",
+      "quote": "这些都是使国民党不易投降妥协和不易举行全国反共战争的国际条件。"
+    },
+    {
+      "id": 4454,
+      "article_id": 44,
+      "name": "群众路线",
+      "summary": "文章围绕“克服投降危险，力争时局好转”展开，强调群众路线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "（二）全国人民团结起来，打倒汉奸汪精卫，打倒汪精卫的伪中央；"
+    },
+    {
+      "id": 4455,
+      "article_id": 44,
+      "name": "党的建设",
+      "summary": "文章围绕“克服投降危险，力争时局好转”展开，强调党的建设在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "克服投降危险，力争时局好转（一九四○年一月二十八日）这是毛泽东为中共中央起草的对党内的指示。"
+    },
+    {
+      "id": 4456,
+      "article_id": 44,
+      "name": "土地政策",
+      "summary": "文章围绕“克服投降危险，力争时局好转”展开，强调土地政策在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "农民问题",
+      "quote": "大地主大资产阶级的投降方向和无产阶级、农民、城市小资产阶级、中等资产阶级的抗战方向，是对立的，双方在斗争中。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "毛泽东",
+      "type": "人物",
+      "description": "中国共产党和中华人民共和国的主要领导人，本文作者或讲话者。"
+    },
+    {
+      "name": "蒋介石",
+      "type": "人物",
+      "description": "国民党主要领导人，在多篇文章中作为政治和军事斗争对象出现。"
+    },
+    {
+      "name": "国民党",
+      "type": "组织",
+      "description": "中国近现代主要政党之一，文章中常作为统一战线对象或批判对象出现。"
+    },
+    {
+      "name": "中共中央",
+      "type": "组织",
+      "description": "中国共产党中央领导机关的简称。"
+    },
+    {
+      "name": "八路军",
+      "type": "组织",
+      "description": "抗日战争时期中国共产党领导的人民军队主力之一。"
+    },
+    {
+      "name": "新四军",
+      "type": "组织",
+      "description": "抗日战争时期中国共产党领导的人民军队之一。"
+    },
+    {
+      "name": "日本帝国主义",
+      "type": "组织",
+      "description": "发动侵华战争的日本军国主义侵略势力，是抗日文献中的主要敌人。"
+    },
+    {
+      "name": "苏联",
+      "type": "地点",
+      "description": "世界上第一个社会主义国家，文章常在国际形势中提及。"
+    },
+    {
+      "name": "日本",
+      "type": "地点",
+      "description": "侵华战争发动国，在抗日战争文献中频繁出现。"
+    },
+    {
+      "name": "中国",
+      "type": "地点",
+      "description": "文章讨论的革命、战争和建设的主要空间。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 44,
+      "target_type": "Idea",
+      "target_id": 4451,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 44,
+      "target_type": "Idea",
+      "target_id": 4452,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 44,
+      "target_type": "Idea",
+      "target_id": 4453,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 44,
+      "target_type": "Idea",
+      "target_id": 4454,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 44,
+      "target_type": "Idea",
+      "target_id": 4455,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 44,
+      "target_type": "Idea",
+      "target_id": 4456,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 44,
+      "target_type": "Event",
+      "target_id": 4411,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 44,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 44,
+      "target_type": "Entity",
+      "target_id": "蒋介石",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 44,
+      "target_type": "Entity",
+      "target_id": "国民党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 44,
+      "target_type": "Entity",
+      "target_id": "中共中央",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 44,
+      "target_type": "Entity",
+      "target_id": "八路军",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 44,
+      "target_type": "Entity",
+      "target_id": "新四军",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 4451,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "支持"
+    }
+  ]
+}

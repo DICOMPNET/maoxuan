@@ -1,0 +1,265 @@
+{
+  "article": {
+    "id": 55,
+    "title": "为皖南事变发表的命令和谈话",
+    "volume": "第二卷",
+    "date_text": "一九四一年一月二十日",
+    "start_date": "1941-01-20",
+    "end_date": "1941-01-20",
+    "source": null
+  },
+  "events": [
+    {
+      "id": 5511,
+      "article_id": 55,
+      "title": "为皖南事变",
+      "description": "为皖南事变发表的命令和谈话（一九四一年一月二十日）中国共产党中央革命军事委员会命令国民革命军新编第四军抗战有功，驰名中外。",
+      "date_text": "一九四一年一月二十日",
+      "start_date": "1941-01-20",
+      "end_date": "1941-01-20",
+      "location": "中国",
+      "importance": 4,
+      "quote": "为皖南事变发表的命令和谈话（一九四一年一月二十日）中国共产党中央革命军事委员会命令国民革命军新编第四军抗战有功，驰名中外。"
+    },
+    {
+      "id": 5512,
+      "article_id": 55,
+      "title": "党中央曾于前年七月七日的宣言",
+      "description": "中国共产党中央曾于前年七月七日的宣言上指出：投降是时局最大的危险，反共是投降的准备步骤。",
+      "date_text": null,
+      "start_date": null,
+      "end_date": null,
+      "location": "中国",
+      "importance": 4,
+      "quote": "中国共产党中央曾于前年七月七日的宣言上指出：投降是时局最大的危险，反共是投降的准备步骤。"
+    },
+    {
+      "id": 5513,
+      "article_id": 55,
+      "title": "在去年七月七日的宣言",
+      "description": "在去年七月七日的宣言中则说：“空前的投降危险和空前的抗战困难，已经到来了。",
+      "date_text": null,
+      "start_date": null,
+      "end_date": null,
+      "location": null,
+      "importance": 3,
+      "quote": "在去年七月七日的宣言中则说：“空前的投降危险和空前的抗战困难，已经到来了。"
+    }
+  ],
+  "ideas": [
+    {
+      "id": 5551,
+      "article_id": 55,
+      "name": "阶级分析",
+      "summary": "文章围绕“为皖南事变发表的命令和谈话”展开，强调阶级分析在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "阶级分析",
+      "quote": "盖中国软弱的大地主大资产阶级的政治代表们，没有后台老板，是一件小事也做不成的，何况如此惊天动地的大事？"
+    },
+    {
+      "id": 5552,
+      "article_id": 55,
+      "name": "统一战线",
+      "summary": "文章围绕“为皖南事变发表的命令和谈话”展开，强调统一战线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "统一战线",
+      "quote": "着陈代军长等悉心整饬该军，团结内部，协和军民，实行三民主义，遵循《总理遗嘱》，巩固并扩大抗日民族统一战线，为保卫民族国家、坚持抗战到底、防止亲日派袭击而奋斗。"
+    },
+    {
+      "id": 5553,
+      "article_id": 55,
+      "name": "人民战争",
+      "summary": "文章围绕“为皖南事变发表的命令和谈话”展开，强调人民战争在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "军事思想",
+      "quote": "除对亲日派破坏抗日、袭击人民军队、发动内战之滔天罪行，另有处置外，兹特任命陈毅为国民革命军新编第四军代理军长，张云逸为副军长，刘少奇为政治委员，赖传珠为参谋长，邓子恢为政治部主任。"
+    },
+    {
+      "id": 5554,
+      "article_id": 55,
+      "name": "群众路线",
+      "summary": "文章围绕“为皖南事变发表的命令和谈话”展开，强调群众路线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "除对亲日派破坏抗日、袭击人民军队、发动内战之滔天罪行，另有处置外，兹特任命陈毅为国民革命军新编第四军代理军长，张云逸为副军长，刘少奇为政治委员，赖传珠为参谋长，邓子恢为政治部主任。"
+    },
+    {
+      "id": 5555,
+      "article_id": 55,
+      "name": "党的建设",
+      "summary": "文章围绕“为皖南事变发表的命令和谈话”展开，强调党的建设在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "着陈代军长等悉心整饬该军，团结内部，协和军民，实行三民主义，遵循《总理遗嘱》，巩固并扩大抗日民族统一战线，为保卫民族国家、坚持抗战到底、防止亲日派袭击而奋斗。"
+    },
+    {
+      "id": 5556,
+      "article_id": 55,
+      "name": "矛盾方法",
+      "summary": "文章围绕“为皖南事变发表的命令和谈话”展开，强调矛盾方法在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "哲学方法论",
+      "quote": "至于重庆军委会发言人所说的那一篇，只好拿“自相矛盾”四个字批评它。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "蒋介石",
+      "type": "人物",
+      "description": "国民党主要领导人，在多篇文章中作为政治和军事斗争对象出现。"
+    },
+    {
+      "name": "中国共产党",
+      "type": "组织",
+      "description": "中国革命的领导力量，文章常围绕其路线、政策和组织建设展开。"
+    },
+    {
+      "name": "国民党",
+      "type": "组织",
+      "description": "中国近现代主要政党之一，文章中常作为统一战线对象或批判对象出现。"
+    },
+    {
+      "name": "中共中央",
+      "type": "组织",
+      "description": "中国共产党中央领导机关的简称。"
+    },
+    {
+      "name": "八路军",
+      "type": "组织",
+      "description": "抗日战争时期中国共产党领导的人民军队主力之一。"
+    },
+    {
+      "name": "新四军",
+      "type": "组织",
+      "description": "抗日战争时期中国共产党领导的人民军队之一。"
+    },
+    {
+      "name": "日本帝国主义",
+      "type": "组织",
+      "description": "发动侵华战争的日本军国主义侵略势力，是抗日文献中的主要敌人。"
+    },
+    {
+      "name": "苏联",
+      "type": "地点",
+      "description": "世界上第一个社会主义国家，文章常在国际形势中提及。"
+    },
+    {
+      "name": "日本",
+      "type": "地点",
+      "description": "侵华战争发动国，在抗日战争文献中频繁出现。"
+    },
+    {
+      "name": "中国",
+      "type": "地点",
+      "description": "文章讨论的革命、战争和建设的主要空间。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 55,
+      "target_type": "Idea",
+      "target_id": 5551,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 55,
+      "target_type": "Idea",
+      "target_id": 5552,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 55,
+      "target_type": "Idea",
+      "target_id": 5553,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 55,
+      "target_type": "Idea",
+      "target_id": 5554,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 55,
+      "target_type": "Idea",
+      "target_id": 5555,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 55,
+      "target_type": "Idea",
+      "target_id": 5556,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 55,
+      "target_type": "Event",
+      "target_id": 5511,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 55,
+      "target_type": "Event",
+      "target_id": 5512,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 55,
+      "target_type": "Event",
+      "target_id": 5513,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 55,
+      "target_type": "Entity",
+      "target_id": "蒋介石",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 55,
+      "target_type": "Entity",
+      "target_id": "中国共产党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 55,
+      "target_type": "Entity",
+      "target_id": "国民党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 55,
+      "target_type": "Entity",
+      "target_id": "中共中央",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 55,
+      "target_type": "Entity",
+      "target_id": "八路军",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 55,
+      "target_type": "Entity",
+      "target_id": "新四军",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 5551,
+      "target_type": "Entity",
+      "target_id": "蒋介石",
+      "relation_type": "支持"
+    }
+  ]
+}

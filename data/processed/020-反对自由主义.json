@@ -1,0 +1,195 @@
+{
+  "article": {
+    "id": 20,
+    "title": "反对自由主义",
+    "volume": "第二卷",
+    "date_text": "一九三七年九月七日",
+    "start_date": "1937-09-07",
+    "end_date": "1937-09-07",
+    "source": null
+  },
+  "events": [
+    {
+      "id": 2011,
+      "article_id": 20,
+      "title": "七日）我们主张积极的思想斗争",
+      "description": "反对自由主义（一九三七年九月七日）我们主张积极的思想斗争，因为它是达到党内和革命团体内的团结使之利于战斗的武器。",
+      "date_text": "一九三七年九月七日",
+      "start_date": "1937-09-07",
+      "end_date": "1937-09-07",
+      "location": null,
+      "importance": 4,
+      "quote": "反对自由主义（一九三七年九月七日）我们主张积极的思想斗争，因为它是达到党内和革命团体内的团结使之利于战斗的武器。"
+    }
+  ],
+  "ideas": [
+    {
+      "id": 2051,
+      "article_id": 20,
+      "name": "阶级分析",
+      "summary": "文章围绕“反对自由主义”展开，强调阶级分析在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "阶级分析",
+      "quote": "自由主义的来源，在于小资产阶级的自私自利性，以个人利益放在第一位，革命利益放在第二位，因此产生思想上、政治上、组织上的自由主义。"
+    },
+    {
+      "id": 2052,
+      "article_id": 20,
+      "name": "统一战线",
+      "summary": "文章围绕“反对自由主义”展开，强调统一战线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "统一战线",
+      "quote": "反对自由主义（一九三七年九月七日）我们主张积极的思想斗争，因为它是达到党内和革命团体内的团结使之利于战斗的武器。"
+    },
+    {
+      "id": 2053,
+      "article_id": 20,
+      "name": "群众路线",
+      "summary": "文章围绕“反对自由主义”展开，强调群众路线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "见群众不宣传，不鼓动，不演说，不调查，不询问，不关心其痛痒，漠然置之，忘记了自己是一个共产党员，把一个共产党员混同于一个普通的老百姓。"
+    },
+    {
+      "id": 2054,
+      "article_id": 20,
+      "name": "党的建设",
+      "summary": "文章围绕“反对自由主义”展开，强调党的建设在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "反对自由主义（一九三七年九月七日）我们主张积极的思想斗争，因为它是达到党内和革命团体内的团结使之利于战斗的武器。"
+    },
+    {
+      "id": 2055,
+      "article_id": 20,
+      "name": "矛盾方法",
+      "summary": "文章围绕“反对自由主义”展开，强调矛盾方法在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "哲学方法论",
+      "quote": "见群众不宣传，不鼓动，不演说，不调查，不询问，不关心其痛痒，漠然置之，忘记了自己是一个共产党员，把一个共产党员混同于一个普通的老百姓。"
+    },
+    {
+      "id": 2056,
+      "article_id": 20,
+      "name": "国际形势",
+      "summary": "文章围绕“反对自由主义”展开，强调国际形势在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "国际形势",
+      "quote": "但是自由主义取消思想斗争，主张无原则的和平，结果是腐朽庸俗的作风发生，使党和革命团体的某些组织和某些个人在政治上腐化起来。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "毛泽东",
+      "type": "人物",
+      "description": "中国共产党和中华人民共和国的主要领导人，本文作者或讲话者。"
+    },
+    {
+      "name": "中国共产党",
+      "type": "组织",
+      "description": "中国革命的领导力量，文章常围绕其路线、政策和组织建设展开。"
+    },
+    {
+      "name": "中国",
+      "type": "地点",
+      "description": "文章讨论的革命、战争和建设的主要空间。"
+    },
+    {
+      "name": "人民",
+      "type": "概念",
+      "description": "文章中代表广大群众和革命主体的重要概念。"
+    },
+    {
+      "name": "革命",
+      "type": "概念",
+      "description": "文章所讨论的政治斗争、社会变革和历史任务的核心概念。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 20,
+      "target_type": "Idea",
+      "target_id": 2051,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 20,
+      "target_type": "Idea",
+      "target_id": 2052,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 20,
+      "target_type": "Idea",
+      "target_id": 2053,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 20,
+      "target_type": "Idea",
+      "target_id": 2054,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 20,
+      "target_type": "Idea",
+      "target_id": 2055,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 20,
+      "target_type": "Idea",
+      "target_id": 2056,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 20,
+      "target_type": "Event",
+      "target_id": 2011,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 20,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 20,
+      "target_type": "Entity",
+      "target_id": "中国共产党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 20,
+      "target_type": "Entity",
+      "target_id": "中国",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 20,
+      "target_type": "Entity",
+      "target_id": "人民",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 20,
+      "target_type": "Entity",
+      "target_id": "革命",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 2051,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "支持"
+    }
+  ]
+}

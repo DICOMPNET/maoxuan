@@ -1,0 +1,250 @@
+{
+  "article": {
+    "id": 60,
+    "title": "揭破远东慕尼黑的阴谋",
+    "volume": "第三卷",
+    "date_text": "一九四一年五月二十五日",
+    "start_date": "1941-05-25",
+    "end_date": "1941-05-25",
+    "source": "这是毛泽东为中共中央写的对党内的指示。"
+  },
+  "events": [
+    {
+      "id": 6011,
+      "article_id": 60,
+      "title": "文章论述的现实背景",
+      "description": "揭破远东慕尼黑的阴谋（一九四一年五月二十五日）这是毛泽东为中共中央写的对党内的指示。",
+      "date_text": null,
+      "start_date": null,
+      "end_date": null,
+      "location": null,
+      "importance": 2,
+      "quote": "揭破远东慕尼黑的阴谋（一九四一年五月二十五日）这是毛泽东为中共中央写的对党内的指示。"
+    },
+    {
+      "id": 6012,
+      "article_id": 60,
+      "title": "文章论述的现实背景",
+      "description": "（一）日美妥协，牺牲中国，造成反共、反苏局面的东方慕尼黑的新阴谋，正在日美蒋之间酝酿着。",
+      "date_text": null,
+      "start_date": null,
+      "end_date": null,
+      "location": null,
+      "importance": 2,
+      "quote": "（一）日美妥协，牺牲中国，造成反共、反苏局面的东方慕尼黑的新阴谋，正在日美蒋之间酝酿着。"
+    },
+    {
+      "id": 6013,
+      "article_id": 60,
+      "title": "文章论述的现实背景",
+      "description": "我们必须揭穿它，反对它。",
+      "date_text": null,
+      "start_date": null,
+      "end_date": null,
+      "location": null,
+      "importance": 2,
+      "quote": "我们必须揭穿它，反对它。"
+    }
+  ],
+  "ideas": [
+    {
+      "id": 6051,
+      "article_id": 60,
+      "name": "统一战线",
+      "summary": "文章围绕“揭破远东慕尼黑的阴谋”展开，强调统一战线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "统一战线",
+      "quote": "（三）日本和军事进攻同时发动了谣言攻势，例如所谓“八路军不愿和国民党中央军配合作战”，“八路军乘机扩大地盘”，“打通国际路线”，“另立中央政府”等等。"
+    },
+    {
+      "id": 6052,
+      "article_id": 60,
+      "name": "人民战争",
+      "summary": "文章围绕“揭破远东慕尼黑的阴谋”展开，强调人民战争在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "军事思想",
+      "quote": "（三）日本和军事进攻同时发动了谣言攻势，例如所谓“八路军不愿和国民党中央军配合作战”，“八路军乘机扩大地盘”，“打通国际路线”，“另立中央政府”等等。"
+    },
+    {
+      "id": 6053,
+      "article_id": 60,
+      "name": "党的建设",
+      "summary": "文章围绕“揭破远东慕尼黑的阴谋”展开，强调党的建设在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "揭破远东慕尼黑的阴谋（一九四一年五月二十五日）这是毛泽东为中共中央写的对党内的指示。"
+    },
+    {
+      "id": 6054,
+      "article_id": 60,
+      "name": "国际形势",
+      "summary": "文章围绕“揭破远东慕尼黑的阴谋”展开，强调国际形势在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "国际形势",
+      "quote": "（二）日本帝国主义以迫蒋投降为目的的军事进攻，现已告一段落，继之而来的必然是诱降活动。"
+    },
+    {
+      "id": 6055,
+      "article_id": 60,
+      "name": "革命策略",
+      "summary": "文章围绕“揭破远东慕尼黑的阴谋”展开，强调革命策略在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "革命策略",
+      "quote": "这是敌人一打一拉、又打又拉的老政策的重演。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "毛泽东",
+      "type": "人物",
+      "description": "中国共产党和中华人民共和国的主要领导人，本文作者或讲话者。"
+    },
+    {
+      "name": "国民党",
+      "type": "组织",
+      "description": "中国近现代主要政党之一，文章中常作为统一战线对象或批判对象出现。"
+    },
+    {
+      "name": "中共中央",
+      "type": "组织",
+      "description": "中国共产党中央领导机关的简称。"
+    },
+    {
+      "name": "八路军",
+      "type": "组织",
+      "description": "抗日战争时期中国共产党领导的人民军队主力之一。"
+    },
+    {
+      "name": "新四军",
+      "type": "组织",
+      "description": "抗日战争时期中国共产党领导的人民军队之一。"
+    },
+    {
+      "name": "日本帝国主义",
+      "type": "组织",
+      "description": "发动侵华战争的日本军国主义侵略势力，是抗日文献中的主要敌人。"
+    },
+    {
+      "name": "日本",
+      "type": "地点",
+      "description": "侵华战争发动国，在抗日战争文献中频繁出现。"
+    },
+    {
+      "name": "中国",
+      "type": "地点",
+      "description": "文章讨论的革命、战争和建设的主要空间。"
+    },
+    {
+      "name": "华北",
+      "type": "地点",
+      "description": "中国北部地区，在抗战和解放战争中具有重要战略地位。"
+    },
+    {
+      "name": "抗日战争",
+      "type": "事件",
+      "description": "中国人民反抗日本侵略的民族解放战争。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 60,
+      "target_type": "Idea",
+      "target_id": 6051,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 60,
+      "target_type": "Idea",
+      "target_id": 6052,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 60,
+      "target_type": "Idea",
+      "target_id": 6053,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 60,
+      "target_type": "Idea",
+      "target_id": 6054,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 60,
+      "target_type": "Idea",
+      "target_id": 6055,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 60,
+      "target_type": "Event",
+      "target_id": 6011,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 60,
+      "target_type": "Event",
+      "target_id": 6012,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 60,
+      "target_type": "Event",
+      "target_id": 6013,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 60,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 60,
+      "target_type": "Entity",
+      "target_id": "国民党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 60,
+      "target_type": "Entity",
+      "target_id": "中共中央",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 60,
+      "target_type": "Entity",
+      "target_id": "八路军",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 60,
+      "target_type": "Entity",
+      "target_id": "新四军",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 60,
+      "target_type": "Entity",
+      "target_id": "日本帝国主义",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 6051,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "支持"
+    }
+  ]
+}

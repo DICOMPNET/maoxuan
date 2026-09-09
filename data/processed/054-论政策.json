@@ -1,0 +1,284 @@
+{
+  "article": {
+    "id": 54,
+    "title": "论政策",
+    "volume": "第二卷",
+    "date_text": "一九四○年十二月二十五日",
+    "start_date": "1940-12-25",
+    "end_date": "1940-12-25",
+    "source": "这是毛泽东为中共中央起草的对党内的指示。"
+  },
+  "events": [
+    {
+      "id": 5411,
+      "article_id": 54,
+      "title": "的反共磨擦和我们举行自卫斗争",
+      "description": "但是，自一九三九年冬季以来，由于国民党的反共磨擦和我们举行自卫斗争所引起的过左倾向，却是普遍地发生了。",
+      "date_text": "一九三九年",
+      "start_date": "1939-01-01",
+      "end_date": "1939-01-01",
+      "location": null,
+      "importance": 4,
+      "quote": "但是，自一九三九年冬季以来，由于国民党的反共磨擦和我们举行自卫斗争所引起的过左倾向，却是普遍地发生了。"
+    },
+    {
+      "id": 5412,
+      "article_id": 54,
+      "title": "一九三五年华北事变",
+      "description": "一九三五年华北事变后，任“冀察政务委员会”委员。",
+      "date_text": "一九三五年",
+      "start_date": "1935-01-01",
+      "end_date": "1935-01-01",
+      "location": "华北",
+      "importance": 4,
+      "quote": "一九三五年华北事变后，任“冀察政务委员会”委员。"
+    },
+    {
+      "id": 5413,
+      "article_id": 54,
+      "title": "一九三七年抗日战争",
+      "description": "一九三七年抗日战争爆发后，在华北充当日本帝国主义的傀儡。",
+      "date_text": "一九三七年",
+      "start_date": "1937-01-01",
+      "end_date": "1937-01-01",
+      "location": "日本",
+      "importance": 3,
+      "quote": "一九三七年抗日战争爆发后，在华北充当日本帝国主义的傀儡。"
+    },
+    {
+      "id": 5414,
+      "article_id": 54,
+      "title": "省西南部专门联合日本军队进攻",
+      "description": "一九三九年后，他任国民党第三十九集团军总司令，在河北省南部和山东省西南部专门联合日本军队进攻八路军，摧残抗日民主政权，屠杀共产党员和进步分子。",
+      "date_text": "一九三九年",
+      "start_date": "1939-01-01",
+      "end_date": "1939-01-01",
+      "location": "日本",
+      "importance": 3,
+      "quote": "一九三九年后，他任国民党第三十九集团军总司令，在河北省南部和山东省西南部专门联合日本军队进攻八路军，摧残抗日民主政权，屠杀共产党员和进步分子。"
+    }
+  ],
+  "ideas": [
+    {
+      "id": 5451,
+      "article_id": 54,
+      "name": "阶级分析",
+      "summary": "文章围绕“论政策”展开，强调阶级分析在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "阶级分析",
+      "quote": "尤其是土地革命的后期，由于不认识中国革命是半殖民地的资产阶级民主革命和革命的长期性这两个基本特点而产生的许多过左的政策，例如以为第五次“围剿”和反对第五次“围剿”的斗争是所谓革命和反革命两条道路的决战，在经济上消灭资产阶级（过左的劳动政策和税收政策）和富农（分坏田），在肉体上消灭地主（不分田），打击知识分子，肃反中的“左”倾，在政权工作中共产党员的完全独占，"
+    },
+    {
+      "id": 5452,
+      "article_id": 54,
+      "name": "统一战线",
+      "summary": "文章围绕“论政策”展开，强调统一战线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "统一战线",
+      "quote": "必须明白，在整个抗日战争时期，无论在何种情况下，我党的抗日民族统一战线的政策是决不会变更的；"
+    },
+    {
+      "id": 5453,
+      "article_id": 54,
+      "name": "人民战争",
+      "summary": "文章围绕“论政策”展开，强调人民战争在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "军事思想",
+      "quote": "必须明白，在整个抗日战争时期，无论在何种情况下，我党的抗日民族统一战线的政策是决不会变更的；"
+    },
+    {
+      "id": 5454,
+      "article_id": 54,
+      "name": "群众路线",
+      "summary": "文章围绕“论政策”展开，强调群众路线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "但是我们的干部，还有许多人不明白党在目前时期的政策应当和土地革命时期的政策有重大的区别。"
+    },
+    {
+      "id": 5455,
+      "article_id": 54,
+      "name": "党的建设",
+      "summary": "文章围绕“论政策”展开，强调党的建设在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "论政策（一九四○年十二月二十五日）这是毛泽东为中共中央起草的对党内的指示。"
+    },
+    {
+      "id": 5456,
+      "article_id": 54,
+      "name": "土地政策",
+      "summary": "文章围绕“论政策”展开，强调土地政策在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "农民问题",
+      "quote": "但是我们的干部，还有许多人不明白党在目前时期的政策应当和土地革命时期的政策有重大的区别。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "毛泽东",
+      "type": "人物",
+      "description": "中国共产党和中华人民共和国的主要领导人，本文作者或讲话者。"
+    },
+    {
+      "name": "中国共产党",
+      "type": "组织",
+      "description": "中国革命的领导力量，文章常围绕其路线、政策和组织建设展开。"
+    },
+    {
+      "name": "国民党",
+      "type": "组织",
+      "description": "中国近现代主要政党之一，文章中常作为统一战线对象或批判对象出现。"
+    },
+    {
+      "name": "中共中央",
+      "type": "组织",
+      "description": "中国共产党中央领导机关的简称。"
+    },
+    {
+      "name": "八路军",
+      "type": "组织",
+      "description": "抗日战争时期中国共产党领导的人民军队主力之一。"
+    },
+    {
+      "name": "新四军",
+      "type": "组织",
+      "description": "抗日战争时期中国共产党领导的人民军队之一。"
+    },
+    {
+      "name": "日本帝国主义",
+      "type": "组织",
+      "description": "发动侵华战争的日本军国主义侵略势力，是抗日文献中的主要敌人。"
+    },
+    {
+      "name": "美帝国主义",
+      "type": "组织",
+      "description": "文章中批判的美国帝国主义势力。"
+    },
+    {
+      "name": "苏联",
+      "type": "地点",
+      "description": "世界上第一个社会主义国家，文章常在国际形势中提及。"
+    },
+    {
+      "name": "日本",
+      "type": "地点",
+      "description": "侵华战争发动国，在抗日战争文献中频繁出现。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 54,
+      "target_type": "Idea",
+      "target_id": 5451,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 54,
+      "target_type": "Idea",
+      "target_id": 5452,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 54,
+      "target_type": "Idea",
+      "target_id": 5453,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 54,
+      "target_type": "Idea",
+      "target_id": 5454,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 54,
+      "target_type": "Idea",
+      "target_id": 5455,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 54,
+      "target_type": "Idea",
+      "target_id": 5456,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 54,
+      "target_type": "Event",
+      "target_id": 5411,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 54,
+      "target_type": "Event",
+      "target_id": 5412,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 54,
+      "target_type": "Event",
+      "target_id": 5413,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 54,
+      "target_type": "Event",
+      "target_id": 5414,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 54,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 54,
+      "target_type": "Entity",
+      "target_id": "中国共产党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 54,
+      "target_type": "Entity",
+      "target_id": "国民党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 54,
+      "target_type": "Entity",
+      "target_id": "中共中央",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 54,
+      "target_type": "Entity",
+      "target_id": "八路军",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 54,
+      "target_type": "Entity",
+      "target_id": "新四军",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 5451,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "支持"
+    }
+  ]
+}

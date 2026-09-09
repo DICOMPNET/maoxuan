@@ -1,0 +1,173 @@
+{
+  "article": {
+    "id": 129,
+    "title": "关于健全党委制",
+    "volume": "第四卷",
+    "date_text": "一九四八年九月二十日",
+    "start_date": "1948-09-20",
+    "end_date": "1948-09-20",
+    "source": "这是毛泽东为中共中央起草的决定。关于这个文件的意义，邓小平一九五六年九月十六日在中国共产党第八次全国代表大会上所作的《关于修改党的章程的报告》说：“在我们党内，从长时期以来，由党的集体而不由个人决定重大的问题，已经形成一个传统。违背集体领导原则的现象虽然在党内经常发生，但是这种现象一经发现，就受到党中央的批判和纠正。中央在一九四八年九月关于健全党委制的..."
+  },
+  "events": [
+    {
+      "id": 12911,
+      "article_id": 129,
+      "title": "文章论述的现实背景",
+      "description": "关于健全党委制（一九四八年九月二十日）这是毛泽东为中共中央起草的决定。",
+      "date_text": null,
+      "start_date": null,
+      "end_date": null,
+      "location": null,
+      "importance": 2,
+      "quote": "关于健全党委制（一九四八年九月二十日）这是毛泽东为中共中央起草的决定。"
+    },
+    {
+      "id": 12912,
+      "article_id": 129,
+      "title": "文章论述的现实背景",
+      "description": "关于这个文件的意义，邓小平一九五六年九月十六日在中国共产党第八次全国代表大会上所作的《关于修改党的章程的报告》说：“在我们党内，从长时期以来，由党的集体而不由个人决定重大的问题，已经形成一个传统。",
+      "date_text": null,
+      "start_date": null,
+      "end_date": null,
+      "location": null,
+      "importance": 2,
+      "quote": "关于这个文件的意义，邓小平一九五六年九月十六日在中国共产党第八次全国代表大会上所作的《关于修改党的章程的报告》说：“在我们党内，从长时期以来，由党的集体而不由个人决定重大的问题，已经形成一个传统。"
+    },
+    {
+      "id": 12913,
+      "article_id": 129,
+      "title": "文章论述的现实背景",
+      "description": "违背集体领导原则的现象虽然在党内经常发生，但是这种现象一经发现，就受到党中央的批判和纠正。",
+      "date_text": null,
+      "start_date": null,
+      "end_date": null,
+      "location": null,
+      "importance": 2,
+      "quote": "违背集体领导原则的现象虽然在党内经常发生，但是这种现象一经发现，就受到党中央的批判和纠正。"
+    }
+  ],
+  "ideas": [
+    {
+      "id": 12951,
+      "article_id": 129,
+      "name": "人民战争",
+      "summary": "文章围绕“关于健全党委制”展开，强调人民战争在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "军事思想",
+      "quote": "军队在作战时和情况需要时，首长有临机处置之权。"
+    },
+    {
+      "id": 12952,
+      "article_id": 129,
+      "name": "党的建设",
+      "summary": "文章围绕“关于健全党委制”展开，强调党的建设在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "关于健全党委制（一九四八年九月二十日）这是毛泽东为中共中央起草的决定。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "毛泽东",
+      "type": "人物",
+      "description": "中国共产党和中华人民共和国的主要领导人，本文作者或讲话者。"
+    },
+    {
+      "name": "中国共产党",
+      "type": "组织",
+      "description": "中国革命的领导力量，文章常围绕其路线、政策和组织建设展开。"
+    },
+    {
+      "name": "中共中央",
+      "type": "组织",
+      "description": "中国共产党中央领导机关的简称。"
+    },
+    {
+      "name": "中国",
+      "type": "地点",
+      "description": "文章讨论的革命、战争和建设的主要空间。"
+    },
+    {
+      "name": "人民",
+      "type": "概念",
+      "description": "文章中代表广大群众和革命主体的重要概念。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 129,
+      "target_type": "Idea",
+      "target_id": 12951,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 129,
+      "target_type": "Idea",
+      "target_id": 12952,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 129,
+      "target_type": "Event",
+      "target_id": 12911,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 129,
+      "target_type": "Event",
+      "target_id": 12912,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 129,
+      "target_type": "Event",
+      "target_id": 12913,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 129,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 129,
+      "target_type": "Entity",
+      "target_id": "中国共产党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 129,
+      "target_type": "Entity",
+      "target_id": "中共中央",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 129,
+      "target_type": "Entity",
+      "target_id": "中国",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 129,
+      "target_type": "Entity",
+      "target_id": "人民",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 12951,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "支持"
+    }
+  ]
+}

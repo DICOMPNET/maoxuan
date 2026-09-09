@@ -1,0 +1,246 @@
+{
+  "article": {
+    "id": 67,
+    "title": "第二次世界大战的转折点",
+    "volume": "第三卷",
+    "date_text": "一九四二年十月十二日",
+    "start_date": "1942-10-12",
+    "end_date": "1942-10-12",
+    "source": "这是毛泽东为延安《解放日报》写的社论。"
+  },
+  "events": [
+    {
+      "id": 6711,
+      "article_id": 67,
+      "title": "二日）这是毛泽东为延安《解放",
+      "description": "第二次世界大战的转折点（一九四二年十月十二日）这是毛泽东为延安《解放日报》写的社论。",
+      "date_text": "一九四二年十月十二日",
+      "start_date": "1942-10-12",
+      "end_date": "1942-10-12",
+      "location": "延安",
+      "importance": 4,
+      "quote": "第二次世界大战的转折点（一九四二年十月十二日）这是毛泽东为延安《解放日报》写的社论。"
+    },
+    {
+      "id": 6712,
+      "article_id": 67,
+      "title": "法国要塞凡尔登举行数度的进攻",
+      "description": "第一次世界大战结束于一九一八年冬，在一九一六年，德军曾向法国要塞凡尔登举行数度的进攻。",
+      "date_text": "一九一八年",
+      "start_date": "1918-01-01",
+      "end_date": "1918-01-01",
+      "location": null,
+      "importance": 4,
+      "quote": "第一次世界大战结束于一九一八年冬，在一九一六年，德军曾向法国要塞凡尔登举行数度的进攻。"
+    },
+    {
+      "id": 6713,
+      "article_id": 67,
+      "title": "科进攻的失败，结束了苏德战争",
+      "description": "去年十月向莫斯科进攻的失败，结束了苏德战争的第一阶段；",
+      "date_text": null,
+      "start_date": null,
+      "end_date": null,
+      "location": null,
+      "importance": 3,
+      "quote": "去年十月向莫斯科进攻的失败，结束了苏德战争的第一阶段；"
+    },
+    {
+      "id": 6714,
+      "article_id": 67,
+      "title": "已是十月，冬季就要到来，战争",
+      "description": "现在已是十月，冬季就要到来，战争的第三阶段快要结束，第四阶段快要开始了。",
+      "date_text": null,
+      "start_date": null,
+      "end_date": null,
+      "location": null,
+      "importance": 3,
+      "quote": "现在已是十月，冬季就要到来，战争的第三阶段快要结束，第四阶段快要开始了。"
+    },
+    {
+      "id": 6715,
+      "article_id": 67,
+      "title": "是在一八一二年进攻俄国的战争",
+      "description": "拿破仑一生征服过欧洲的许多国家，但是在一八一二年进攻俄国的战争中，在莫斯科遭到极大的失败，他的精锐部队几乎全部被消灭。",
+      "date_text": "一八一二年",
+      "start_date": "1812-01-01",
+      "end_date": "1812-01-01",
+      "location": null,
+      "importance": 3,
+      "quote": "拿破仑一生征服过欧洲的许多国家，但是在一八一二年进攻俄国的战争中，在莫斯科遭到极大的失败，他的精锐部队几乎全部被消灭。"
+    }
+  ],
+  "ideas": [
+    {
+      "id": 6751,
+      "article_id": 67,
+      "name": "人民战争",
+      "summary": "文章围绕“第二次世界大战的转折点”展开，强调人民战争在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "军事思想",
+      "quote": "整个法西斯势力的兴起及其进行了几年的侵略战争，正是这种最后挣扎的表现；"
+    },
+    {
+      "id": 6752,
+      "article_id": 67,
+      "name": "群众路线",
+      "summary": "文章围绕“第二次世界大战的转折点”展开，强调群众路线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "在这四十八天中，这个城市每天的胜负消息，紧系着无数千万、万万人民的呼吸，使他们忧愁，使他们欢乐。"
+    },
+    {
+      "id": 6753,
+      "article_id": 67,
+      "name": "国际形势",
+      "summary": "文章围绕“第二次世界大战的转折点”展开，强调国际形势在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "国际形势",
+      "quote": "第二次世界大战的转折点（一九四二年十月十二日）这是毛泽东为延安《解放日报》写的社论。"
+    },
+    {
+      "id": 6754,
+      "article_id": 67,
+      "name": "革命策略",
+      "summary": "文章围绕“第二次世界大战的转折点”展开，强调革命策略在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "革命策略",
+      "quote": "在人类历史上，凡属将要灭亡的反动势力，总是要向革命势力进行最后挣扎的，而有些革命的人们也往往在一个期间内被这种外强中干的现象所迷惑，看不出敌人快要消灭，自己快要胜利的实质。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "毛泽东",
+      "type": "人物",
+      "description": "中国共产党和中华人民共和国的主要领导人，本文作者或讲话者。"
+    },
+    {
+      "name": "斯大林",
+      "type": "人物",
+      "description": "苏联领导人，在国际形势和社会主义阵营相关论述中被提及。"
+    },
+    {
+      "name": "苏联",
+      "type": "地点",
+      "description": "世界上第一个社会主义国家，文章常在国际形势中提及。"
+    },
+    {
+      "name": "日本",
+      "type": "地点",
+      "description": "侵华战争发动国，在抗日战争文献中频繁出现。"
+    },
+    {
+      "name": "延安",
+      "type": "地点",
+      "description": "中国共产党抗日战争时期的重要根据地和领导中心。"
+    },
+    {
+      "name": "持久战",
+      "type": "概念",
+      "description": "关于抗日战争长期性、阶段性和最后胜利的军事思想。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 67,
+      "target_type": "Idea",
+      "target_id": 6751,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 67,
+      "target_type": "Idea",
+      "target_id": 6752,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 67,
+      "target_type": "Idea",
+      "target_id": 6753,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 67,
+      "target_type": "Idea",
+      "target_id": 6754,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 67,
+      "target_type": "Event",
+      "target_id": 6711,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 67,
+      "target_type": "Event",
+      "target_id": 6712,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 67,
+      "target_type": "Event",
+      "target_id": 6713,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 67,
+      "target_type": "Event",
+      "target_id": 6714,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 67,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 67,
+      "target_type": "Entity",
+      "target_id": "斯大林",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 67,
+      "target_type": "Entity",
+      "target_id": "苏联",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 67,
+      "target_type": "Entity",
+      "target_id": "日本",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 67,
+      "target_type": "Entity",
+      "target_id": "延安",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 67,
+      "target_type": "Entity",
+      "target_id": "持久战",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 6751,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "支持"
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "article": {
+    "id": 94,
+    "title": "关于重庆谈判",
+    "volume": "第四卷",
+    "date_text": "一九四五年十月十七日",
+    "start_date": "1945-10-17",
+    "end_date": "1945-10-17",
+    "source": "这是毛泽东从重庆回到延安以后，在延安干部会上的报告。"
+  },
+  "events": [
+    {
+      "id": 9411,
+      "article_id": 94,
+      "title": "关于重庆谈判",
+      "description": "关于重庆谈判（一九四五年十月十七日）这是毛泽东从重庆回到延安以后，在延安干部会上的报告。",
+      "date_text": "一九四五年十月十七日",
+      "start_date": "1945-10-17",
+      "end_date": "1945-10-17",
+      "location": "延安",
+      "importance": 4,
+      "quote": "关于重庆谈判（一九四五年十月十七日）这是毛泽东从重庆回到延安以后，在延安干部会上的报告。"
+    },
+    {
+      "id": 9412,
+      "article_id": 94,
+      "title": "原、榆次出发，侵入晋东南解放",
+      "description": "一九四五年八月中旬，国民党军阎锡山部集中十三个师的兵力，在日伪军的配合下，先后自临汾、浮山、翼城和太原、榆次出发，侵入晋东南解放区的襄垣、屯留、长治、潞城等地。",
+      "date_text": "一九四五年八月",
+      "start_date": "1945-08-01",
+      "end_date": "1945-08-01",
+      "location": null,
+      "importance": 4,
+      "quote": "一九四五年八月中旬，国民党军阎锡山部集中十三个师的兵力，在日伪军的配合下，先后自临汾、浮山、翼城和太原、榆次出发，侵入晋东南解放区的襄垣、屯留、长治、潞城等地。"
+    },
+    {
+      "id": 9413,
+      "article_id": 94,
+      "title": "展开自卫反击，举行了上党战役",
+      "description": "九月十日至十月十二日，解放区军民展开自卫反击，举行了上党战役。",
+      "date_text": null,
+      "start_date": null,
+      "end_date": null,
+      "location": null,
+      "importance": 3,
+      "quote": "九月十日至十月十二日，解放区军民展开自卫反击，举行了上党战役。"
+    },
+    {
+      "id": 9414,
+      "article_id": 94,
+      "title": "四五年止中国共产党同它作斗争",
+      "description": "〔3〕“积十八年之经验”，指自一九二七年国民党背叛革命起到一九四五年止中国共产党同它作斗争的经验。",
+      "date_text": "一九二七年",
+      "start_date": "1927-01-01",
+      "end_date": "1927-01-01",
+      "location": "中国",
+      "importance": 3,
+      "quote": "〔3〕“积十八年之经验”，指自一九二七年国民党背叛革命起到一九四五年止中国共产党同它作斗争的经验。"
+    },
+    {
+      "id": 9415,
+      "article_id": 94,
+      "title": "中、美、英、法五国外长会议",
+      "description": "〔7〕苏、中、美、英、法五国外长会议是根据一九四五年八月波茨坦协定而设立的，自一九四五年至一九四九年共举行六次会议。",
+      "date_text": "一九四五年八月",
+      "start_date": "1945-08-01",
+      "end_date": "1945-08-01",
+      "location": null,
+      "importance": 3,
+      "quote": "〔7〕苏、中、美、英、法五国外长会议是根据一九四五年八月波茨坦协定而设立的，自一九四五年至一九四九年共举行六次会议。"
+    },
+    {
+      "id": 9416,
+      "article_id": 94,
+      "title": "这里所说的伦敦五国外长会议",
+      "description": "这里所说的伦敦五国外长会议是指一九四五年九月十一日至十月二日在伦敦举行的第一次五国外长会议。",
+      "date_text": "一九四五年九月十一日",
+      "start_date": "1945-09-11",
+      "end_date": "1945-09-11",
+      "location": null,
+      "importance": 3,
+      "quote": "这里所说的伦敦五国外长会议是指一九四五年九月十一日至十月二日在伦敦举行的第一次五国外长会议。"
+    }
+  ],
+  "ideas": [
+    {
+      "id": 9451,
+      "article_id": 94,
+      "name": "阶级分析",
+      "summary": "文章围绕“关于重庆谈判”展开，强调阶级分析在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "阶级分析",
+      "quote": "在一九三七年，为了实现全国抗战，我们自动取消了工农革命政府的名称，红军也改名为国民革命军，还把没收地主土地改为减租减息。"
+    },
+    {
+      "id": 9452,
+      "article_id": 94,
+      "name": "统一战线",
+      "summary": "文章围绕“关于重庆谈判”展开，强调统一战线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "统一战线",
+      "quote": "国民党承认了和平团结的方针和人民的某些民主权利，承认了避免内战，两党和平合作建设新中国。"
+    },
+    {
+      "id": 9453,
+      "article_id": 94,
+      "name": "人民战争",
+      "summary": "文章围绕“关于重庆谈判”展开，强调人民战争在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "军事思想",
+      "quote": "解放区的问题没有解决，军队的问题实际上也没有解决。"
+    },
+    {
+      "id": 9454,
+      "article_id": 94,
+      "name": "群众路线",
+      "summary": "文章围绕“关于重庆谈判”展开，强调群众路线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "关于重庆谈判（一九四五年十月十七日）这是毛泽东从重庆回到延安以后，在延安干部会上的报告。"
+    },
+    {
+      "id": 9455,
+      "article_id": 94,
+      "name": "党的建设",
+      "summary": "文章围绕“关于重庆谈判”展开，强调党的建设在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "国民党承认了和平团结的方针和人民的某些民主权利，承认了避免内战，两党和平合作建设新中国。"
+    },
+    {
+      "id": 9456,
+      "article_id": 94,
+      "name": "土地政策",
+      "summary": "文章围绕“关于重庆谈判”展开，强调土地政策在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "农民问题",
+      "quote": "在一九三七年，为了实现全国抗战，我们自动取消了工农革命政府的名称，红军也改名为国民革命军，还把没收地主土地改为减租减息。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "毛泽东",
+      "type": "人物",
+      "description": "中国共产党和中华人民共和国的主要领导人，本文作者或讲话者。"
+    },
+    {
+      "name": "蒋介石",
+      "type": "人物",
+      "description": "国民党主要领导人，在多篇文章中作为政治和军事斗争对象出现。"
+    },
+    {
+      "name": "中国共产党",
+      "type": "组织",
+      "description": "中国革命的领导力量，文章常围绕其路线、政策和组织建设展开。"
+    },
+    {
+      "name": "国民党",
+      "type": "组织",
+      "description": "中国近现代主要政党之一，文章中常作为统一战线对象或批判对象出现。"
+    },
+    {
+      "name": "八路军",
+      "type": "组织",
+      "description": "抗日战争时期中国共产党领导的人民军队主力之一。"
+    },
+    {
+      "name": "苏联",
+      "type": "地点",
+      "description": "世界上第一个社会主义国家，文章常在国际形势中提及。"
+    },
+    {
+      "name": "美国",
+      "type": "地点",
+      "description": "重要国际力量，在中国革命和国际形势论述中多次出现。"
+    },
+    {
+      "name": "日本",
+      "type": "地点",
+      "description": "侵华战争发动国，在抗日战争文献中频繁出现。"
+    },
+    {
+      "name": "中国",
+      "type": "地点",
+      "description": "文章讨论的革命、战争和建设的主要空间。"
+    },
+    {
+      "name": "延安",
+      "type": "地点",
+      "description": "中国共产党抗日战争时期的重要根据地和领导中心。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 94,
+      "target_type": "Idea",
+      "target_id": 9451,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 94,
+      "target_type": "Idea",
+      "target_id": 9452,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 94,
+      "target_type": "Idea",
+      "target_id": 9453,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 94,
+      "target_type": "Idea",
+      "target_id": 9454,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 94,
+      "target_type": "Idea",
+      "target_id": 9455,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 94,
+      "target_type": "Idea",
+      "target_id": 9456,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 94,
+      "target_type": "Event",
+      "target_id": 9411,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 94,
+      "target_type": "Event",
+      "target_id": 9412,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 94,
+      "target_type": "Event",
+      "target_id": 9413,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 94,
+      "target_type": "Event",
+      "target_id": 9414,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 94,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 94,
+      "target_type": "Entity",
+      "target_id": "蒋介石",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 94,
+      "target_type": "Entity",
+      "target_id": "中国共产党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 94,
+      "target_type": "Entity",
+      "target_id": "国民党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 94,
+      "target_type": "Entity",
+      "target_id": "八路军",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 94,
+      "target_type": "Entity",
+      "target_id": "苏联",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 9451,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "支持"
+    }
+  ]
+}

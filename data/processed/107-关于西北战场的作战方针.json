@@ -1,0 +1,169 @@
+{
+  "article": {
+    "id": 107,
+    "title": "关于西北战场的作战方针",
+    "volume": "第四卷",
+    "date_text": "一九四七年四月十五日",
+    "start_date": "1947-04-15",
+    "end_date": "1947-04-15",
+    "source": "这是毛泽东给西北野战兵团（一九四七年七月改称西北野战军）的电报。西北战场的人民解放军，是由彭德怀、贺龙、习仲勋等领导的陕甘宁解放区和晋绥解放区的人民解放军所组成的。"
+  },
+  "events": [
+    {
+      "id": 10711,
+      "article_id": 107,
+      "title": "团共二千九百余人进入人民解放",
+      "description": "一九四七年三月二十五日，国民党军胡宗南部整编二十七师之三十一旅旅部率一个团共二千九百余人进入人民解放军伏击圈内，经过一个多小时的战斗，人民解放军将其全部歼灭。",
+      "date_text": "一九四七年三月二十五日",
+      "start_date": "1947-03-25",
+      "end_date": "1947-03-25",
+      "location": null,
+      "importance": 4,
+      "quote": "一九四七年三月二十五日，国民党军胡宗南部整编二十七师之三十一旅旅部率一个团共二千九百余人进入人民解放军伏击圈内，经过一个多小时的战斗，人民解放军将其全部歼灭。"
+    },
+    {
+      "id": 10712,
+      "article_id": 107,
+      "title": "月十一日清涧战斗中被人民解放",
+      "description": "〔2〕廖昂是国民党军胡宗南部整编七十六师师长，当时率部驻守于延川、清涧一带，后来在一九四七年十月十一日清涧战斗中被人民解放军活捉。",
+      "date_text": "一九四七年十月十一日",
+      "start_date": "1947-10-11",
+      "end_date": "1947-10-11",
+      "location": null,
+      "importance": 4,
+      "quote": "〔2〕廖昂是国民党军胡宗南部整编七十六师师长，当时率部驻守于延川、清涧一带，后来在一九四七年十月十一日清涧战斗中被人民解放军活捉。"
+    }
+  ],
+  "ideas": [
+    {
+      "id": 10751,
+      "article_id": 107,
+      "name": "人民战争",
+      "summary": "文章围绕“关于西北战场的作战方针”展开，强调人民战争在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "军事思想",
+      "quote": "关于西北战场的作战方针（一九四七年四月十五日）这是毛泽东给西北野战兵团（一九四七年七月改称西北野战军）的电报。"
+    },
+    {
+      "id": 10752,
+      "article_id": 107,
+      "name": "群众路线",
+      "summary": "文章围绕“关于西北战场的作战方针”展开，强调群众路线在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "党的建设",
+      "quote": "西北战场的人民解放军，是由彭德怀、贺龙、习仲勋等领导的陕甘宁解放区和晋绥解放区的人民解放军所组成的。"
+    },
+    {
+      "id": 10753,
+      "article_id": 107,
+      "name": "革命策略",
+      "summary": "文章围绕“关于西北战场的作战方针”展开，强调革命策略在具体历史条件下的作用。它把现实矛盾、群众力量和政策选择联系起来，要求用明确路线解决实际问题。这一主张服务于革命斗争、国家建设或党的领导实践，并反对脱离现实的错误倾向。",
+      "category": "革命策略",
+      "quote": "关于西北战场的作战方针（一九四七年四月十五日）这是毛泽东给西北野战兵团（一九四七年七月改称西北野战军）的电报。"
+    }
+  ],
+  "entities": [
+    {
+      "name": "毛泽东",
+      "type": "人物",
+      "description": "中国共产党和中华人民共和国的主要领导人，本文作者或讲话者。"
+    },
+    {
+      "name": "国民党",
+      "type": "组织",
+      "description": "中国近现代主要政党之一，文章中常作为统一战线对象或批判对象出现。"
+    },
+    {
+      "name": "中共中央",
+      "type": "组织",
+      "description": "中国共产党中央领导机关的简称。"
+    },
+    {
+      "name": "延安",
+      "type": "地点",
+      "description": "中国共产党抗日战争时期的重要根据地和领导中心。"
+    },
+    {
+      "name": "东北",
+      "type": "地点",
+      "description": "中国重要区域，在抗战、解放战争和工业建设中被反复提及。"
+    }
+  ],
+  "relations": [
+    {
+      "source_type": "Article",
+      "source_id": 107,
+      "target_type": "Idea",
+      "target_id": 10751,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 107,
+      "target_type": "Idea",
+      "target_id": 10752,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 107,
+      "target_type": "Idea",
+      "target_id": 10753,
+      "relation_type": "提出"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 107,
+      "target_type": "Event",
+      "target_id": 10711,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 107,
+      "target_type": "Event",
+      "target_id": 10712,
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 107,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 107,
+      "target_type": "Entity",
+      "target_id": "国民党",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 107,
+      "target_type": "Entity",
+      "target_id": "中共中央",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 107,
+      "target_type": "Entity",
+      "target_id": "延安",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Article",
+      "source_id": 107,
+      "target_type": "Entity",
+      "target_id": "东北",
+      "relation_type": "引用"
+    },
+    {
+      "source_type": "Idea",
+      "source_id": 10751,
+      "target_type": "Entity",
+      "target_id": "毛泽东",
+      "relation_type": "支持"
+    }
+  ]
+}
