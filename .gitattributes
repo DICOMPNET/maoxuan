@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# 样式文件冲突时自动保留本地版本（自定义样式不被上游覆盖）
+frontend/src/styles.css merge=ours
