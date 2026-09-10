@@ -34,33 +34,33 @@ npm run dev
 
 也可以使用 Docker 一键启动：`docker compose up -d`（`build.sh` 支持多平台镜像构建，`export.sh` 用于导出离线镜像包）。
 
-## 部署方案
+## 部署与维护
 
-### 宝塔面板部署
+本项目基于 Fork 自 [Leo0426/maoxuan-knowledge](https://github.com/Leo0426/maoxuan-knowledge)，样式做了自定义优化，并集成了百度统计。
 
-适用于使用宝塔面板管理的服务器。
+### 首次部署（宝塔面板 + Docker）
 
-**1. 前置准备**
+**1. 环境准备**
 
 宝塔软件商店安装：
 
 - Docker 管理器
+- Nginx
 
-**2. 上传项目**
+服务器安装 git：
 
-将整个项目上传到 `/www/wwwroot/maoxuan/`，结构：
-
+```bash
+yum install -y git
 ```
-/www/wwwroot/maoxuan/
-├── docker-compose.yml
-├── backend/
-├── frontend/
-└── data/
+
+**2. 克隆代码**
+
+```bash
+cd /www/wwwroot
+git clone https://github.com/DICOMPNET/maoxuan.git maoxuan
 ```
 
 **3. 启动容器**
-
-宝塔 → Docker → 容器编排 → 创建编排，选择 `docker-compose.yml`；或 SSH 执行：
 
 ```bash
 cd /www/wwwroot/maoxuan
@@ -106,29 +106,7 @@ nginx -t && nginx -s reload
 
 若使用 Cloudflare CDN，SSL/TLS 模式需设为「Full」或「Full (strict)」，避免回源死循环。
 
-### 生产环境注意事项
-
-**CORS**：`backend/app/main.py` 默认仅允许 `localhost:5173`。生产环境需修改：
-
-```python
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],  # 或指定域名
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
-```
-
-若前后端同站部署（Nginx 反代），可不开 CORS。
-
-**数据持久化**：SQLite 数据库位于 `backend/data/app.db`。Docker 部署时由 `backend_data` volume 持久化，`docker compose down` 不丢数据，`docker compose down -v` 会清除。
-
-**更新数据**：替换 `data/processed/*.json` 后，重启后端容器或手动执行 `python scripts/sync.py` 重新导入。
-
-**更新前端**：本地重新 `npm run build` 后覆盖 `dist/`，Docker 部署需 `docker compose up -d --build` 重新构建镜像。
-
-**验证**：
+**6. 验证**
 
 | 地址 | 期望 |
 |---|---|
@@ -136,11 +114,125 @@ app.add_middleware(
 | `https://域名/health` | `{"status":"ok"}` |
 | `https://域名/api/articles?limit=3` | 文章 JSON |
 
-**备份数据库**：
+百度统计验证：
+
+```bash
+curl -s https://域名 | grep hm.baidu.com
+```
+
+### 上游同步配置
+
+本项目 Fork 自上游，配置了自动同步上游内容，同时保留自定义样式。
+
+**1. 添加上游远程**
+
+```bash
+cd g:\DICOMP\maoxuan
+git remote add upstream https://github.com/Leo0426/maoxuan-knowledge.git
+git fetch upstream
+```
+
+**2. 样式文件自动保留**
+
+`.gitattributes` 已配置 `frontend/src/styles.css merge=ours`，合并上游时样式文件自动保留本地版本。
+
+启用 merge driver：
+
+```bash
+git config merge.ours.driver true
+```
+
+### 日常更新操作
+
+#### 场景一：同步上游内容更新
+
+原项目有新内容时，本地执行：
+
+```bash
+cd g:\DICOMP\maoxuan
+git fetch upstream
+git merge upstream/main
+git push origin main
+```
+
+服务器部署：
+
+```bash
+cd /www/wwwroot/maoxuan
+git pull
+docker compose up -d --build
+```
+
+> 样式文件（`styles.css`）会自动保留你的版本，无需手动处理冲突。其他文件（数据、后端、非样式前端代码）自动跟随上游。
+
+#### 场景二：仅更新自有代码/样式
+
+本地修改后：
+
+```bash
+cd g:\DICOMP\maoxuan
+git add -A
+git commit -m "更新说明"
+git push origin main
+```
+
+服务器部署：
+
+```bash
+cd /www/wwwroot/maoxuan
+git pull
+docker compose up -d --build
+```
+
+#### 场景三：仅更新文章数据
+
+替换 `data/processed/*.json` 后：
+
+```bash
+# 本地提交推送
+git add -A
+git commit -m "更新文章数据"
+git push origin main
+
+# 服务器拉取并重启后端（自动重新导入数据）
+cd /www/wwwroot/maoxuan
+git pull
+docker compose restart backend
+```
+
+### 数据持久化与备份
+
+SQLite 数据库由 Docker volume `maoxuan_backend_data` 持久化，`docker compose down` 不丢数据，`docker compose down -v` 会清除。
+
+**备份数据库：**
 
 ```bash
 docker run --rm -v maoxuan_backend_data:/data -v $(pwd):/backup alpine \
   tar czf /backup/maoxuan-db-$(date +%Y%m%d).tar.gz -C /data .
+```
+
+### 常用运维命令
+
+```bash
+cd /www/wwwroot/maoxuan
+
+# 查看容器状态
+docker compose ps
+
+# 查看日志
+docker compose logs -f
+
+# 重启服务
+docker compose restart
+
+# 停止服务
+docker compose down
+
+# 重新构建并启动
+docker compose up -d --build
+
+# 清理停止的容器
+docker container prune
 ```
 
 ## 使用说明

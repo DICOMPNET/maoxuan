@@ -37,7 +37,6 @@ const navItems = [
   { to: "/graph", label: "知识图谱", code: "谱" },
   { to: "/articles", label: "文章", code: "文" },
   { to: "/search", label: "搜索", code: "搜" },
-  { to: "/issue", label: "问题反馈", code: "馈" },
 ];
 
 export default function App() {
@@ -81,15 +80,15 @@ export default function App() {
         <header className="workspace-topbar">
           <div>
             <div className="eyebrow">档案工作台</div>
-            <div className="topbar-title">《毛泽东选集》知识可视化系统</div>
+            <div className="topbar-title">《毛泽东选集》知识图谱可视化平台</div>
           </div>
           <div className="topbar-actions">
             <NavLink className="screen-shortcut" to="/screen">
               展示大屏
             </NavLink>
-            <NavLink className="issue-shortcut" to="/issue">
-              提交问题
-            </NavLink>
+            <a className="issue-shortcut" href="https://more.dicomp.net/mx/" target="_blank" rel="noopener noreferrer">
+              图文注解版
+            </a>
           </div>
         </header>
         <main className="main-content">
