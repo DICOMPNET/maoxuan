@@ -34,6 +34,115 @@ npm run dev
 
 也可以使用 Docker 一键启动：`docker compose up -d`（`build.sh` 支持多平台镜像构建，`export.sh` 用于导出离线镜像包）。
 
+## 部署方案
+
+### 宝塔面板部署
+
+适用于使用宝塔面板管理的服务器。
+
+**1. 前置准备**
+
+宝塔软件商店安装：
+
+- Docker 管理器
+
+**2. 上传项目**
+
+将整个项目上传到 `/www/wwwroot/maoxuan/`，结构：
+
+```
+/www/wwwroot/maoxuan/
+├── docker-compose.yml
+├── backend/
+├── frontend/
+└── data/
+```
+
+**3. 启动容器**
+
+宝塔 → Docker → 容器编排 → 创建编排，选择 `docker-compose.yml`；或 SSH 执行：
+
+```bash
+cd /www/wwwroot/maoxuan
+docker compose up -d --build
+```
+
+确认两个容器运行中：`maoxuan-frontend-1`、`maoxuan-backend-1`。
+
+**4. 配置站点反代**
+
+宝塔 → 网站 → 添加站点：
+
+| 项 | 值 |
+|---|---|
+| 域名 | 你的域名 |
+| 根目录 | `/www/wwwroot/maoxuan` |
+| PHP | 纯静态 |
+
+站点设置 → 配置文件，将 `server {}` 内的 `location` 替换为：
+
+```nginx
+location / {
+    proxy_pass http://127.0.0.1:5173;
+    proxy_http_version 1.1;
+    proxy_set_header Host $host;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    proxy_set_header X-Forwarded-Proto $scheme;
+}
+```
+
+同时**注释掉**宝塔默认生成的静态资源缓存块（`location ~ .*\.(js|css|gif|jpg|...)$`）和 PHP 引用（`include enable-php-*.conf`），否则静态资源会被拦截导致 404。
+
+保存后重载 Nginx：
+
+```bash
+nginx -t && nginx -s reload
+```
+
+**5. SSL（可选）**
+
+站点设置 → SSL → Let's Encrypt 一键申请 → 开启强制 HTTPS。
+
+若使用 Cloudflare CDN，SSL/TLS 模式需设为「Full」或「Full (strict)」，避免回源死循环。
+
+### 生产环境注意事项
+
+**CORS**：`backend/app/main.py` 默认仅允许 `localhost:5173`。生产环境需修改：
+
+```python
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # 或指定域名
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+```
+
+若前后端同站部署（Nginx 反代），可不开 CORS。
+
+**数据持久化**：SQLite 数据库位于 `backend/data/app.db`。Docker 部署时由 `backend_data` volume 持久化，`docker compose down` 不丢数据，`docker compose down -v` 会清除。
+
+**更新数据**：替换 `data/processed/*.json` 后，重启后端容器或手动执行 `python scripts/sync.py` 重新导入。
+
+**更新前端**：本地重新 `npm run build` 后覆盖 `dist/`，Docker 部署需 `docker compose up -d --build` 重新构建镜像。
+
+**验证**：
+
+| 地址 | 期望 |
+|---|---|
+| `https://域名/` | 前端首页 |
+| `https://域名/health` | `{"status":"ok"}` |
+| `https://域名/api/articles?limit=3` | 文章 JSON |
+
+**备份数据库**：
+
+```bash
+docker run --rm -v maoxuan_backend_data:/data -v $(pwd):/backup alpine \
+  tar czf /backup/maoxuan-db-$(date +%Y%m%d).tar.gz -C /data .
+```
+
 ## 使用说明
 
 这个项目更适合以下几类场景：
