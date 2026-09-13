@@ -68,6 +68,18 @@ export default function App() {
               <span>{item.label}</span>
             </NavLink>
           ))}
+          <a href="https://people.dicomp.net/" target="_blank" rel="noopener noreferrer" className="nav-external">
+            <span className="nav-code">人</span>
+            <span>中国历代人物传记数据库</span>
+          </a>
+          <a href="https://dicomp.net/wenxian" target="_blank" rel="noopener noreferrer" className="nav-external">
+            <span className="nav-code">典</span>
+            <span>古典文献资源</span>
+          </a>
+          <a href="https://more.dicomp.net/ming/" target="_blank" rel="noopener noreferrer" className="nav-external">
+            <span className="nav-code">明</span>
+            <span>明朝那些事儿</span>
+          </a>
         </nav>
         <div className="side-footer">
           <div className="side-status">
@@ -92,6 +104,12 @@ export default function App() {
             </NavLink>
             <a className="issue-shortcut" href="https://more.dicomp.net/mx/" target="_blank" rel="noopener noreferrer">
               图文注解版
+            </a>
+            <a className="issue-shortcut" href="https://more.dicomp.net/shiji/" target="_blank" rel="noopener noreferrer">
+              史记知识库
+            </a>
+            <a className="issue-shortcut" href="https://zztj.dicomp.net/" target="_blank" rel="noopener noreferrer">
+              资治通鉴
             </a>
           </div>
         </header>

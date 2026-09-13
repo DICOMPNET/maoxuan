@@ -1372,6 +1372,27 @@ button {
   color: var(--color-text-inverse);
 }
 
+/* External link marker */
+.nav-external,
+.issue-shortcut {
+  align-items: center;
+  display: inline-flex;
+  gap: 6px;
+}
+
+.nav-external::after,
+.issue-shortcut::after {
+  background: currentColor;
+  content: "";
+  display: inline-block;
+  flex-shrink: 0;
+  height: 12px;
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='none'%3E%3Cpath d='M6.5 2H3.5C2.67 2 2 2.67 2 3.5v9c0 .83.67 1.5 1.5 1.5h9c.83 0 1.5-.67 1.5-1.5V9.5M9.5 2H14v4.5M14 2L6.5 9.5' stroke='%23000' stroke-width='1.4' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") center / 12px 12px no-repeat;
+          mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='none'%3E%3Cpath d='M6.5 2H3.5C2.67 2 2 2.67 2 3.5v9c0 .83.67 1.5 1.5 1.5h9c.83 0 1.5-.67 1.5-1.5V9.5M9.5 2H14v4.5M14 2L6.5 9.5' stroke='%23000' stroke-width='1.4' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") center / 12px 12px no-repeat;
+  opacity: 0.75;
+  width: 12px;
+}
+
 /* ══════════════════════════════════════════════════
    FORMS & INPUTS
    ══════════════════════════════════════════════════ */
