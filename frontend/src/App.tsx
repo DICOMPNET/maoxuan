@@ -1,6 +1,7 @@
 import { lazy, Suspense, type ReactNode } from "react";
 import { NavLink, Route, Routes, useLocation } from "react-router-dom";
 
+import BackToTop from "./components/BackToTop";
 import GuidePage from "./pages/GuidePage";
 
 const ArticlePage = lazy(() => import("./pages/ArticlePage"));
@@ -73,6 +74,9 @@ export default function App() {
             <div className="status-dot" />
             <span>本地档案已连接</span>
           </div>
+          <a href="mailto:dicomp@163.com" className="side-contact">
+            联系方式：dicomp@163.com
+          </a>
           <NavLink to="/disclaimer">免责声明</NavLink>
         </div>
       </aside>
@@ -107,6 +111,7 @@ export default function App() {
             <Route path="/disclaimer" element={<WorkspaceRoute><DisclaimerPage /></WorkspaceRoute>} />
           </Routes>
         </main>
+        <BackToTop />
       </div>
     </div>
   );
